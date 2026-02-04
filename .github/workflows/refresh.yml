@@ -19,15 +19,17 @@ jobs:
           python-version: "3.12"
 
       - name: Install deps
+        working-directory: "New project"
         run: pip install -r requirements.txt
 
       - name: Generate jobs
+        working-directory: "New project"
         run: python scripts/ai_app_spending_jobs.py
 
       - name: Commit updated output
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/jobs.json output/metadata.json output/jobs.csv || true
+          git add "New project/output/jobs.json" "New project/output/metadata.json" "New project/output/jobs.csv" || true
           git commit -m "Refresh jobs" || exit 0
           git push
