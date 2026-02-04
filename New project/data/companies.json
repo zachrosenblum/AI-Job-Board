@@ -1,0 +1,276 @@
+[
+  {
+    "name": "OpenAI",
+    "homepage": "https://openai.com",
+    "careers_urls": ["https://openai.com/careers/search"]
+  },
+  {
+    "name": "Anthropic",
+    "homepage": "https://www.anthropic.com",
+    "careers_urls": ["https://www.anthropic.com/careers/jobs"]
+  },
+  {
+    "name": "Replit",
+    "homepage": "https://replit.com",
+    "careers_urls": ["https://replit.com/careers"]
+  },
+  {
+    "name": "Freepik",
+    "homepage": "https://www.freepik.com",
+    "careers_urls": ["https://careers.freepik.com"]
+  },
+  {
+    "name": "ElevenLabs",
+    "homepage": "https://elevenlabs.io",
+    "careers_urls": ["https://elevenlabs.io/careers"]
+  },
+  {
+    "name": "Cursor",
+    "homepage": "https://www.cursor.com",
+    "careers_urls": ["https://www.cursor.com/careers"]
+  },
+  {
+    "name": "Fyxer.ai",
+    "homepage": "https://www.fyxer.ai",
+    "careers_urls": ["https://www.fyxer.ai/careers", "https://www.fyxer.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Lorikeet",
+    "homepage": "https://www.lorikeetcx.ai",
+    "careers_urls": ["https://www.lorikeetcx.ai/careers", "https://www.lorikeetcx.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "micro1",
+    "homepage": "https://www.micro1.ai",
+    "careers_urls": ["https://www.micro1.ai/careers"]
+  },
+  {
+    "name": "Notion",
+    "homepage": "https://www.notion.so",
+    "careers_urls": ["https://www.notion.so/careers"]
+  },
+  {
+    "name": "Delve",
+    "homepage": "https://www.delve.ai",
+    "careers_urls": ["https://www.delve.ai/careers", "https://www.delve.ai/jobs"],
+    "notes": "Company name is ambiguous; verify correct domain if needed."
+  },
+  {
+    "name": "Perplexity",
+    "homepage": "https://www.perplexity.ai",
+    "careers_urls": ["https://boards.greenhouse.io/perplexityai"]
+  },
+  {
+    "name": "Instantly",
+    "homepage": "https://instantly.ai",
+    "careers_urls": ["https://instantly.ai/careers", "https://instantly.ai/jobs"]
+  },
+  {
+    "name": "Customer.io",
+    "homepage": "https://customer.io",
+    "careers_urls": ["https://customer.io/careers"]
+  },
+  {
+    "name": "KlingAI",
+    "homepage": "https://klingai.com",
+    "careers_urls": ["https://klingai.com/careers", "https://klingai.com/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Retell AI",
+    "homepage": "https://www.retellai.com",
+    "careers_urls": ["https://www.retellai.com/careers", "https://www.retellai.com/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Canva",
+    "homepage": "https://www.canva.com",
+    "careers_urls": ["https://www.canva.com/careers"]
+  },
+  {
+    "name": "Lovable",
+    "homepage": "https://lovable.dev",
+    "careers_urls": ["https://lovable.dev/careers", "https://lovable.dev/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Metaview",
+    "homepage": "https://metaview.ai",
+    "careers_urls": ["https://metaview.ai/careers", "https://metaview.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Adept",
+    "homepage": "https://www.adept.ai",
+    "careers_urls": ["https://www.adept.ai/careers"]
+  },
+  {
+    "name": "Glean",
+    "homepage": "https://www.glean.com",
+    "careers_urls": ["https://www.glean.com/careers"]
+  },
+  {
+    "name": "Photoroom",
+    "homepage": "https://www.photoroom.com",
+    "careers_urls": ["https://www.photoroom.com/careers", "https://www.photoroom.com/jobs"]
+  },
+  {
+    "name": "Solve Intelligence",
+    "homepage": "https://www.solveintelligence.com",
+    "careers_urls": ["https://www.solveintelligence.com/careers", "https://www.solveintelligence.com/jobs"]
+  },
+  {
+    "name": "Gamma",
+    "homepage": "https://gamma.app",
+    "careers_urls": ["https://gamma.app/careers", "https://gamma.app/jobs"]
+  },
+  {
+    "name": "Clay",
+    "homepage": "https://www.clay.com",
+    "careers_urls": ["https://www.clay.com/careers"]
+  },
+  {
+    "name": "Cluely",
+    "homepage": "https://cluely.com",
+    "careers_urls": ["https://cluely.com/careers", "https://cluely.com/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Crosby",
+    "homepage": "https://crosby.ai",
+    "careers_urls": ["https://crosby.ai/careers", "https://crosby.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Midjourney",
+    "homepage": "https://www.midjourney.com",
+    "careers_urls": ["https://www.midjourney.com/jobs"]
+  },
+  {
+    "name": "Combinely",
+    "homepage": "https://combinely.ai",
+    "careers_urls": ["https://combinely.ai/careers", "https://combinely.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Merlin",
+    "homepage": "https://www.getmerlin.in",
+    "careers_urls": ["https://www.getmerlin.in/careers", "https://www.getmerlin.in/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Descript",
+    "homepage": "https://www.descript.com",
+    "careers_urls": ["https://www.descript.com/careers"]
+  },
+  {
+    "name": "Grammarly",
+    "homepage": "https://www.grammarly.com",
+    "careers_urls": ["https://www.grammarly.com/careers"]
+  },
+  {
+    "name": "Manus",
+    "homepage": "https://www.manus.is",
+    "careers_urls": ["https://www.manus.is/careers", "https://www.manus.is/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Cognition",
+    "homepage": "https://cognition.ai",
+    "careers_urls": ["https://cognition.ai/careers"]
+  },
+  {
+    "name": "OpusClip",
+    "homepage": "https://www.opus.pro",
+    "careers_urls": ["https://www.opus.pro/careers", "https://www.opus.pro/jobs"]
+  },
+  {
+    "name": "Happyscribe",
+    "homepage": "https://www.happyscribe.com",
+    "careers_urls": ["https://www.happyscribe.com/careers"]
+  },
+  {
+    "name": "11x",
+    "homepage": "https://www.11x.ai",
+    "careers_urls": ["https://www.11x.ai/careers", "https://www.11x.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Plaud",
+    "homepage": "https://www.plaud.ai",
+    "careers_urls": ["https://www.plaud.ai/careers", "https://www.plaud.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Serval",
+    "homepage": "https://serval.com",
+    "careers_urls": ["https://serval.com/careers", "https://serval.com/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Ada",
+    "homepage": "https://www.ada.cx",
+    "careers_urls": ["https://www.ada.cx/careers"]
+  },
+  {
+    "name": "Otter.ai",
+    "homepage": "https://otter.ai",
+    "careers_urls": ["https://otter.ai/careers", "https://otter.ai/jobs"]
+  },
+  {
+    "name": "Alma",
+    "homepage": "https://helloalma.com",
+    "careers_urls": ["https://helloalma.com/careers", "https://helloalma.com/jobs"],
+    "notes": "Company name is ambiguous; verify correct domain if needed."
+  },
+  {
+    "name": "Applaud",
+    "homepage": "https://www.applaudhr.com",
+    "careers_urls": ["https://www.applaudhr.com/careers", "https://www.applaudhr.com/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "CapCut",
+    "homepage": "https://www.capcut.com",
+    "careers_urls": [
+      "https://jobs.bytedance.com/en/position?keywords=CapCut",
+      "https://www.capcut.com/careers"
+    ],
+    "notes": "CapCut roles are often listed under ByteDance; verify target careers page if needed."
+  },
+  {
+    "name": "Motion",
+    "homepage": "https://www.usemotion.com",
+    "careers_urls": ["https://www.usemotion.com/careers", "https://www.usemotion.com/jobs"],
+    "notes": "Company name is ambiguous; verify correct domain if needed."
+  },
+  {
+    "name": "Crisp",
+    "homepage": "https://crisp.chat",
+    "careers_urls": ["https://crisp.chat/en/careers"]
+  },
+  {
+    "name": "Arcads",
+    "homepage": "https://www.arcads.ai",
+    "careers_urls": ["https://www.arcads.ai/careers", "https://www.arcads.ai/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Emergent",
+    "homepage": "https://emergent.sh",
+    "careers_urls": ["https://emergent.sh/careers", "https://emergent.sh/jobs"],
+    "notes": "Verify careers page if these 404."
+  },
+  {
+    "name": "Read AI",
+    "homepage": "https://www.read.ai",
+    "careers_urls": ["https://www.read.ai/careers", "https://www.read.ai/jobs"]
+  },
+  {
+    "name": "Tavus",
+    "homepage": "https://www.tavus.io",
+    "careers_urls": ["https://www.tavus.io/careers", "https://www.tavus.io/jobs"]
+  }
+]

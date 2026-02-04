@@ -1,0 +1,94 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>My Job Listings - AI App Spending Report</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-orb orb-1"></div>
+    <div class="bg-orb orb-2"></div>
+    <div class="bg-grid"></div>
+
+    <header class="hero">
+      <div class="hero-inner">
+        <p class="eyebrow">AI Application Spending Report</p>
+        <h1>My Job Listings</h1>
+        <p class="subtitle">
+          Entry-level and 0–2 year roles pulled weekly from the top 50 AI application companies.
+        </p>
+        <div class="stats">
+          <div class="stat">
+            <span class="stat-label">Jobs</span>
+            <span class="stat-value" id="stat-jobs">—</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Companies</span>
+            <span class="stat-value" id="stat-companies">—</span>
+          </div>
+          <div class="stat">
+            <span class="stat-label">Last refreshed</span>
+            <span class="stat-value" id="stat-updated">—</span>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="content">
+      <section class="controls">
+        <div class="control">
+          <label for="search">Search titles</label>
+          <input id="search" type="text" placeholder="e.g. Associate, Junior, New Grad" />
+        </div>
+        <div class="control">
+          <label for="company">Company</label>
+          <select id="company">
+            <option value="">All companies</option>
+          </select>
+        </div>
+        <div class="control">
+          <label for="location">Location</label>
+          <select id="location">
+            <option value="">All locations</option>
+          </select>
+        </div>
+        <div class="control toggle">
+          <label for="entry-only">Entry-level titles only</label>
+          <input id="entry-only" type="checkbox" />
+        </div>
+      </section>
+
+      <section class="list">
+        <div class="list-header">
+          <h2>Open Roles</h2>
+          <span id="results-count">0 roles</span>
+        </div>
+        <div id="jobs" class="cards"></div>
+      </section>
+    </main>
+
+    <template id="job-card">
+      <article class="card">
+        <div class="card-top">
+          <div>
+            <h3 class="job-title"></h3>
+            <p class="job-company"></p>
+          </div>
+          <span class="job-tag"></span>
+        </div>
+        <p class="job-meta"></p>
+        <div class="card-actions">
+          <a class="job-link" target="_blank" rel="noreferrer">View posting</a>
+        </div>
+      </article>
+    </template>
+
+    <footer class="footer">
+      <p>Data refreshes weekly on Sunday at 6:00 PM (local time).</p>
+      <p>Source list: a16z AI Application Spending Report.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

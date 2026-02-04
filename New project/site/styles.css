@@ -1,0 +1,265 @@
+@import url("https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,700&family=Space+Grotesk:wght@400;500;600&display=swap");
+
+:root {
+  --bg: #0f1014;
+  --card: #171a21;
+  --card-soft: #1f2330;
+  --text: #f8f6f2;
+  --muted: #b4b6c2;
+  --accent: #ffb347;
+  --accent-2: #5ce1e6;
+  --shadow: 0 20px 60px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Space Grotesk", sans-serif;
+  color: var(--text);
+  background: radial-gradient(circle at top left, #2e3250, #0f1014 55%);
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.bg-orb {
+  position: absolute;
+  filter: blur(0px);
+  opacity: 0.6;
+  border-radius: 50%;
+  z-index: 0;
+}
+
+.orb-1 {
+  width: 420px;
+  height: 420px;
+  background: radial-gradient(circle, rgba(255, 179, 71, 0.6), rgba(255, 179, 71, 0));
+  top: -120px;
+  right: -120px;
+}
+
+.orb-2 {
+  width: 520px;
+  height: 520px;
+  background: radial-gradient(circle, rgba(92, 225, 230, 0.5), rgba(92, 225, 230, 0));
+  bottom: -240px;
+  left: -200px;
+}
+
+.bg-grid {
+  position: fixed;
+  inset: 0;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 120px 120px;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.hero {
+  position: relative;
+  z-index: 1;
+  padding: 80px 8vw 40px;
+}
+
+.hero-inner {
+  max-width: 980px;
+}
+
+.eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.3em;
+  font-size: 0.75rem;
+  color: var(--accent-2);
+  margin-bottom: 12px;
+}
+
+h1 {
+  font-family: "Fraunces", serif;
+  font-size: clamp(2.8rem, 5vw, 4.8rem);
+  margin: 0 0 16px;
+}
+
+.subtitle {
+  font-size: 1.1rem;
+  color: var(--muted);
+  max-width: 640px;
+}
+
+.stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 16px;
+  margin-top: 32px;
+}
+
+.stat {
+  padding: 18px 20px;
+  background: var(--card);
+  border-radius: 16px;
+  box-shadow: var(--shadow);
+}
+
+.stat-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  display: block;
+}
+
+.stat-value {
+  font-size: 1.4rem;
+  margin-top: 8px;
+  display: block;
+}
+
+.content {
+  position: relative;
+  z-index: 1;
+  padding: 0 8vw 80px;
+}
+
+.controls {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  background: var(--card-soft);
+  padding: 24px;
+  border-radius: 20px;
+  box-shadow: var(--shadow);
+}
+
+.control label {
+  display: block;
+  font-size: 0.85rem;
+  margin-bottom: 6px;
+  color: var(--muted);
+}
+
+.control input,
+.control select {
+  width: 100%;
+  padding: 12px 14px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  background: #11151d;
+  color: var(--text);
+  font-size: 1rem;
+}
+
+.control.toggle {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.control.toggle input {
+  width: 20px;
+  height: 20px;
+}
+
+.list {
+  margin-top: 32px;
+}
+
+.list-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+.list-header h2 {
+  font-family: "Fraunces", serif;
+  font-size: 1.8rem;
+  margin: 0;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 18px;
+}
+
+.card {
+  background: var(--card);
+  border-radius: 18px;
+  padding: 20px;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  min-height: 190px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 24px 70px rgba(0, 0, 0, 0.45);
+}
+
+.card-top {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: flex-start;
+}
+
+.job-title {
+  font-size: 1.1rem;
+  margin: 0 0 6px;
+}
+
+.job-company {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.job-tag {
+  background: rgba(255, 179, 71, 0.2);
+  color: var(--accent);
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+
+.job-meta {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.card-actions {
+  margin-top: auto;
+}
+
+.job-link {
+  text-decoration: none;
+  color: #0f1014;
+  background: var(--accent);
+  padding: 10px 14px;
+  border-radius: 12px;
+  font-weight: 600;
+  display: inline-block;
+}
+
+.footer {
+  text-align: center;
+  color: var(--muted);
+  padding: 32px 16px 60px;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 720px) {
+  .hero {
+    padding-top: 64px;
+  }
+  .stats {
+    grid-template-columns: 1fr;
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-02-04T00:25:25.528783+00:00",
+  "total_jobs": 105,
+  "company_count": 50,
+  "filters": {
+    "entry_level_titles": [
+      "entry",
+      "entry-level",
+      "junior",
+      "associate",
+      "new grad",
+      "graduate",
+      "early career",
+      "intern",
+      "apprentice"
+    ],
+    "max_years_experience": 2
+  }
+}
