@@ -61,10 +61,22 @@
   },
   {
     "company": "Anthropic",
+    "title": "External Affairs, US Federal",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5106251008",
+    "posted_at": "2026-02-04T20:09:21-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Google GTM Cosell Partnerships",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
-    "posted_at": "2026-01-29T17:49:55-05:00",
+    "posted_at": "2026-02-04T17:22:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -134,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -146,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -226,6 +238,18 @@
     "min_years": 2,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Senior Software Engineer, Systems",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915842008",
+    "posted_at": "2026-02-04T11:43:32-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Anthropic",
@@ -792,6 +816,30 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Lovable",
+    "title": "Lead Product Counsel",
+    "location": "Stockholm",
+    "url": "https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3",
+    "posted_at": "2026-02-05T10:49:19.483+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lovable",
+    "title": "Lead Commercial Counsel",
+    "location": "Boston",
+    "url": "https://jobs.ashbyhq.com/lovable/87f76d8b-be4f-464b-886d-d7590a73e861",
+    "posted_at": "2026-02-05T11:00:40.316+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
@@ -859,6 +907,18 @@
     "posted_at": "2026-01-28T14:53:45.072+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Photoroom",
+    "title": "Business Development Representative, NYC based",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af",
+    "posted_at": "2026-02-04T17:10:44.744+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
@@ -1045,18 +1105,6 @@
   },
   {
     "company": "OpusClip",
-    "title": "Software Engineer, AI Video Agent",
-    "location": "Palo Alto",
-    "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef",
-    "posted_at": "2026-01-10T00:06:39.920+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
-  },
-  {
-    "company": "OpusClip",
     "title": "Product Analyst",
     "location": "Palo Alto",
     "url": "https://jobs.ashbyhq.com/opusclip/3aeb9689-56af-4a6d-a83f-697049cbc48b",
@@ -1140,6 +1188,30 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Serval",
+    "title": "Growth Associate",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Serval/e8ce5989-ccf5-48b5-90ea-a4ae868de17f",
+    "posted_at": "2026-02-04T20:44:39.027+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Serval",
+    "title": "Deployment Strategist",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/Serval/565c665a-c632-448b-87c5-849bc095de05",
+    "posted_at": "2026-02-05T03:07:23.864+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Otter.ai",
     "title": "Account Executive",
     "location": "San Francisco, CA",
@@ -1157,18 +1229,6 @@
     "location": "San Francisco, CA",
     "url": "https://otter.ai/careers?gh_jid=7554214003",
     "posted_at": "2026-01-15T15:26:02-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Production Engineer",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=6667756003",
-    "posted_at": "2026-02-03T14:35:02-05:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1228,24 +1288,12 @@
     "title": "Vendor Program Manager, Process Innovation",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8391582002",
-    "posted_at": "2026-01-27T17:52:46-05:00",
+    "posted_at": "2026-02-04T13:54:45-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Read AI",
-    "title": "Account Coordinator",
-    "location": "Read AI - Seattle HQ",
-    "url": "https://jobs.ashbyhq.com/read-ai/e8015046-78d6-40de-936f-f31a569bcc3b",
-    "posted_at": "2025-09-04T21:06:17.980+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.read.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Tavus",
