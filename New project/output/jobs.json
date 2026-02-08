@@ -613,18 +613,6 @@
   },
   {
     "company": "Notion",
-    "title": "Head of Internal Communications",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/07ab8e09-0f79-44e5-8334-7ee3c844ae86",
-    "posted_at": "2025-10-07T22:39:15.723+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
     "title": "Account Executive, Commercial, DACH",
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/notion/17d76ca7-2edc-44c9-8ee4-9b1a07a6dbe9",
@@ -1078,6 +1066,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
+    "title": "Contract Recruiting / HR Operations Coordinator",
+    "location": "Riyadh",
+    "url": "https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a",
+    "posted_at": "2026-02-07T23:07:37.720+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Cognition",
