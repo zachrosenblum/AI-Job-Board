@@ -146,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -901,18 +901,6 @@
   },
   {
     "company": "Metaview",
-    "title": "Finance Operations",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/metaview/7067874c-bb5e-426c-9052-c2b83ddc2a87",
-    "posted_at": "2025-11-18T10:07:43.245+00:00",
-    "source": "ashby",
-    "careers_url": "https://metaview.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Metaview",
     "title": "Technical Support Engineer",
     "location": "London",
     "url": "https://jobs.ashbyhq.com/metaview/f5d8cc34-9372-4a03-8cdb-454de64bc807",
@@ -1069,7 +1057,7 @@
   },
   {
     "company": "Cognition",
-    "title": "Contract Recruiting / HR Operations Coordinator",
+    "title": "HR Operations & Recruiting Coordinator - Contract",
     "location": "Riyadh",
     "url": "https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a",
     "posted_at": "2026-02-07T23:07:37.720+00:00",
