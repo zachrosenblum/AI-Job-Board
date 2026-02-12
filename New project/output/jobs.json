@@ -49,6 +49,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Engineering Manager - Observability",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5111847008",
+    "posted_at": "2026-02-11T15:55:16-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -146,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +170,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-01-29T17:49:55-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -397,7 +409,7 @@
   },
   {
     "company": "Replit",
-    "title": "Manager, Quality Assurance",
+    "title": "Manager, Support Quality",
     "location": "Foster City, CA (Hybrid) In office M,W,F",
     "url": "https://jobs.ashbyhq.com/replit/e2568e59-061e-41da-8c40-174731f15fc3",
     "posted_at": "2026-02-03T20:07:43.462+00:00",
@@ -649,18 +661,6 @@
   },
   {
     "company": "Notion",
-    "title": "UX Research Intern (Summer 2026)",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/2e7b83cd-9210-4492-ad30-7b898b80807b",
-    "posted_at": "2025-12-24T00:25:01.758+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
     "title": "Talent Sourcer, APAC",
     "location": "Tokyo, Japan",
     "url": "https://jobs.ashbyhq.com/notion/72dcdd0a-1edc-4ba9-8ba5-6b93b0422c4d",
@@ -718,6 +718,30 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Manager, People Operations",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/0063acd9-f02d-43c4-b199-3884d7427ad0",
+    "posted_at": "2026-02-11T17:38:35.449+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Notion",
+    "title": "Commercial Counsel",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/f2ecb1bf-e033-479b-a644-94d21c09ce71",
+    "posted_at": "2026-02-11T19:13:50.914+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Retell AI",
@@ -973,18 +997,6 @@
   },
   {
     "company": "Clay",
-    "title": "ClayDR (Sales Development Representative)",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/99c25b5c-b91b-4490-8681-87f58ef87b83",
-    "posted_at": "2025-10-28T01:12:40.751+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Clay",
     "title": "Software Engineer, Integrations",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/b6f0c22a-e56d-4448-b7a2-46285d2bc81e",
@@ -1102,6 +1114,18 @@
     "min_years": 5,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Cognition",
+    "title": "Sales Development Representative",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cognition/94084448-53e4-476f-99cc-0409ca409daf",
+    "posted_at": "2026-02-11T20:37:01.304+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "OpusClip",
@@ -1228,7 +1252,7 @@
     "title": "Senior Data Science Manager",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8308086002",
-    "posted_at": "2025-11-25T14:23:36-05:00",
+    "posted_at": "2026-02-11T18:09:58-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 1,
@@ -1240,7 +1264,7 @@
     "title": "Senior Manager, Community",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8394865002",
-    "posted_at": "2026-01-28T13:45:23-05:00",
+    "posted_at": "2026-02-11T18:11:34-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
@@ -1252,7 +1276,7 @@
     "title": "Software Engineer II",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8369573002",
-    "posted_at": "2026-01-09T19:06:27-05:00",
+    "posted_at": "2026-02-11T18:12:12-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
