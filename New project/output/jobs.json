@@ -1104,6 +1104,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Clay",
+    "title": "ClayDR (Sales Development Representative)",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/claylabs/81bd9658-1e21-4405-9588-2bfa52f41900",
+    "posted_at": "2026-02-13T19:47:58.146+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Crosby",
     "title": "Operations Lead",
     "location": "New York City",
@@ -1337,18 +1349,6 @@
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8394865002",
     "posted_at": "2026-02-11T18:11:34-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://helloalma.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Alma",
-    "title": "Software Engineer II",
-    "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8369573002",
-    "posted_at": "2026-02-11T18:12:12-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
