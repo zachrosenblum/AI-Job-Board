@@ -325,18 +325,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Senior Software Engineer, Systems",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4915842008",
-    "posted_at": "2026-02-12T17:50:57-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
     "title": "SMB Account Executive, Industries",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
@@ -938,7 +926,7 @@
   {
     "company": "Lovable",
     "title": "Lead Commercial Counsel",
-    "location": "Boston",
+    "location": "Stockholm",
     "url": "https://jobs.ashbyhq.com/lovable/87f76d8b-be4f-464b-886d-d7590a73e861",
     "posted_at": "2026-02-05T11:00:40.316+00:00",
     "source": "ashby",
