@@ -13,18 +13,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Director, Compute Infrastructure Procurement",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5077105008",
-    "posted_at": "2026-02-12T17:50:57-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Emerging Account Executive- Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
@@ -170,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-02-12T17:50:57-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -182,8 +170,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-02-12T17:50:57-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -328,7 +316,7 @@
     "title": "SMB Account Executive, Industries",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
-    "posted_at": "2026-02-12T17:50:57-05:00",
+    "posted_at": "2026-02-17T15:58:45-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -562,30 +550,6 @@
     "min_years": 3,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
-    "title": "Manager, Commercial Sales",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/5703a1d4-e1a2-4286-af10-a48c65fd4114",
-    "posted_at": "2025-11-05T20:26:40.825+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Account Executive - Commercial, Sydney",
-    "location": "Sydney, Australia",
-    "url": "https://jobs.ashbyhq.com/notion/9f4f0855-32c4-480a-9eed-80457aee4769",
-    "posted_at": "2025-09-25T09:23:02.277+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1045,18 +1009,6 @@
   },
   {
     "company": "Clay",
-    "title": "The Wheel Rotational Program",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/961ce81a-50d1-4b07-b6ac-b068c88f451b",
-    "posted_at": "2026-01-08T21:34:06.022+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "Head of Solutions Engineering",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2",
@@ -1313,6 +1265,18 @@
     "location": "San Francisco, CA",
     "url": "https://otter.ai/careers?gh_jid=7554214003",
     "posted_at": "2026-02-12T17:58:50-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "IT System Engineer",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7518107003",
+    "posted_at": "2026-02-17T18:16:08-05:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
