@@ -1,10 +1,22 @@
 [
   {
     "company": "Anthropic",
-    "title": "Emerging Account Executive- Startups",
+    "title": "Account Executive\u2013 Startups",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
+    "posted_at": "2026-02-19T11:29:19-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Emerging Account Executive\u2013 Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
-    "posted_at": "2026-02-19T10:21:06-05:00",
+    "posted_at": "2026-02-19T11:28:47-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -121,6 +133,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "International GTM Onboarding Lead",
+    "location": "Dublin, IE; London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
+    "posted_at": "2026-02-20T06:19:48-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "International Indirect Tax VAT/GST",
     "location": "Dublin, IE",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5073339008",
@@ -146,8 +170,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-02-19T10:21:06-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +182,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-02-19T10:21:06-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -334,18 +358,6 @@
     "min_years": 3,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Startup Account Executive",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-02-19T10:21:06-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Anthropic",
@@ -749,6 +761,18 @@
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/notion/63a4ef8e-cab4-440d-86e1-55f7a97a48cb",
     "posted_at": "2026-02-16T17:06:34.636+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Notion",
+    "title": "Solutions Engineer",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/e64672da-27dc-4faf-a5e9-f0e466504c47",
+    "posted_at": "2026-02-19T18:58:50.681+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 2,
@@ -1240,7 +1264,7 @@
     "title": "Account Executive",
     "location": "San Francisco, CA",
     "url": "https://otter.ai/careers?gh_jid=7601354003",
-    "posted_at": "2026-02-18T17:14:15-05:00",
+    "posted_at": "2026-02-19T18:00:25-05:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
