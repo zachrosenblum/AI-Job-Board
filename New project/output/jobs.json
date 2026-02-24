@@ -49,18 +49,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Engineering Manager - Observability",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5111847008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -94,18 +82,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Head of International Marketing",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5067118008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -865,6 +841,18 @@
   },
   {
     "company": "Lovable",
+    "title": "Strategic Finance",
+    "location": "Stockholm",
+    "url": "https://jobs.ashbyhq.com/lovable/c727b75e-5157-404d-a398-9980363ad4a5",
+    "posted_at": "2026-02-24T08:22:55.297+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Lovable",
     "title": "Recruitment Coordinator",
     "location": "Boston",
     "url": "https://jobs.ashbyhq.com/lovable/8ed90eb9-e178-4c69-b35c-d19e258f9985",
@@ -1009,7 +997,7 @@
   },
   {
     "company": "Photoroom",
-    "title": "Business Development Representative, NYC based",
+    "title": "Business Development Representative",
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af",
     "posted_at": "2026-02-04T17:10:44.744+00:00",
@@ -1300,7 +1288,7 @@
     "title": "IT System Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-02-19T02:16:40-05:00",
+    "posted_at": "2026-02-24T01:13:36-05:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
