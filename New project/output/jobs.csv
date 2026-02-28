@@ -1,5 +1,6 @@
 company,title,location,url,posted_at,source,careers_url,min_years,entry_level,match_reason
 Anthropic,Account Executive– Startups,"San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4461450008,2026-02-20T18:33:18-05:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
+Anthropic,"Corporate Accountant, Accounting Operations","San Francisco, CA; Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/5130251008,2026-02-28T07:36:10-05:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
 Anthropic,Emerging Account Executive– Startups,"San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/5079916008,2026-02-20T18:33:18-05:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
 Anthropic,"Engineering Manager, Inference","San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4741102008,2026-02-20T18:33:18-05:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
 Anthropic,"Engineering Manager, ML Acceleration","San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4741104008,2026-02-20T18:33:18-05:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
@@ -92,17 +93,17 @@ Clay,ClayDR (Sales Development Representative),London,https://jobs.ashbyhq.com/c
 Crosby,Operations Lead,New York City,https://jobs.ashbyhq.com/crosby/9afda82f-1c36-4010-b89c-50d9ed04ed0e,2025-06-17T23:24:12.856+00:00,ashby,https://crosby.ai/careers,2,False,min_years_2
 Grammarly,Business Development Representative,United States; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/6087850,2026-02-05T10:00:18-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
 Grammarly,"Business Development Representative, Superhuman for Education",United States; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7563695,2026-02-08T06:30:25-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
-Grammarly,"Customer Care Specialist, Grammarly",Ukraine; Remote,https://job-boards.greenhouse.io/grammarly/jobs/7599679,2026-02-09T13:03:32-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
 Grammarly,"Customer Care Specialist, Grammarly",Warsaw; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/6446829,2026-02-13T10:33:52-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
+Grammarly,"Customer Care Specialist, Grammarly",Ukraine; Remote,https://job-boards.greenhouse.io/grammarly/jobs/7599679,2026-02-09T13:03:32-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
 Grammarly,"Digital Customer Success Manager, Grammarly for Education",Poland; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7614638,2026-02-17T04:48:03-05:00,greenhouse,https://www.grammarly.com/careers,2,False,min_years_2
 Grammarly,Early Career Program,San Francisco,https://job-boards.greenhouse.io/grammarly/jobs/7474047,2026-01-22T01:01:03-05:00,greenhouse,https://www.grammarly.com/careers,0,True,entry_title
 Grammarly,Senior Financial Planning & Analysis Manager,San Francisco; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7505079,2026-02-11T13:45:35-05:00,greenhouse,https://www.grammarly.com/careers,2,False,min_years_2
 Grammarly,"Senior Product Marketing Manager, Platform and Ecosystem",New York City; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7356812,2026-02-12T19:32:31-05:00,greenhouse,https://www.grammarly.com/careers,2,False,min_years_2
 Grammarly,"Senior User Researcher, Agents",Berlin; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7355976,2026-02-05T20:31:34-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
 Grammarly,"Senior User Researcher, Mobile",Berlin; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7356015,2025-12-16T15:21:18-05:00,greenhouse,https://www.grammarly.com/careers,1,False,min_years_1
-Grammarly,Software Engineer Intern (Summer 2026),Berlin; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7491439,2025-12-22T10:08:30-05:00,greenhouse,https://www.grammarly.com/careers,,True,entry_title
 Grammarly,Software Engineer Intern (Summer 2026),Ukraine; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7657265,2026-02-26T09:27:45-05:00,greenhouse,https://www.grammarly.com/careers,,True,entry_title
-Grammarly,Technical Account Manager,Poland; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/6960526,2026-02-19T12:51:55-05:00,greenhouse,https://www.grammarly.com/careers,2,False,min_years_2
+Grammarly,Software Engineer Intern (Summer 2026),Berlin; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/7491439,2025-12-22T10:08:30-05:00,greenhouse,https://www.grammarly.com/careers,,True,entry_title
+Grammarly,Technical Account Manager,Poland; Hybrid,https://job-boards.greenhouse.io/grammarly/jobs/6960526,2026-02-27T13:31:44-05:00,greenhouse,https://www.grammarly.com/careers,2,False,min_years_2
 Cognition,Special Projects Engineer,San Francisco Bay Area,https://jobs.ashbyhq.com/cognition/d14d0312-e619-4ea6-ab80-e2546e7b2481,2024-10-05T19:51:36.974+00:00,ashby,https://cognition.ai/careers,2,False,min_years_2
 Cognition,HR Operations & Recruiting Coordinator - Contract,Riyadh,https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a,2026-02-07T23:07:37.720+00:00,ashby,https://cognition.ai/careers,1,False,min_years_1
 Cognition,Product Engineer,San Francisco Bay Area,https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6,2026-01-13T01:45:08.433+00:00,ashby,https://cognition.ai/careers,2,False,min_years_2
@@ -124,5 +125,4 @@ Otter.ai,Production Engineer,"Mountain View, CA",https://otter.ai/careers?gh_jid
 Otter.ai,"Software Engineer, Android","Mountain View, CA",https://otter.ai/careers?gh_jid=7567754003,2026-02-12T13:28:52-05:00,greenhouse,https://otter.ai/careers,2,False,min_years_2
 Otter.ai,"Software Engineer, Backend (Product)","Mountain View, CA",https://otter.ai/careers?gh_jid=5693892003,2026-02-18T12:29:16-05:00,greenhouse,https://otter.ai/careers,2,False,min_years_2
 Alma,Senior Data Science Manager,"Remote, Contiguous US",https://job-boards.greenhouse.io/alma/jobs/8308086002,2026-02-11T18:09:58-05:00,greenhouse,https://helloalma.com/careers,1,False,min_years_1
-Alma,"Senior Manager, Community","Remote, Contiguous US",https://job-boards.greenhouse.io/alma/jobs/8394865002,2026-02-11T18:11:34-05:00,greenhouse,https://helloalma.com/careers,2,False,min_years_2
 Tavus,AI Researcher (Rendering),San Francisco,https://jobs.ashbyhq.com/tavus/5d2d9129-76a6-480b-a68c-ba467178c30e,2025-08-22T00:28:44.385+00:00,ashby,https://www.tavus.io/careers,2,False,min_years_2

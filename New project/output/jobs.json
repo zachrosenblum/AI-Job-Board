@@ -13,6 +13,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Corporate Accountant, Accounting Operations",
+    "location": "San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5130251008",
+    "posted_at": "2026-02-28T07:36:10-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Emerging Account Executive\u2013 Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
@@ -1118,9 +1130,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Ukraine; Remote",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
-    "posted_at": "2026-02-09T13:03:32-05:00",
+    "location": "Warsaw; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
+    "posted_at": "2026-02-13T10:33:52-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1130,9 +1142,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Warsaw; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
-    "posted_at": "2026-02-13T10:33:52-05:00",
+    "location": "Ukraine; Remote",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
+    "posted_at": "2026-02-09T13:03:32-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1214,18 +1226,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer Intern (Summer 2026)",
-    "location": "Berlin; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7491439",
-    "posted_at": "2025-12-22T10:08:30-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.grammarly.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer Intern (Summer 2026)",
     "location": "Ukraine; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/7657265",
     "posted_at": "2026-02-26T09:27:45-05:00",
@@ -1237,10 +1237,22 @@
   },
   {
     "company": "Grammarly",
+    "title": "Software Engineer Intern (Summer 2026)",
+    "location": "Berlin; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7491439",
+    "posted_at": "2025-12-22T10:08:30-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.grammarly.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Grammarly",
     "title": "Technical Account Manager",
     "location": "Poland; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/6960526",
-    "posted_at": "2026-02-19T12:51:55-05:00",
+    "posted_at": "2026-02-27T13:31:44-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 2,
@@ -1498,18 +1510,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Alma",
-    "title": "Senior Manager, Community",
-    "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8394865002",
-    "posted_at": "2026-02-11T18:11:34-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://helloalma.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Tavus",
