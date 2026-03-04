@@ -4,7 +4,7 @@
     "title": "Account Executive, Startups",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-03-02T17:32:49-05:00",
+    "posted_at": "2026-03-04T10:00:20-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -25,10 +25,10 @@
   },
   {
     "company": "Anthropic",
-    "title": "Emerging Account Executive\u2013 Startups",
+    "title": "Emerging Account Executive, Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5079916008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
+    "posted_at": "2026-03-03T17:25:50-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -146,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-02-20T18:33:18-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-02-20T18:33:18-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -181,10 +181,10 @@
   },
   {
     "company": "Anthropic",
-    "title": "Manager, Sales Development - Startups/Commercial",
+    "title": "Manager, Sales Development (Startups & Commercial)",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
+    "posted_at": "2026-03-03T17:26:59-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -250,6 +250,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Senior International Payroll Specialist",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076929008",
+    "posted_at": "2026-03-03T15:47:29-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 3,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -322,18 +334,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Sr International Payroll Specialist",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076929008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -1108,7 +1108,7 @@
     "title": "Business Development Representative, Superhuman for Education",
     "location": "United States; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/7563695",
-    "posted_at": "2026-02-08T06:30:25-05:00",
+    "posted_at": "2026-03-04T05:43:49-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1234,18 +1234,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Technical Account Manager",
-    "location": "Poland; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6960526",
-    "posted_at": "2026-02-27T13:31:44-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.grammarly.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Cognition",
