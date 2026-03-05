@@ -146,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-02-20T18:33:18-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-02-20T18:33:18-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -185,18 +185,6 @@
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
     "posted_at": "2026-03-03T17:26:59-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Partner Operations Specialist",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5043435008",
-    "posted_at": "2026-02-20T18:33:18-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -442,6 +430,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Replit",
+    "title": "Software Engineer",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "url": "https://jobs.ashbyhq.com/replit/d5c36729-3c19-4d62-a72f-d8bdb6513f0e",
+    "posted_at": "2026-03-04T22:09:47.537+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cursor",
@@ -984,6 +984,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Metaview",
+    "title": "Director of Sales, US",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/metaview/831e33f8-6e65-48d6-bec4-19ea388ec9f7",
+    "posted_at": "2026-03-04T17:16:22.419+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Photoroom",
     "title": "Business Development Representative",
     "location": "New York City",
@@ -1214,9 +1226,9 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer Intern (Summer 2026)",
-    "location": "Berlin; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7491439",
-    "posted_at": "2025-12-22T10:08:30-05:00",
+    "location": "Ukraine; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7657265",
+    "posted_at": "2026-02-26T09:27:45-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": null,
@@ -1226,9 +1238,9 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer Intern (Summer 2026)",
-    "location": "Ukraine; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7657265",
-    "posted_at": "2026-02-26T09:27:45-05:00",
+    "location": "Berlin; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7491439",
+    "posted_at": "2025-12-22T10:08:30-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": null,
@@ -1495,6 +1507,18 @@
     "posted_at": "2026-03-02T16:40:43-05:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Read AI",
+    "title": "Product Designer - AI Assistants & Tools",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/a4ecb65c-d9a0-4e25-bade-7f613dd56df3",
+    "posted_at": "2025-08-29T22:13:37.259+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
