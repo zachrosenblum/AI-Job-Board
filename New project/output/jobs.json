@@ -110,8 +110,8 @@
   {
     "company": "Anthropic",
     "title": "International GTM Onboarding Lead",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
     "posted_at": "2026-03-06T09:54:14-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -122,8 +122,8 @@
   {
     "company": "Anthropic",
     "title": "International GTM Onboarding Lead",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
     "posted_at": "2026-03-06T09:54:14-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -146,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-03-06T09:54:14-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +158,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-03-06T09:54:14-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -439,6 +439,18 @@
     "posted_at": "2026-01-29T21:46:27.233+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Software Engineer",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/479046de-5df8-4f51-a72c-2a8dd39a43cb",
+    "posted_at": "2026-03-08T23:28:19.369+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
@@ -850,18 +862,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lovable",
-    "title": "Mobility and Immigration Lead - Sweden & International",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/d9ac7aed-9766-48fd-8666-7d8e4e046c75",
-    "posted_at": "2026-02-06T16:42:05.967+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Lovable",
