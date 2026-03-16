@@ -97,18 +97,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "International Accounting Manager",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5060161008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "International GTM Onboarding Lead",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
@@ -146,8 +134,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -158,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -864,18 +852,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Lovable",
-    "title": "Lead Commercial Counsel",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/87f76d8b-be4f-464b-886d-d7590a73e861",
-    "posted_at": "2026-02-05T11:00:40.316+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
@@ -1166,9 +1142,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Kyiv, Ukraine",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
-    "posted_at": "2026-03-12T11:17:59-04:00",
+    "location": "Warsaw, Poland",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
+    "posted_at": "2026-03-12T11:17:31-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1178,9 +1154,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Warsaw, Poland",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
-    "posted_at": "2026-03-12T11:17:31-04:00",
+    "location": "Kyiv, Ukraine",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
+    "posted_at": "2026-03-12T11:17:59-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
