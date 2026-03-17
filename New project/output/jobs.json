@@ -134,8 +134,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -146,8 +146,8 @@
   {
     "company": "Anthropic",
     "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4914907008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -337,15 +337,15 @@
   },
   {
     "company": "Replit",
-    "title": "Associate Financial Analyst, Cloud Computing & AI Platform",
+    "title": "FP&A, Cloud Computing & AI Platform",
     "location": "Foster City, CA - In office M,W,F",
     "url": "https://jobs.ashbyhq.com/replit/6d81b7dd-ac38-40d8-98ea-7862739904c6",
     "posted_at": "2025-12-16T16:44:03.143+00:00",
     "source": "ashby",
     "careers_url": "https://replit.com/careers",
     "min_years": 1,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Replit",
@@ -480,6 +480,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Lorikeet",
+    "title": "Forward Deployed AI Engineer",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/f5aaefdd-7b55-4b68-b841-24fa8b14224c",
+    "posted_at": "2026-03-16T22:16:06.196+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Notion",
     "title": "Account Executive, Commercial",
     "location": "San Francisco, California",
@@ -526,18 +538,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Software Engineer, AI Agentic Search, Early Career",
-    "location": "Hyderabad, India",
-    "url": "https://jobs.ashbyhq.com/notion/c7b208a6-d848-4e71-8e2f-33b3e44939dd",
-    "posted_at": "2026-01-19T08:17:04.620+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Notion",
@@ -928,7 +928,7 @@
     "title": "Business Development Representative",
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af",
-    "posted_at": "2026-02-04T17:10:44.744+00:00",
+    "posted_at": "2026-03-17T10:09:36.734+00:00",
     "source": "ashby",
     "careers_url": "https://www.photoroom.com/careers",
     "min_years": 1,
@@ -965,6 +965,18 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2",
     "posted_at": "2025-10-31T15:19:27.201+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "GRC Analyst, Privacy",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/ab2f5fb6-b980-44cb-b2b2-251a689c1dfa",
+    "posted_at": "2026-03-16T21:27:55.616+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1142,9 +1154,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Warsaw, Poland",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
-    "posted_at": "2026-03-12T11:17:31-04:00",
+    "location": "Kyiv, Ukraine",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
+    "posted_at": "2026-03-12T11:17:59-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1154,9 +1166,9 @@
   {
     "company": "Grammarly",
     "title": "Customer Care Specialist, Grammarly",
-    "location": "Kyiv, Ukraine",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7599679",
-    "posted_at": "2026-03-12T11:17:59-04:00",
+    "location": "Warsaw, Poland",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6446829",
+    "posted_at": "2026-03-12T11:17:31-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 1,
@@ -1286,7 +1298,7 @@
   {
     "company": "Cognition",
     "title": "International Field CTO",
-    "location": "Tokyo",
+    "location": "Singapore",
     "url": "https://jobs.ashbyhq.com/cognition/e345b98b-e67c-4261-a097-9b9bb8ee36c2",
     "posted_at": "2025-12-18T18:50:48.304+00:00",
     "source": "ashby",
@@ -1320,6 +1332,42 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Cognition",
+    "title": "Brand Marketer",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/cognition/23b1c551-42ed-4cf7-828c-d3b65569bb41",
+    "posted_at": "2026-03-16T22:49:18.735+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 0,
+    "entry_level": false,
+    "match_reason": "min_years_0"
+  },
+  {
+    "company": "Cognition",
+    "title": "Brand Marketer",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/cognition/20e66fc8-78c6-443f-80bd-10fb19fa63dc",
+    "posted_at": "2026-03-16T22:51:20.658+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
+    "title": "Paid Media",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/cognition/c42ae7ec-4636-48a0-b682-34ac1c0fb3c6",
+    "posted_at": "2026-03-16T22:48:41.813+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "OpusClip",
     "title": "Account Executive, Creators and Media",
     "location": "Remote",
@@ -1333,6 +1381,18 @@
   },
   {
     "company": "OpusClip",
+    "title": "AI PM Intern",
+    "location": "Palo Alto",
+    "url": "https://jobs.ashbyhq.com/opusclip/b3ac1b13-9afa-4e03-a91f-104f23e3b6db",
+    "posted_at": "2026-03-16T20:46:47.943+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.opus.pro/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpusClip",
     "title": "Senior Web/Visual Designer",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/opusclip/01d30591-c70b-4538-a3a4-e320dd16f088",
@@ -1342,18 +1402,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpusClip",
-    "title": "Software Engineer, AI Video Agent",
-    "location": "Palo Alto",
-    "url": "https://jobs.ashbyhq.com/opusclip/26fbe2c6-4c5d-4cd1-aad8-3e5c031783ef",
-    "posted_at": "2026-02-10T21:44:54.799+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
   },
   {
     "company": "OpusClip",
@@ -1408,7 +1456,7 @@
     "title": "IT System Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-03-12T17:03:16-04:00",
+    "posted_at": "2026-03-16T13:19:36-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1486,6 +1534,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Read AI",
+    "title": "Account Executive",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/1f75a09c-1536-4928-90b2-b03024cfc730",
+    "posted_at": "2026-03-16T21:31:17.143+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Tavus",
