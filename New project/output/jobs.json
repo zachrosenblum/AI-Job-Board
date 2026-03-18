@@ -73,25 +73,13 @@
   },
   {
     "company": "Anthropic",
-    "title": "Google GTM Cosell Partnerships",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4973158008",
+    "title": "International GTM Onboarding Lead",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Internal Mobility Program Manager",
-    "location": "San Francisco, CA | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5081491008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 7,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -100,18 +88,6 @@
     "title": "International GTM Onboarding Lead",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "International GTM Onboarding Lead",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
     "posted_at": "2026-03-12T18:44:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -346,18 +322,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Replit",
-    "title": "Manager, Support Quality",
-    "location": "Foster City, CA (Hybrid) In office M,W,F",
-    "url": "https://jobs.ashbyhq.com/replit/e2568e59-061e-41da-8c40-174731f15fc3",
-    "posted_at": "2026-02-03T20:07:43.462+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Replit",
@@ -670,18 +634,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Manager, People Operations",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/0063acd9-f02d-43c4-b199-3884d7427ad0",
-    "posted_at": "2026-02-11T17:38:35.449+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1069,7 +1021,7 @@
   },
   {
     "company": "Clay",
-    "title": "Clay Cohorts",
+    "title": "Customer Education - Clay Cohorts",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/f50ce265-afa3-4da7-9d1b-f0b02256282c",
     "posted_at": "2026-03-11T22:34:03.308+00:00",
@@ -1534,18 +1486,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Read AI",
-    "title": "Account Executive",
-    "location": "Read AI - Seattle HQ",
-    "url": "https://jobs.ashbyhq.com/read-ai/1f75a09c-1536-4928-90b2-b03024cfc730",
-    "posted_at": "2026-03-16T21:31:17.143+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.read.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Tavus",
