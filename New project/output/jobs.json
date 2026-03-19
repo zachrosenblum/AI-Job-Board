@@ -76,7 +76,7 @@
     "title": "International GTM Onboarding Lead",
     "location": "Dublin, IE",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
+    "posted_at": "2026-03-19T05:14:05-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -88,7 +88,7 @@
     "title": "International GTM Onboarding Lead",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
+    "posted_at": "2026-03-19T05:13:28-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -154,18 +154,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Regional Head of Early Career Associates, Applied AI",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4947472008",
-    "posted_at": "2026-03-12T18:44:15-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -337,18 +325,6 @@
   },
   {
     "company": "Replit",
-    "title": "Software Engineer",
-    "location": "Foster City, CA (Hybrid) In office M,W,F",
-    "url": "https://jobs.ashbyhq.com/replit/d5c36729-3c19-4d62-a72f-d8bdb6513f0e",
-    "posted_at": "2026-03-04T22:09:47.537+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Replit",
     "title": "Business Development Representative",
     "location": "Salt Lake City, UT",
     "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
@@ -424,7 +400,7 @@
     "title": "Geo Enterprise Account Executive",
     "location": "NY / Remote",
     "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233",
-    "posted_at": "2026-03-07T00:09:49.456+00:00",
+    "posted_at": "2026-03-19T03:55:38.741+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 1,
@@ -1130,9 +1106,9 @@
   {
     "company": "Grammarly",
     "title": "Early Career Program",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/7474047",
-    "posted_at": "2026-03-12T09:03:03-04:00",
+    "posted_at": "2026-03-18T11:51:01-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.grammarly.com/careers",
     "min_years": 0,
@@ -1297,7 +1273,7 @@
   },
   {
     "company": "Cognition",
-    "title": "Brand Marketer",
+    "title": "Lifecycle Marketing",
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/cognition/20e66fc8-78c6-443f-80bd-10fb19fa63dc",
     "posted_at": "2026-03-16T22:51:20.658+00:00",
@@ -1450,18 +1426,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Alma",
-    "title": "Senior Data Science Manager",
-    "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8308086002",
-    "posted_at": "2026-02-11T18:09:58-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://helloalma.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Alma",
