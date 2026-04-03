@@ -4,7 +4,7 @@
     "title": "Account Executive, Startups",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
+    "posted_at": "2026-04-02T14:19:05-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -637,18 +637,6 @@
   },
   {
     "company": "Notion",
-    "title": "Talent Sourcer, APAC",
-    "location": "Tokyo, Japan",
-    "url": "https://jobs.ashbyhq.com/notion/72dcdd0a-1edc-4ba9-8ba5-6b93b0422c4d",
-    "posted_at": "2026-01-08T05:46:37.149+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
     "title": "Head of Internal Audit",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/ee0a995c-e6b3-4561-bde5-c915fa1f20a0",
@@ -838,18 +826,6 @@
     "min_years": 7,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Lovable",
-    "title": "Lead Product Counsel",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3",
-    "posted_at": "2026-02-05T10:49:19.483+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Metaview",
@@ -1445,6 +1421,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/tavus/5d2d9129-76a6-480b-a68c-ba467178c30e",
     "posted_at": "2025-08-22T00:28:44.385+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.tavus.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Tavus",
+    "title": "Developer Experience Engineer",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/tavus/29e20457-80ee-44df-8634-e3b10902fa82",
+    "posted_at": "2026-04-02T17:24:13.054+00:00",
     "source": "ashby",
     "careers_url": "https://www.tavus.io/careers",
     "min_years": 2,
