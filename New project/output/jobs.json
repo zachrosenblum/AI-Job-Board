@@ -220,7 +220,7 @@
     "title": "Senior International Payroll Specialist",
     "location": "Dublin, IE",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076929008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
+    "posted_at": "2026-04-08T20:14:26-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 3,
@@ -265,6 +265,30 @@
   },
   {
     "company": "Anthropic",
+    "title": "Staff+ Software Engineer, Full-stack",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
+    "posted_at": "2026-04-08T14:57:51-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Staff+ Software Engineer, Platform",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5157847008",
+    "posted_at": "2026-04-08T12:56:33-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Technical Policy Manager, Cyber Harms",
     "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5066981008",
@@ -301,15 +325,15 @@
   },
   {
     "company": "Replit",
-    "title": "Business Development Representative",
-    "location": "Salt Lake City, UT",
-    "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
-    "posted_at": "2026-03-05T23:03:42.323+00:00",
+    "title": "Premium Support Engineer (London)",
+    "location": "Remote - United Kingdom",
+    "url": "https://jobs.ashbyhq.com/replit/8c3edc8e-3cd2-45eb-b506-cd0eb33e5bd0",
+    "posted_at": "2026-04-08T21:15:11.279+00:00",
     "source": "ashby",
     "careers_url": "https://replit.com/careers",
-    "min_years": 0,
+    "min_years": 2,
     "entry_level": false,
-    "match_reason": "min_years_0"
+    "match_reason": "min_years_2"
   },
   {
     "company": "Replit",
@@ -421,7 +445,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Account Associate (SF)",
+    "title": "Account Associate",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
     "posted_at": "2026-03-20T18:14:58.357+00:00",
@@ -433,7 +457,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Account Associate (NY)",
+    "title": "Account Associate",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
     "posted_at": "2026-03-20T18:12:54.819+00:00",
@@ -468,11 +492,35 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Cursor",
+    "title": "Associate Field Engineer",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670",
+    "posted_at": "2026-04-08T22:55:51.952+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Lorikeet",
     "title": "Software Engineer",
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/479046de-5df8-4f51-a72c-2a8dd39a43cb",
     "posted_at": "2026-03-08T23:28:19.369+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Software Engineer",
+    "location": "New York City (US-Onsite)",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/62297a0c-f0f9-443a-90c4-c5ee26450227",
+    "posted_at": "2026-04-08T19:48:25.821+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
@@ -694,18 +742,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Commercial Counsel",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/f2ecb1bf-e033-479b-a644-94d21c09ce71",
-    "posted_at": "2026-02-11T19:13:50.914+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1348,7 +1384,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-03-25T14:46:12-04:00",
+    "posted_at": "2026-04-08T13:22:01-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1396,7 +1432,7 @@
     "title": "Software Engineer, Android",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7567754003",
-    "posted_at": "2026-03-10T12:46:26-04:00",
+    "posted_at": "2026-04-08T11:49:56-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1429,7 +1465,7 @@
   },
   {
     "company": "Read AI",
-    "title": "Product Designer - AI Assistants & Tools",
+    "title": "Senior Product Designer - AI Assistants & Tools",
     "location": "Read AI - Seattle HQ",
     "url": "https://jobs.ashbyhq.com/read-ai/a4ecb65c-d9a0-4e25-bade-7f613dd56df3",
     "posted_at": "2026-04-07T17:28:21.071+00:00",
