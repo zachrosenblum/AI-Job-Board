@@ -145,18 +145,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Manager, Customer Success",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4989228008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
     "location": "Boston, MA; San Francisco, CA | New York City, NY; Seattle, WA; Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
@@ -337,7 +325,7 @@
   },
   {
     "company": "Replit",
-    "title": "Social Media Support Specialist (FTE Weekends)",
+    "title": "Social Media Support Specialist (Weekend Shift)",
     "location": "NYC (SoHo) Hybrid",
     "url": "https://jobs.ashbyhq.com/replit/97c5226a-0866-44b7-b46b-2086f2318cb2",
     "posted_at": "2026-04-03T23:08:26.202+00:00",
@@ -353,6 +341,30 @@
     "location": "Remote (United States)",
     "url": "https://jobs.ashbyhq.com/replit/c6f89dfa-5600-4828-9635-530f44f17470",
     "posted_at": "2026-04-04T00:35:03.806+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Replit",
+    "title": "Premium Support Engineering Manager (London)",
+    "location": "Remote - United Kingdom",
+    "url": "https://jobs.ashbyhq.com/replit/3bdf2103-32ea-45c0-8131-a17ba648a633",
+    "posted_at": "2026-04-09T16:55:57.094+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Replit",
+    "title": "Premium Support Engineering Manager (Singapore)",
+    "location": "Remote - Singapore",
+    "url": "https://jobs.ashbyhq.com/replit/a711b209-9b7b-48b8-b16b-a24b1bfee40e",
+    "posted_at": "2026-04-09T17:01:13.858+00:00",
     "source": "ashby",
     "careers_url": "https://replit.com/careers",
     "min_years": 2,
@@ -509,18 +521,6 @@
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/479046de-5df8-4f51-a72c-2a8dd39a43cb",
     "posted_at": "2026-03-08T23:28:19.369+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Software Engineer",
-    "location": "New York City (US-Onsite)",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/62297a0c-f0f9-443a-90c4-c5ee26450227",
-    "posted_at": "2026-04-08T19:48:25.821+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
@@ -709,18 +709,6 @@
   },
   {
     "company": "Notion",
-    "title": "Head of Internal Audit",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/ee0a995c-e6b3-4561-bde5-c915fa1f20a0",
-    "posted_at": "2026-01-13T00:08:41.079+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 15,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
     "title": "Account Executive, Commercial, MENA",
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/notion/a4d1527b-e195-434b-8d8f-7c492aaabe1a",
@@ -888,18 +876,6 @@
     "match_reason": "min_years_1"
   },
   {
-    "company": "Lovable",
-    "title": "Internal Communications Lead",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/9bce2901-4770-4b38-a807-e2439bfce33a",
-    "posted_at": "2026-01-27T09:54:10.147+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
@@ -1045,6 +1021,18 @@
   },
   {
     "company": "Clay",
+    "title": "ClayDR Manager (SDR Manager)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/1a9bd842-0804-470d-9450-063fd181fcfa",
+    "posted_at": "2026-04-10T01:18:21.771+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
     "title": "Office & Community Coordinator (SF)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/246fdd7b-a7fd-42d6-82e4-1b75110b6904",
@@ -1066,18 +1054,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Customer Education - Clay Cohorts",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/f50ce265-afa3-4da7-9d1b-f0b02256282c",
-    "posted_at": "2026-03-11T22:34:03.308+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
@@ -1109,6 +1085,30 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/5285ed8d-1ba4-4836-8b69-a66bf930f204",
     "posted_at": "2026-04-08T14:20:07.440+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "Internal Events Coordinator",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/8d88381a-7fa6-4034-960e-bfd74181b02b",
+    "posted_at": "2026-04-09T20:53:30.316+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 3,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR Manager (SDR Manager)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/claylabs/f594adf7-32a9-43c7-9a36-495a5c710121",
+    "posted_at": "2026-04-10T01:19:57.523+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
