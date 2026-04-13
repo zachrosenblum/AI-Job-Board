@@ -241,6 +241,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Software Engineer, Full-stack",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
+    "posted_at": "2026-04-13T07:57:06-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Solutions Architect, National Security",
     "location": "Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126080008",
@@ -256,7 +268,7 @@
     "title": "Staff+ Software Engineer, Full-stack",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-    "posted_at": "2026-04-08T14:57:51-04:00",
+    "posted_at": "2026-04-13T07:56:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
