@@ -241,18 +241,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Software Engineer, Full-stack",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174743008",
-    "posted_at": "2026-04-13T07:57:06-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Solutions Architect, National Security",
     "location": "Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126080008",
@@ -481,18 +469,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Geo Enterprise Account Executive",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/cursor/60db2ac0-0d05-4723-8840-9c1f909dd2cf",
-    "posted_at": "2026-04-07T15:39:51.913+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cursor",
     "title": "Recruiting Coordination Lead",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/577fc7f5-ddae-430d-85b9-961844d35a66",
@@ -533,18 +509,6 @@
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/f5aaefdd-7b55-4b68-b841-24fa8b14224c",
     "posted_at": "2026-03-16T22:16:06.196+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Recruiting Coordinator & Sourcer",
-    "location": "US - Remote (West Coast)",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/b7bbe88f-aa16-49c2-ae85-c47c4dcd7bd7",
-    "posted_at": "2026-03-24T20:47:18.763+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
@@ -997,18 +961,6 @@
   },
   {
     "company": "Clay",
-    "title": "Manager, Enterprise Growth",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/claylabs/48a73706-eb73-48dd-b0fb-42c873d7f9ec",
-    "posted_at": "2026-01-20T01:16:32.802+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "GTM Data Analyst",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03",
@@ -1357,18 +1309,6 @@
   },
   {
     "company": "OpusClip",
-    "title": "Full Stack Engineer (Frontend)",
-    "location": "Palo Alto",
-    "url": "https://jobs.ashbyhq.com/opusclip/01b0c976-e959-46d9-9e9c-b4342894e483",
-    "posted_at": "2026-02-10T21:44:41.049+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
-  },
-  {
-    "company": "OpusClip",
     "title": "Full Stack Engineer",
     "location": "Burnaby",
     "url": "https://jobs.ashbyhq.com/opusclip/b4fe8c5d-ef27-4e56-b5bb-b8df3b47301f",
@@ -1420,24 +1360,12 @@
     "title": "Sales Development Representative",
     "location": "Phoenix, Arizona, United States",
     "url": "https://otter.ai/careers?gh_jid=7666642003",
-    "posted_at": "2026-03-31T20:59:37-04:00",
+    "posted_at": "2026-04-13T14:10:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Android",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=7567754003",
-    "posted_at": "2026-04-08T11:49:56-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Otter.ai",
