@@ -85,6 +85,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Head of International - Partner Solutions Architecture, Applied AI",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146999008",
+    "posted_at": "2026-04-14T13:21:34-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 5,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Internal Communications Manager, Policy",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008",
@@ -110,8 +122,8 @@
   {
     "company": "Anthropic",
     "title": "International GTM Onboarding Lead",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
     "posted_at": "2026-04-01T10:49:08-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -122,8 +134,8 @@
   {
     "company": "Anthropic",
     "title": "International GTM Onboarding Lead",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5127050008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5121918008",
     "posted_at": "2026-04-01T10:49:08-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -697,7 +709,7 @@
   },
   {
     "company": "Notion",
-    "title": "Field Marketing Event Contractor (EMEA)",
+    "title": "Field Marketing Event Contractor, EMEA",
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/notion/63a4ef8e-cab4-440d-86e1-55f7a97a48cb",
     "posted_at": "2026-02-16T17:06:34.636+00:00",
@@ -766,6 +778,18 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Marketing Specialist, Growth and Demand, EMEA",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/898cad25-2709-4e69-85d3-8b68f4370538",
+    "posted_at": "2026-04-14T15:40:36.182+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Retell AI",
@@ -862,6 +886,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Metaview",
+    "title": "Engagement Associate",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/metaview/8e857bb1-bc1b-4b55-b894-df07d273284f",
+    "posted_at": "2026-04-15T10:55:23.557+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 2,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Metaview",
@@ -1285,6 +1321,18 @@
   },
   {
     "company": "OpusClip",
+    "title": "AI PM Intern (Vancouver)",
+    "location": "Burnaby",
+    "url": "https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298",
+    "posted_at": "2026-04-14T18:25:52.873+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.opus.pro/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpusClip",
     "title": "Senior Web/Visual Designer",
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/opusclip/01d30591-c70b-4538-a3a4-e320dd16f088",
@@ -1387,6 +1435,18 @@
     "posted_at": "2026-03-26T15:20:17-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Alma",
+    "title": "Customer Experience Manager",
+    "location": "Remote, Contiguous US",
+    "url": "https://job-boards.greenhouse.io/alma/jobs/8505399002",
+    "posted_at": "2026-04-14T11:37:23-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
