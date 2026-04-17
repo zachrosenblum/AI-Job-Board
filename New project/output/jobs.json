@@ -205,18 +205,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Senior Software Engineer, Databases",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5151066008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
     "title": "SMB Account Executive, Industries",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4931782008",
@@ -1036,7 +1024,7 @@
     "title": "Account Executive (GTME - High Velocity)",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/741b403b-6581-4c55-ad98-03eb51d66795",
-    "posted_at": "2026-03-13T22:34:16.771+00:00",
+    "posted_at": "2026-04-16T21:01:14.579+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1138,18 +1126,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cognition",
-    "title": "Product Engineer",
-    "location": "San Francisco Bay Area",
-    "url": "https://jobs.ashbyhq.com/cognition/439404bb-3185-4d22-b6df-4a5e39a510d6",
-    "posted_at": "2026-01-13T01:45:08.433+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Cognition",
@@ -1432,7 +1408,7 @@
     "title": "Customer Experience Manager",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8505399002",
-    "posted_at": "2026-04-14T11:37:23-04:00",
+    "posted_at": "2026-04-16T13:24:28-04:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
