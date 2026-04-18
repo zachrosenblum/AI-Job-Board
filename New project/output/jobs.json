@@ -528,6 +528,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Lorikeet",
+    "title": "Forward Deployed Product Manager",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/86236bbe-2a1a-4f2a-8f33-4d2a697dc19d",
+    "posted_at": "2026-04-17T23:32:49.650+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Notion",
     "title": "Account Executive, Commercial",
     "location": "San Francisco, California",
@@ -1129,6 +1141,18 @@
   },
   {
     "company": "Cognition",
+    "title": "Product Marketer",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/cognition/60ac2393-2727-4c88-953b-013e7bb418f8",
+    "posted_at": "2026-04-18T11:27:37.751+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
     "title": "AI Support Engineer",
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/cognition/02772183-104d-4cc6-92a4-8e928f51b862",
@@ -1162,18 +1186,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cognition",
-    "title": "International Field CTO",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/cognition/e345b98b-e67c-4261-a097-9b9bb8ee36c2",
-    "posted_at": "2025-12-18T18:50:48.304+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Cognition",
@@ -1336,7 +1348,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-04-15T14:47:58-04:00",
+    "posted_at": "2026-04-17T15:54:23-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
