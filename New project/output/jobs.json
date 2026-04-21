@@ -85,6 +85,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Field Marketing Manager, Startups",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191833008",
+    "posted_at": "2026-04-20T15:11:25-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Head of International - Partner Solutions Architecture, Applied AI",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146999008",
@@ -217,6 +229,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Software Engineer, Safeguards Foundations (Internal Tooling)",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191433008",
+    "posted_at": "2026-04-20T11:22:41-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Solutions Architect, National Security",
     "location": "Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126080008",
@@ -232,7 +256,7 @@
     "title": "Staff+ Software Engineer, Full-stack",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-    "posted_at": "2026-04-13T07:56:22-04:00",
+    "posted_at": "2026-04-20T19:28:44-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -334,6 +358,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Replit",
+    "title": "Business Development Representative (London)",
+    "location": "Remote - United Kingdom",
+    "url": "https://jobs.ashbyhq.com/replit/7b5e1698-7baa-442e-a0d2-9683f93dbdd1",
+    "posted_at": "2026-04-21T00:25:24.155+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 0,
+    "entry_level": false,
+    "match_reason": "min_years_0"
   },
   {
     "company": "Cursor",
@@ -481,18 +517,6 @@
   },
   {
     "company": "Lorikeet",
-    "title": "Solutions Engineer",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/f5aaefdd-7b55-4b68-b841-24fa8b14224c",
-    "posted_at": "2026-03-16T22:16:06.196+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
     "title": "Solutions Architect",
     "location": "US - Remote",
     "url": "https://jobs.ashbyhq.com/Lorikeet/a00d35af-2d47-4ed6-8d99-2cb1fb86e44f",
@@ -520,7 +544,7 @@
     "title": "People Operations Generalist",
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/1a6c1640-b43e-4aab-838f-9ea33a67c557",
-    "posted_at": "2026-03-30T20:40:06.836+00:00",
+    "posted_at": "2026-04-20T23:12:02.646+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
@@ -1190,7 +1214,7 @@
   {
     "company": "Cognition",
     "title": "Sales Development Representative",
-    "location": "Austin, Texas",
+    "location": "New York City",
     "url": "https://jobs.ashbyhq.com/cognition/001a11ed-d7bb-4c78-a260-1d28c12bf61a",
     "posted_at": "2025-11-18T16:22:24.715+00:00",
     "source": "ashby",
@@ -1360,7 +1384,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-04-17T15:54:23-04:00",
+    "posted_at": "2026-04-20T15:03:16-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1432,12 +1456,24 @@
     "title": "Customer Experience Manager",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8505399002",
-    "posted_at": "2026-04-16T13:24:28-04:00",
+    "posted_at": "2026-04-20T13:18:47-04:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Alma",
+    "title": "Senior Business Intelligence Associate, Marketing",
+    "location": "Remote, Contiguous US",
+    "url": "https://job-boards.greenhouse.io/alma/jobs/8514953002",
+    "posted_at": "2026-04-20T10:58:38-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://helloalma.com/careers",
+    "min_years": 2,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Read AI",
