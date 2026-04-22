@@ -1,9 +1,9 @@
 company,title,location,url,posted_at,source,careers_url,min_years,entry_level,match_reason
 Anthropic,"Account Executive, Startups","San Francisco, CA | New York City, NY",https://job-boards.greenhouse.io/anthropic/jobs/4461450008,2026-04-02T14:19:05-04:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
-Anthropic,"Corporate Accountant, Accounting Operations","San Francisco, CA; Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/5130251008,2026-04-01T10:49:08-04:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
 Anthropic,"Emerging Account Executive, Startups","New York City, NY; San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/5079916008,2026-04-01T10:49:08-04:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
 Anthropic,"Engineering Manager, GPU (ML Accelerator)","San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4741104008,2026-04-01T10:49:08-04:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
 Anthropic,"Engineering Manager, Inference","San Francisco, CA | New York City, NY | Seattle, WA",https://job-boards.greenhouse.io/anthropic/jobs/4741102008,2026-04-01T10:49:08-04:00,greenhouse,https://www.anthropic.com/careers/jobs,1,False,min_years_1
+Anthropic,"Enterprise Account Executive, Federal Civilian Sales - State & International","Washington, DC",https://job-boards.greenhouse.io/anthropic/jobs/5196015008,2026-04-21T18:40:38-04:00,greenhouse,https://www.anthropic.com/careers/jobs,7,True,entry_title
 Anthropic,Executive Engagement Lead - International,"London, UK",https://job-boards.greenhouse.io/anthropic/jobs/5151916008,2026-04-07T15:53:30-04:00,greenhouse,https://www.anthropic.com/careers/jobs,5,True,entry_title
 Anthropic,"[Expression of Interest] Research Manager, Interpretability","San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/4980436008,2026-04-03T12:07:44-04:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
 Anthropic,"Field Marketing Manager, Startups","San Francisco, CA",https://job-boards.greenhouse.io/anthropic/jobs/5191833008,2026-04-20T15:11:25-04:00,greenhouse,https://www.anthropic.com/careers/jobs,2,False,min_years_2
@@ -35,7 +35,7 @@ Cursor,Growth,San Francisco,https://jobs.ashbyhq.com/cursor/a07e8d3c-5591-4bc1-a
 Cursor,Recruiting Coordinator,San Francisco,https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee,2026-03-10T15:29:02.532+00:00,ashby,https://www.cursor.com/careers,2,False,min_years_2
 Cursor,Campus Lead,San Francisco,https://jobs.ashbyhq.com/cursor/b8709e42-df9b-49de-820f-6954d397cd06,2026-01-09T16:50:17.322+00:00,ashby,https://www.cursor.com/careers,1,False,min_years_1
 Cursor,"Data Scientist, Agents",San Francisco,https://jobs.ashbyhq.com/cursor/6171cf55-7b93-494d-b334-daf91448dbfd,2026-01-29T21:46:27.233+00:00,ashby,https://www.cursor.com/careers,2,False,min_years_2
-Cursor,Commercial Expansion AE (NYC),San Francisco,https://jobs.ashbyhq.com/cursor/9e9c4f45-debf-426b-b594-51e79431ac3d,2026-03-23T18:35:44.582+00:00,ashby,https://www.cursor.com/careers,2,False,min_years_2
+Cursor,Commercial Expansion AE,San Francisco,https://jobs.ashbyhq.com/cursor/9e9c4f45-debf-426b-b594-51e79431ac3d,2026-03-23T18:35:44.582+00:00,ashby,https://www.cursor.com/careers,2,False,min_years_2
 Cursor,Geo Enterprise Account Executive,New York,https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233,2026-03-19T03:55:38.741+00:00,ashby,https://www.cursor.com/careers,1,False,min_years_1
 Cursor,Account Associate,San Francisco,https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80,2026-03-20T18:14:58.357+00:00,ashby,https://www.cursor.com/careers,1,True,entry_title
 Cursor,Account Associate,New York,https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb,2026-03-20T18:12:54.819+00:00,ashby,https://www.cursor.com/careers,1,True,entry_title
@@ -92,6 +92,7 @@ Clay,Account Executive (GTME - High Velocity),New York,https://jobs.ashbyhq.com/
 Clay,Marketing Recruiter,New York,https://jobs.ashbyhq.com/claylabs/5285ed8d-1ba4-4836-8b69-a66bf930f204,2026-04-08T14:20:07.440+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
 Clay,Internal Events Coordinator,New York,https://jobs.ashbyhq.com/claylabs/8d88381a-7fa6-4034-960e-bfd74181b02b,2026-04-09T20:53:30.316+00:00,ashby,https://www.clay.com/careers,3,True,entry_title
 Clay,ClayDR Manager (SDR Manager),San Francisco,https://jobs.ashbyhq.com/claylabs/f594adf7-32a9-43c7-9a36-495a5c710121,2026-04-10T01:19:57.523+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
+Clay,French-Speaking ClayDR (SDR - French-Speaking),London,https://jobs.ashbyhq.com/claylabs/9b05b885-eb08-4ad0-82b1-4da33dcad4a2,2026-04-21T19:59:24.543+00:00,ashby,https://www.clay.com/careers,1,False,min_years_1
 Crosby,Operations Lead,New York City,https://jobs.ashbyhq.com/crosby/9afda82f-1c36-4010-b89c-50d9ed04ed0e,2025-06-17T23:24:12.856+00:00,ashby,https://crosby.ai/careers,2,False,min_years_2
 Crosby,Talent Coordinator,New York City,https://jobs.ashbyhq.com/crosby/cdf7e9da-3b0c-468a-a82a-fb6713755e96,2026-03-09T21:28:30.309+00:00,ashby,https://crosby.ai/careers,1,False,min_years_1
 Crosby,Data Scientist,New York City,https://jobs.ashbyhq.com/crosby/6a45af68-13e0-4a1e-812a-8f6d4a187b10,2026-03-31T15:35:03.363+00:00,ashby,https://crosby.ai/careers,1,False,min_years_1
