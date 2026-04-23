@@ -196,7 +196,7 @@
     "title": "Security Engineer Lead, Corporate Security",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135098008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
+    "posted_at": "2026-04-22T18:09:03-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -385,30 +385,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Growth",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/a07e8d3c-5591-4bc1-acbe-9c7f954b4d41",
-    "posted_at": "2025-09-04T17:18:44.681+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cursor",
-    "title": "Recruiting Coordinator",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/8b795459-4f93-45b2-a570-bed630cb09ee",
-    "posted_at": "2026-03-10T15:29:02.532+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
     "title": "Campus Lead",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/b8709e42-df9b-49de-820f-6954d397cd06",
@@ -481,18 +457,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Recruiting Coordination Lead",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/577fc7f5-ddae-430d-85b9-961844d35a66",
-    "posted_at": "2026-03-31T18:22:32.315+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cursor",
     "title": "Associate Field Engineer",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670",
@@ -502,18 +466,6 @@
     "min_years": 2,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Software Engineer",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/479046de-5df8-4f51-a72c-2a8dd39a43cb",
-    "posted_at": "2026-03-08T23:28:19.369+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Lorikeet",
@@ -565,30 +517,6 @@
   },
   {
     "company": "Notion",
-    "title": "Account Executive, Commercial",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/0810dcca-ac29-4f72-b44f-a777d0108550",
-    "posted_at": "2025-07-25T18:42:17.281+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Account Executive, Commercial",
-    "location": "New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/600324a4-7df1-4499-9380-4c1cddd2a008",
-    "posted_at": "2024-06-25T00:11:06.167+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
     "title": "Software Engineer, Fullstack, Early Career",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
@@ -637,18 +565,6 @@
   },
   {
     "company": "Notion",
-    "title": "Account Executive, Commercial, Benelux",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/490dc0d9-81c5-4c29-af4e-eb6348201aeb",
-    "posted_at": "2026-01-15T11:42:10.421+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
     "title": "Manager, Sales Development",
     "location": "New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399",
@@ -661,51 +577,15 @@
   },
   {
     "company": "Notion",
-    "title": "Account Executive, Commercial, France",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/c76cc26a-bf61-4076-89f0-188ae6362f99",
-    "posted_at": "2025-09-23T13:45:11.172+00:00",
+    "title": "Talent Sourcer, APAC",
+    "location": "Tokyo, Japan",
+    "url": "https://jobs.ashbyhq.com/notion/72dcdd0a-1edc-4ba9-8ba5-6b93b0422c4d",
+    "posted_at": "2026-04-23T01:42:12.591+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
+    "min_years": 2,
     "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Account Executive, Commercial, DACH",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/17d76ca7-2edc-44c9-8ee4-9b1a07a6dbe9",
-    "posted_at": "2025-10-08T14:17:38.115+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Account Executive, Commercial, MENA",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/a4d1527b-e195-434b-8d8f-7c492aaabe1a",
-    "posted_at": "2026-01-23T14:11:52.167+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Account Executive, Commercial, UKI",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/3dfc254c-a51d-4bec-9f14-0d3be3fadcf6",
-    "posted_at": "2026-01-22T16:05:48.259+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
+    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -785,6 +665,78 @@
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/notion/898cad25-2709-4e69-85d3-8b68f4370538",
     "posted_at": "2026-04-14T15:40:36.182+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial",
+    "location": "New York, New York",
+    "url": "https://jobs.ashbyhq.com/notion/9526496b-5c39-456b-a454-ebec889e7149",
+    "posted_at": "2026-04-22T20:01:50.521+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, France",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/72d23f79-08d1-44df-b032-14a91f01887b",
+    "posted_at": "2026-04-22T20:04:44.048+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, Benelux",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/b72aff80-4430-47c4-801c-61d3e4e80f53",
+    "posted_at": "2026-04-22T19:51:50.199+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/fdc2a6c0-396a-45db-b465-683bacf4201e",
+    "posted_at": "2026-04-22T19:55:24.235+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, DACH",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/2763cf17-ca4e-4f78-b4ca-1c1cc8a7c051",
+    "posted_at": "2026-04-22T19:58:14.191+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive - Commercial, Sydney",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/notion/e7a7c42e-dfd5-41b1-88e5-fb9ed0b24c5f",
+    "posted_at": "2026-04-23T04:21:30.141+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 2,
@@ -1128,6 +1080,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Clay",
+    "title": "Account Executive (GTME) - SMB/High Velocity",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/claylabs/7bd35c48-c394-46c8-98a1-f809fed007d8",
+    "posted_at": "2026-04-23T10:59:32.243+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Crosby",
     "title": "Operations Lead",
     "location": "New York City",
@@ -1162,6 +1126,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Crosby",
+    "title": "Controller",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/crosby/c5f2752b-e436-4357-bae5-f3c012393c32",
+    "posted_at": "2026-04-23T01:12:52.681+00:00",
+    "source": "ashby",
+    "careers_url": "https://crosby.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cognition",
@@ -1504,47 +1480,11 @@
     "title": "Growth Account Executive",
     "location": "Read AI - Seattle HQ",
     "url": "https://jobs.ashbyhq.com/read-ai/1f75a09c-1536-4928-90b2-b03024cfc730",
-    "posted_at": "2026-04-15T16:34:51.326+00:00",
+    "posted_at": "2026-04-22T16:46:50.159+00:00",
     "source": "ashby",
     "careers_url": "https://www.read.ai/careers",
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Tavus",
-    "title": "AI Researcher (Rendering)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/tavus/5d2d9129-76a6-480b-a68c-ba467178c30e",
-    "posted_at": "2025-08-22T00:28:44.385+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.tavus.io/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Tavus",
-    "title": "Developer Experience Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/tavus/29e20457-80ee-44df-8634-e3b10902fa82",
-    "posted_at": "2026-04-02T17:24:13.054+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.tavus.io/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Tavus",
-    "title": "Growth Marketing Manager (PALs/Consumer)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/tavus/14f3c6bf-71d7-46f5-be3e-22276bae5fd1",
-    "posted_at": "2026-03-30T22:08:19.884+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.tavus.io/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   }
 ]
