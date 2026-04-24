@@ -61,18 +61,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Executive Engagement Lead - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5151916008",
-    "posted_at": "2026-04-07T15:53:30-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -173,6 +161,18 @@
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5169103008",
     "posted_at": "2026-04-01T10:49:08-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Recruiting Coordinator [contract]",
+    "location": "Remote-Friendly, United States",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
+    "posted_at": "2026-04-24T00:15:21-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -469,6 +469,18 @@
   },
   {
     "company": "Lorikeet",
+    "title": "Software Engineer",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/479046de-5df8-4f51-a72c-2a8dd39a43cb",
+    "posted_at": "2026-04-24T00:55:58.035+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
     "title": "Solutions Architect",
     "location": "US - Remote",
     "url": "https://jobs.ashbyhq.com/Lorikeet/a00d35af-2d47-4ed6-8d99-2cb1fb86e44f",
@@ -574,6 +586,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Software Engineer, New Grad",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555",
+    "posted_at": "2026-04-23T21:27:21.811+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Notion",
@@ -742,6 +766,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Notion",
+    "title": "Sales Development Representative, Sydney",
+    "location": "Sydney, Australia",
+    "url": "https://jobs.ashbyhq.com/notion/6df33d3e-4488-4d0b-a3ae-df3ec48519d5",
+    "posted_at": "2026-04-24T07:29:00.433+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Retell AI",
@@ -1372,7 +1408,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-04-20T15:03:16-04:00",
+    "posted_at": "2026-04-23T13:01:38-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1432,7 +1468,7 @@
     "title": "Software Engineer, Backend (Product)",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=5693892003",
-    "posted_at": "2026-03-26T15:20:17-04:00",
+    "posted_at": "2026-04-23T18:37:49-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
