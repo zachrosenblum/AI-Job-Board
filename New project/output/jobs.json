@@ -792,6 +792,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Notion",
+    "title": "Software Engineer, New Grad (AI)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9",
+    "posted_at": "2026-04-27T16:15:40.996+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Retell AI",
     "title": "Senior Software Engineer, AI Automations",
     "location": "San Francisco Bay Area",
@@ -961,6 +973,18 @@
   },
   {
     "company": "Clay",
+    "title": "Recruiting Coordinator",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/89668bae-92ed-4377-963c-c1a7cc435d24",
+    "posted_at": "2026-04-27T16:11:57.513+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/2eba1b88-d3d2-4c80-a506-b367d85110bd",
@@ -1045,18 +1069,6 @@
   },
   {
     "company": "Clay",
-    "title": "Office & Community Coordinator (London)",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/claylabs/75e07465-4e67-4e11-afb1-c33dd5a21d10",
-    "posted_at": "2026-03-09T15:06:39.619+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "Account Executive (GTME - High Velocity)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4",
@@ -1090,18 +1102,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Internal Events Coordinator",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/8d88381a-7fa6-4034-960e-bfd74181b02b",
-    "posted_at": "2026-04-09T20:53:30.316+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Clay",
@@ -1140,6 +1140,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Clay",
+    "title": "G+A Recruiter",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/56fc150f-3737-4efc-9d70-0308d414dbc1",
+    "posted_at": "2026-04-28T14:59:39.690+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Crosby",
     "title": "Operations Lead",
     "location": "New York City",
@@ -1150,18 +1162,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Crosby",
-    "title": "Talent Coordinator",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/crosby/cdf7e9da-3b0c-468a-a82a-fb6713755e96",
-    "posted_at": "2026-03-09T21:28:30.309+00:00",
-    "source": "ashby",
-    "careers_url": "https://crosby.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Crosby",
@@ -1489,6 +1489,18 @@
   },
   {
     "company": "Alma",
+    "title": "Clinical Integrity Specialist",
+    "location": "Remote, Contiguous US",
+    "url": "https://job-boards.greenhouse.io/alma/jobs/8524928002",
+    "posted_at": "2026-04-27T15:49:39-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://helloalma.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Alma",
     "title": "Customer Experience Manager",
     "location": "Remote, Contiguous US",
     "url": "https://job-boards.greenhouse.io/alma/jobs/8505399002",
@@ -1534,5 +1546,17 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Tavus",
+    "title": "Chief of Staff",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/tavus/5c2ce080-dcc2-40e0-9672-c951576b2dde",
+    "posted_at": "2026-04-28T10:43:47.341+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.tavus.io/careers",
+    "min_years": 0,
+    "entry_level": false,
+    "match_reason": "min_years_0"
   }
 ]
