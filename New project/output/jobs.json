@@ -541,6 +541,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Partnership Strategy & Operations Lead, International",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008",
+    "posted_at": "2026-05-01T05:27:24-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 7,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "People Legal Specialist",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5169103008",
@@ -568,7 +580,7 @@
     "title": "Safeguards Analyst, Account Abuse",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108841008",
-    "posted_at": "2026-04-03T12:07:48-04:00",
+    "posted_at": "2026-04-30T15:48:21-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -766,6 +778,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Replit",
+    "title": "Education Team Intern",
+    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "url": "https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c",
+    "posted_at": "2026-04-30T16:42:38.121+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Cursor",
@@ -1828,7 +1852,7 @@
     "title": "Customer Success Manager",
     "location": "San Francisco, CA",
     "url": "https://otter.ai/careers?gh_jid=7684538003",
-    "posted_at": "2026-04-24T17:08:29-04:00",
+    "posted_at": "2026-04-30T16:16:12-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1930,6 +1954,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Read AI",
+    "title": "Growth Account Executive",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/1f75a09c-1536-4928-90b2-b03024cfc730",
+    "posted_at": "2026-04-30T16:25:22.657+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Tavus",
