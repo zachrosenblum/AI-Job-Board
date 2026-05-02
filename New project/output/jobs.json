@@ -301,6 +301,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "Business Insights Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/821168d6-c97c-457a-9187-88a2cb95ba32",
+    "posted_at": "2026-05-01T16:42:08.797+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
     "title": "Performance Modeling Engineer ~2",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb",
@@ -793,7 +805,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Geo Enterprise Account Executive",
+    "title": "Account Executive, Geo Enterprise",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
     "posted_at": "2026-03-31T18:16:02.502+00:00",
@@ -829,7 +841,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Commercial Expansion AE",
+    "title": "Commercial Expansion Account Executive",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/9e9c4f45-debf-426b-b594-51e79431ac3d",
     "posted_at": "2026-03-23T18:35:44.582+00:00",
@@ -841,7 +853,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Geo Enterprise Account Executive",
+    "title": "Account Executive, Geo Enterprise",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233",
     "posted_at": "2026-03-19T03:55:38.741+00:00",
@@ -853,15 +865,15 @@
   },
   {
     "company": "Cursor",
-    "title": "Account Associate",
+    "title": "Sales Development Representative",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
     "posted_at": "2026-03-20T18:14:58.357+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 1,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Cursor",
@@ -877,15 +889,15 @@
   },
   {
     "company": "Cursor",
-    "title": "Associate Field Engineer",
+    "title": "Field Engineer",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670",
     "posted_at": "2026-04-08T22:55:51.952+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Lorikeet",
@@ -946,18 +958,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Software Engineer, Fullstack, Early Career",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/f7399542-9122-481a-bf64-43bf8093748b",
-    "posted_at": "2025-09-05T18:33:15.441+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Notion",
@@ -1282,18 +1282,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lovable",
-    "title": "Strategic Finance",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/c727b75e-5157-404d-a398-9980363ad4a5",
-    "posted_at": "2026-02-24T08:22:55.297+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Lovable",
