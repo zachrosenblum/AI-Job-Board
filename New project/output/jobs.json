@@ -1296,6 +1296,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Lovable",
+    "title": "Workplace Manager",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/lovable/38b8735e-58a7-412c-90c9-1d02297cc480",
+    "posted_at": "2026-05-04T13:59:30.371+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
