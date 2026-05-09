@@ -73,18 +73,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Datacenter Hardware Operations Technician, AI Compute Infrastructure - Stargate",
-    "location": "Remote - US",
-    "url": "https://jobs.ashbyhq.com/openai/b9a4a809-a965-4dbe-aeef-6ce1593903dd",
-    "posted_at": "2025-09-23T21:45:12.848+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
     "title": "Program Manager, Human Data",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
@@ -161,18 +149,6 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/b073abb1-cf6c-4fd9-a318-732fdd2f1408",
     "posted_at": "2026-02-23T21:29:26.146+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Manager, Forward Deployed Engineer (FDE), Life Sciences",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/679cc2c7-e153-480b-8b9f-ecb69a19975a",
-    "posted_at": "2026-02-27T00:03:20.956+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 2,
@@ -494,18 +470,6 @@
   {
     "company": "Anthropic",
     "title": "Recruiting Coordinator [contract]",
-    "location": "Remote-Friendly, United States",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
-    "posted_at": "2026-04-24T00:15:21-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Recruiting Coordinator [contract]",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5199976008",
     "posted_at": "2026-05-06T12:53:07-04:00",
@@ -816,6 +780,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Cursor",
+    "title": "SDR Intern",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/e3205875-39c4-4923-8cb2-2f3cce614a5c",
+    "posted_at": "2026-05-08T21:16:46.077+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Lorikeet",
     "title": "Software Engineer",
     "location": "Sydney, Australia HQ",
@@ -857,6 +833,18 @@
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/86236bbe-2a1a-4f2a-8f33-4d2a697dc19d",
     "posted_at": "2026-04-17T23:32:49.650+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Company Operations",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/78acb0dd-f83e-49ff-86f1-fa1a490cb8a5",
+    "posted_at": "2026-05-09T00:41:57.245+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 2,
@@ -1373,18 +1361,6 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/1a9bd842-0804-470d-9450-063fd181fcfa",
     "posted_at": "2026-04-10T01:18:21.771+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Office & Community Coordinator (SF)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/claylabs/246fdd7b-a7fd-42d6-82e4-1b75110b6904",
-    "posted_at": "2026-03-09T14:55:06.978+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
