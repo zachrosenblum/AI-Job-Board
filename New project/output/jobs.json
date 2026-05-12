@@ -265,6 +265,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "AI Deployment Engineer, Codex | Korea",
+    "location": "Seoul, South Korea",
+    "url": "https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731",
+    "posted_at": "2026-05-12T05:22:39.325+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpenAI",
     "title": "AI Deployment Engineer, Codex | Sydney",
     "location": "Sydney, Australia",
     "url": "https://jobs.ashbyhq.com/openai/d8665fa8-89f3-4414-824d-3a3fcc883de5",
@@ -577,18 +589,6 @@
   },
   {
     "company": "Replit",
-    "title": "Software Engineer - New Grad (Summer 2026)",
-    "location": "Foster City, CA (Hybrid) In office M,W,F",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-    "posted_at": "2025-10-01T16:02:14.468+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Replit",
     "title": "Business Development Representative",
     "location": "Salt Lake City, UT",
     "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
@@ -852,6 +852,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Lorikeet",
+    "title": "Founder's Office Associate",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/ecd4f11b-94b6-4d39-9d9e-ff0437f3f520",
+    "posted_at": "2026-05-11T20:56:25.944+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 1,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Notion",
     "title": "Manager, Commercial Sales",
     "location": "San Francisco, California",
@@ -910,18 +922,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
-    "title": "Talent Sourcer, APAC",
-    "location": "Tokyo, Japan",
-    "url": "https://jobs.ashbyhq.com/notion/72dcdd0a-1edc-4ba9-8ba5-6b93b0422c4d",
-    "posted_at": "2026-04-23T01:42:12.591+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1186,6 +1186,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Canva",
+    "title": "Frontend Engineer - International SG (Generative AI)",
+    "location": "Beijing",
+    "url": "https://www.lifeatcanva.com/en/jobs/6000000001062135/frontend-engineer-international-sg-generative-ai/",
+    "posted_at": "2026-05-11",
+    "source": "generic",
+    "careers_url": "https://www.canva.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Lovable",
@@ -1621,18 +1633,6 @@
   },
   {
     "company": "Cognition",
-    "title": "Lifecycle Marketer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cognition/20e66fc8-78c6-443f-80bd-10fb19fa63dc",
-    "posted_at": "2026-03-16T22:51:20.658+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cognition",
     "title": "Developer Community Manager",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cognition/b24559d8-c742-4da9-aa6c-581a00e56090",
@@ -1716,6 +1716,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "OpusClip",
+    "title": "Senior Software Engineer, Fullstack",
+    "location": "Mountain View",
+    "url": "https://jobs.ashbyhq.com/opusclip/da383166-30a7-4f39-9147-8828b871f431",
+    "posted_at": "2026-05-11T22:52:09.153+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.opus.pro/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Otter.ai",
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
@@ -1781,6 +1793,18 @@
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=5693892003",
     "posted_at": "2026-04-23T18:37:49-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Front-End",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7726813003",
+    "posted_at": "2026-05-11T14:04:56-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
