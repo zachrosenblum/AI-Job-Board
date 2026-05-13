@@ -697,7 +697,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Campus Lead",
+    "title": "Community Campus Lead",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/b8709e42-df9b-49de-820f-6954d397cd06",
     "posted_at": "2026-01-09T16:50:17.322+00:00",
@@ -778,6 +778,18 @@
     "min_years": 5,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Cursor",
+    "title": "Field Marketing Specialist, Americas",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/b8c189e9-671b-4157-aa25-738542e1c7ed",
+    "posted_at": "2026-05-12T18:26:19.093+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cursor",
@@ -1188,18 +1200,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Canva",
-    "title": "Frontend Engineer - International SG (Generative AI)",
-    "location": "Beijing",
-    "url": "https://www.lifeatcanva.com/en/jobs/6000000001062135/frontend-engineer-international-sg-generative-ai/",
-    "posted_at": "2026-05-11",
-    "source": "generic",
-    "careers_url": "https://www.canva.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Lovable",
     "title": "Lead Product Counsel",
     "location": "Stockholm",
@@ -1313,18 +1313,6 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/photoroom/904abc87-8f6f-482d-9205-e0032e4c45af",
     "posted_at": "2026-04-08T04:40:19.594+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Photoroom",
-    "title": "Customer Support Agent (Freelance/Part time)",
-    "location": "USA | Remote",
-    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
-    "posted_at": "2026-05-11T10:21:41.610+00:00",
     "source": "ashby",
     "careers_url": "https://www.photoroom.com/careers",
     "min_years": 1,
@@ -1768,7 +1756,7 @@
     "title": "Sales Development Representative",
     "location": "Phoenix, Arizona, United States",
     "url": "https://otter.ai/careers?gh_jid=7666642003",
-    "posted_at": "2026-05-04T18:32:40-04:00",
+    "posted_at": "2026-05-12T15:23:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 1,
