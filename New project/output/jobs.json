@@ -289,18 +289,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "AI Deployment Engineer, Codex | Singapore",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/openai/bd49dc36-bfc4-477e-8ddd-b0f8fc878c51",
-    "posted_at": "2026-05-08T05:08:59.592+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
     "title": "Associate General Counsel, Executive Compensation & Benefits",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/cfd44591-1d8a-431c-b082-2b68de4bc736",
@@ -416,18 +404,6 @@
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 10,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "International Readiness Lead",
-    "location": "London, UK; San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5151939008",
-    "posted_at": "2026-04-24T17:49:05-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 5,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -578,7 +554,7 @@
   {
     "company": "Replit",
     "title": "Software Engineering Intern (Summer 2026)",
-    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
     "posted_at": "2025-10-01T16:02:40.431+00:00",
     "source": "ashby",
@@ -602,7 +578,7 @@
   {
     "company": "Replit",
     "title": "Social Media Support Specialist (Weekend Shift)",
-    "location": "NYC (SoHo) Hybrid",
+    "location": "NYC (SoHo)",
     "url": "https://jobs.ashbyhq.com/replit/97c5226a-0866-44b7-b46b-2086f2318cb2",
     "posted_at": "2026-04-03T23:08:26.202+00:00",
     "source": "ashby",
@@ -614,7 +590,7 @@
   {
     "company": "Replit",
     "title": "Influencer Relations Coordinator (Contract)",
-    "location": "Remote (United States)",
+    "location": "Remote - United States",
     "url": "https://jobs.ashbyhq.com/replit/c6f89dfa-5600-4828-9635-530f44f17470",
     "posted_at": "2026-04-04T00:35:03.806+00:00",
     "source": "ashby",
@@ -662,7 +638,7 @@
   {
     "company": "Replit",
     "title": "Education Team Intern",
-    "location": "Foster City, CA (Hybrid) In office M,W,F",
+    "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/3590c5b2-3983-40f3-a787-ef3b1bc8218c",
     "posted_at": "2026-04-30T16:42:38.121+00:00",
     "source": "ashby",
@@ -674,7 +650,7 @@
   {
     "company": "Replit",
     "title": "Help Desk Technician",
-    "location": "NYC (SoHo) Hybrid",
+    "location": "NYC (SoHo)",
     "url": "https://jobs.ashbyhq.com/replit/dd369e14-013c-427a-951f-97e39dee50dd",
     "posted_at": "2026-05-05T22:53:13.197+00:00",
     "source": "ashby",
@@ -1549,18 +1525,6 @@
   },
   {
     "company": "Cognition",
-    "title": "AI Support Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cognition/02772183-104d-4cc6-92a4-8e928f51b862",
-    "posted_at": "2026-04-15T15:17:26.947+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cognition",
     "title": "Special Projects Engineer - Europe",
     "location": "London",
     "url": "https://jobs.ashbyhq.com/cognition/ca087c5e-b6e8-4852-90f0-f820c8f5f7ed",
@@ -1645,18 +1609,6 @@
   },
   {
     "company": "OpusClip",
-    "title": "Account Executive, Creators and Media",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/opusclip/83ccd01f-852e-4a43-a9e1-3df34929f365",
-    "posted_at": "2026-01-09T22:48:12.406+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "OpusClip",
     "title": "AI PM Intern",
     "location": "Mountain View",
     "url": "https://jobs.ashbyhq.com/opusclip/b3ac1b13-9afa-4e03-a91f-104f23e3b6db",
@@ -1685,18 +1637,6 @@
     "location": "Remote",
     "url": "https://jobs.ashbyhq.com/opusclip/01d30591-c70b-4538-a3a4-e320dd16f088",
     "posted_at": "2026-03-25T11:21:29.987+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpusClip",
-    "title": "Product Analyst",
-    "location": "Mountain View",
-    "url": "https://jobs.ashbyhq.com/opusclip/3aeb9689-56af-4a6d-a83f-697049cbc48b",
-    "posted_at": "2026-01-16T13:58:12.636+00:00",
     "source": "ashby",
     "careers_url": "https://www.opus.pro/careers",
     "min_years": 2,
