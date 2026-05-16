@@ -364,7 +364,7 @@
     "title": "Field Marketing Manager, Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191833008",
-    "posted_at": "2026-04-20T15:11:25-04:00",
+    "posted_at": "2026-05-15T13:59:59-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -380,6 +380,18 @@
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 5,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Head of International Customer Success",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218458008",
+    "posted_at": "2026-05-15T11:40:41-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -550,30 +562,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Replit",
-    "title": "Business Development Representative",
-    "location": "Salt Lake City, UT",
-    "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
-    "posted_at": "2026-05-06T17:45:57.469+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
-  },
-  {
-    "company": "Replit",
-    "title": "Social Media Support Specialist (Weekend Shift)",
-    "location": "NYC (SoHo)",
-    "url": "https://jobs.ashbyhq.com/replit/97c5226a-0866-44b7-b46b-2086f2318cb2",
-    "posted_at": "2026-04-03T23:08:26.202+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Replit",
@@ -874,18 +862,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Manager, Sales Development",
-    "location": "New York, New York",
-    "url": "https://jobs.ashbyhq.com/notion/d02d5ff4-fea3-4be8-b142-cb120e966399",
-    "posted_at": "2026-04-03T19:39:53.196+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Notion",
@@ -1193,6 +1169,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/lovable/38b8735e-58a7-412c-90c9-1d02297cc480",
     "posted_at": "2026-05-04T13:59:30.371+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lovable",
+    "title": "London Workplace Manager",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/lovable/2c0b0c0b-33ef-4e6a-a3b7-cbe1b67b9157",
+    "posted_at": "2026-05-15T19:02:11.522+00:00",
     "source": "ashby",
     "careers_url": "https://lovable.dev/careers",
     "min_years": 2,
