@@ -673,18 +673,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Commercial Expansion Account Executive",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/cursor/9e9c4f45-debf-426b-b594-51e79431ac3d",
-    "posted_at": "2026-03-23T18:35:44.582+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
     "title": "Account Executive, Geo Enterprise",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233",
@@ -829,18 +817,6 @@
   },
   {
     "company": "Notion",
-    "title": "Manager, Commercial Sales",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/5703a1d4-e1a2-4286-af10-a48c65fd4114",
-    "posted_at": "2026-03-25T18:07:10.457+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
     "title": "Software Engineer, Data Platform",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/91156750-4050-4621-aa45-0fb068308d2c",
@@ -874,6 +850,18 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Talent Sourcer, APAC",
+    "location": "Tokyo, Japan",
+    "url": "https://jobs.ashbyhq.com/notion/72dcdd0a-1edc-4ba9-8ba5-6b93b0422c4d",
+    "posted_at": "2026-05-18T01:40:58.890+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1258,6 +1246,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Metaview",
+    "title": "Account Executive, SMB",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/metaview/2ded57c0-dbcd-48ba-8cbf-af82d9f006ac",
+    "posted_at": "2026-05-18T14:27:53.418+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Photoroom",
