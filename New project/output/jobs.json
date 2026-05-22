@@ -289,7 +289,19 @@
   },
   {
     "company": "OpenAI",
-    "title": "Technical Accounting Manager, Compute Infrastructure",
+    "title": "Strategic Delivery Lead, International Public Sector",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/ff23e555-b23b-49dc-a56d-94f2d74398b9",
+    "posted_at": "2026-05-21T21:23:24.462+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 10,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
+    "title": "Senior Technical Accounting Manager, Compute Infrastructure",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/5c85c498-6459-4e4a-937c-6bc9150f743e",
     "posted_at": "2026-05-21T05:32:58.475+00:00",
@@ -301,10 +313,10 @@
   },
   {
     "company": "Anthropic",
-    "title": "Account Executive, Digital Native AI",
+    "title": "Account Executive, AI Native",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-05-21T11:57:48-04:00",
+    "posted_at": "2026-05-21T12:39:57-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -514,18 +526,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Replit",
-    "title": "Influencer Relations Coordinator (Contract)",
-    "location": "Remote - United States",
-    "url": "https://jobs.ashbyhq.com/replit/c6f89dfa-5600-4828-9635-530f44f17470",
-    "posted_at": "2026-04-04T00:35:03.806+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Replit",
@@ -985,6 +985,18 @@
   },
   {
     "company": "Lovable",
+    "title": "Recruitment Coordinator",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/lovable/b43ca587-46f4-4c78-89e7-1ff68dad99d2",
+    "posted_at": "2026-05-22T11:04:34.424+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lovable",
     "title": "Lead Product Counsel",
     "location": "Stockholm",
     "url": "https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3",
@@ -1037,6 +1049,18 @@
     "location": "London",
     "url": "https://jobs.ashbyhq.com/lovable/2c0b0c0b-33ef-4e6a-a3b7-cbe1b67b9157",
     "posted_at": "2026-05-15T19:02:11.522+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lovable",
+    "title": "Engineering Manager",
+    "location": "Stockholm",
+    "url": "https://jobs.ashbyhq.com/lovable/e5fa14ab-eec2-4303-a57e-38c1c79bdf69",
+    "posted_at": "2026-05-22T12:07:28.839+00:00",
     "source": "ashby",
     "careers_url": "https://lovable.dev/careers",
     "min_years": 2,
@@ -1157,6 +1181,18 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2",
     "posted_at": "2025-10-31T15:19:27.201+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "Solutions Engineer Manager",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1",
+    "posted_at": "2026-05-21T18:08:29.874+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1510,18 +1546,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Sales Development Representative",
-    "location": "Phoenix, Arizona, United States",
-    "url": "https://otter.ai/careers?gh_jid=7666642003",
-    "posted_at": "2026-05-12T15:23:00-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Otter.ai",
