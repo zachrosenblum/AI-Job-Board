@@ -936,6 +936,42 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, MENA",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/f0eb09f8-2b11-443e-9714-985bf1e83c52",
+    "posted_at": "2026-05-25T14:32:58.863+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, UKI",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/17b475c1-cc63-4966-8eb9-2af982feae0a",
+    "posted_at": "2026-05-25T14:13:06.549+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, CEE",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/5b6b2854-a0ec-427c-a985-6d2687b94b4f",
+    "posted_at": "2026-05-25T14:18:30.146+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Retell AI",
     "title": "Senior Software Engineer, AI Automations",
     "location": "San Francisco Bay Area",
