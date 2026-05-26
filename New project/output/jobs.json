@@ -972,6 +972,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Notion",
+    "title": "Account Executive, Commercial, MEDIT",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/notion/f90dbd09-818d-436d-9b7b-c6d25bb5cab8",
+    "posted_at": "2026-05-26T13:23:56.522+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Retell AI",
     "title": "Senior Software Engineer, AI Automations",
     "location": "San Francisco Bay Area",
@@ -1048,7 +1060,7 @@
     "title": "Recruitment Coordinator",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/lovable/b43ca587-46f4-4c78-89e7-1ff68dad99d2",
-    "posted_at": "2026-05-22T11:04:34.424+00:00",
+    "posted_at": "2026-05-26T15:13:22.925+00:00",
     "source": "ashby",
     "careers_url": "https://lovable.dev/careers",
     "min_years": 2,
@@ -1224,6 +1236,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Photoroom",
+    "title": "Customer Support Agent (Freelance/Part time)",
+    "location": "USA | Remote",
+    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
+    "posted_at": "2026-05-26T09:43:21.452+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1249,7 +1273,7 @@
   },
   {
     "company": "Clay",
-    "title": "Solutions Engineer Manager",
+    "title": "Solutions Engineering Manager",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1",
     "posted_at": "2026-05-21T18:08:29.874+00:00",
