@@ -445,18 +445,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Manager, Forward Deployed Engineering",
-    "location": "San Francisco, CA | New York City, NY; Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-05-14T16:56:04-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Manager, Sales Development (Startups & Commercial)",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
@@ -466,18 +454,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Partnership Strategy & Operations Lead, International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008",
-    "posted_at": "2026-05-01T05:27:24-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -610,6 +586,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Replit",
+    "title": "Engineering Manager, Anti-Abuse & Security",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/ccab8626-7245-4ed9-9c99-b77df70b2dc8",
+    "posted_at": "2026-05-26T19:11:27.595+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cursor",
@@ -1236,18 +1224,6 @@
     "match_reason": "min_years_1"
   },
   {
-    "company": "Photoroom",
-    "title": "Customer Support Agent (Freelance/Part time)",
-    "location": "USA | Remote",
-    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
-    "posted_at": "2026-05-26T09:43:21.452+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1354,18 +1330,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "French-Speaking ClayDR (SDR - French-Speaking)",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/claylabs/9b05b885-eb08-4ad0-82b1-4da33dcad4a2",
-    "posted_at": "2026-04-21T19:59:24.543+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
@@ -1541,6 +1505,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cognition/c42ae7ec-4636-48a0-b682-34ac1c0fb3c6",
     "posted_at": "2026-03-16T22:48:41.813+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
+    "title": "Support Specialist, Subscriptions & Billing",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cognition/48e3fa1e-e7b6-4822-b501-0714187c4ebd",
+    "posted_at": "2026-05-27T15:23:43.939+00:00",
     "source": "ashby",
     "careers_url": "https://cognition.ai/careers",
     "min_years": 2,
