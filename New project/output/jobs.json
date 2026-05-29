@@ -457,18 +457,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Senior International Payroll Specialist",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5076929008",
-    "posted_at": "2026-04-08T20:14:26-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "Software Engineer, Safeguards Foundations (Internal Tooling)",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191433008",
@@ -622,18 +610,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cursor",
-    "title": "Associate Field Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/01fdd3d5-be8c-47d5-a317-bfe797739670",
-    "posted_at": "2026-04-08T22:55:51.952+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Cursor",
@@ -1069,6 +1045,18 @@
   },
   {
     "company": "Lovable",
+    "title": "Trust and Safety Support Specialist",
+    "location": "Stockholm",
+    "url": "https://jobs.ashbyhq.com/lovable/99fc7e4e-77f0-41fd-8a53-86f102947390",
+    "posted_at": "2026-05-29T15:25:25.714+00:00",
+    "source": "ashby",
+    "careers_url": "https://lovable.dev/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lovable",
     "title": "San Francisco Workplace Manager",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/lovable/38b8735e-58a7-412c-90c9-1d02297cc480",
@@ -1249,18 +1237,6 @@
   },
   {
     "company": "Clay",
-    "title": "ClayDR Manager (SDR Manager)",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/1a9bd842-0804-470d-9450-063fd181fcfa",
-    "posted_at": "2026-04-10T01:18:21.771+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "Account Executive (GTME - High Velocity)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4",
@@ -1273,34 +1249,10 @@
   },
   {
     "company": "Clay",
-    "title": "Account Executive (GTME - High Velocity)",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/741b403b-6581-4c55-ad98-03eb51d66795",
-    "posted_at": "2026-04-16T21:01:14.579+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "Marketing Recruiter",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/5285ed8d-1ba4-4836-8b69-a66bf930f204",
     "posted_at": "2026-04-08T14:20:07.440+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "ClayDR Manager (SDR Manager)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/claylabs/f594adf7-32a9-43c7-9a36-495a5c710121",
-    "posted_at": "2026-04-10T01:19:57.523+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1325,6 +1277,42 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/f8e696cf-55b8-4c0e-80d3-2c03abaa09a4",
     "posted_at": "2026-05-28T14:41:15.284+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR Manager (SDR Manager)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/11ac832e-9eb2-415a-ad7e-5b9632331bda",
+    "posted_at": "2026-05-28T20:21:20.671+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "Account Executive (GTME - High Velocity)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/00690ee1-164a-4594-86fb-9f9ace42405e",
+    "posted_at": "2026-05-28T20:26:18.253+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR Manager (SDR Manager)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/claylabs/c236eda8-590d-4116-a6ad-be83499be304",
+    "posted_at": "2026-05-28T20:33:49.421+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1414,6 +1402,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cognition",
+    "title": "Applied AI Transformation Manager",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
+    "posted_at": "2025-07-11T03:24:44.018+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cognition",
