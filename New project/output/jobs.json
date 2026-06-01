@@ -336,162 +336,6 @@
     "match_reason": "entry_title"
   },
   {
-    "company": "Anthropic",
-    "title": "Account Executive, AI Native",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-05-22T16:05:41-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Engineering Manager, GPU (ML Accelerator)",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Engineering Manager, Inference",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741102008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Engineering Manager, Research Tools",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5223093008",
-    "posted_at": "2026-05-22T17:13:51-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Enterprise Account Executive, Federal Civilian Sales - State & International",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196015008",
-    "posted_at": "2026-04-21T18:40:38-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "[Expression of Interest] Research Manager, Interpretability",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
-    "posted_at": "2026-04-03T12:07:44-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Field Marketing Manager, Startups",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191833008",
-    "posted_at": "2026-05-20T23:35:31-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Head of International Applied AI Architecture, Partnerships",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146999008",
-    "posted_at": "2026-04-24T11:44:13-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Internal Communications Manager, Policy",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 10,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Manager, Sales Development (Startups & Commercial)",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
-    "posted_at": "2026-04-07T16:15:49-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Software Engineer, Safeguards Foundations (Internal Tooling)",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191433008",
-    "posted_at": "2026-04-20T11:22:41-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 4,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Solutions Architect, National Security",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126080008",
-    "posted_at": "2026-04-01T10:49:08-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Staff+ Software Engineer, Full-stack",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-    "posted_at": "2026-04-20T19:28:44-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
     "company": "Replit",
     "title": "Software Engineering Intern (Summer 2026)",
     "location": "Foster City, CA",
@@ -924,6 +768,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Notion",
+    "title": "International Tax Manager",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/1bdc92f7-8624-4fb8-b746-158b56882c9a",
+    "posted_at": "2026-06-01T18:14:17.760+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 6,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Retell AI",
     "title": "Senior Software Engineer, AI Automations",
     "location": "San Francisco Bay Area",
@@ -1093,15 +949,15 @@
   },
   {
     "company": "Metaview",
-    "title": "Engagement Associate",
+    "title": "Engagement Manager, SMB",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/metaview/3efdf40c-9971-4a93-a00a-5c0f4f30ab5a",
     "posted_at": "2026-04-01T14:18:02.459+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
     "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Metaview",
@@ -1117,15 +973,15 @@
   },
   {
     "company": "Metaview",
-    "title": "Engagement Associate",
+    "title": "Engagement Manager, SMB",
     "location": "London",
     "url": "https://jobs.ashbyhq.com/metaview/8e857bb1-bc1b-4b55-b894-df07d273284f",
     "posted_at": "2026-04-15T10:55:23.557+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
     "min_years": 2,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Metaview",
@@ -1174,6 +1030,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Metaview",
+    "title": "Engagement Manager, SMB",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/metaview/329bb719-b13d-4244-8a47-1e2b9f448584",
+    "posted_at": "2026-06-01T17:06:47.696+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Photoroom",
