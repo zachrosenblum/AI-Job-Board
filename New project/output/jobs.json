@@ -648,6 +648,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Lorikeet",
+    "title": "Forward Deployed Engineer",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/1fc7b9a6-cd21-4e9b-9b73-5e60194f514e",
+    "posted_at": "2026-06-01T16:11:32.233+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Notion",
     "title": "Sales Development Representative, Japan",
     "location": "Tokyo, Japan",
@@ -1152,6 +1164,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Photoroom",
+    "title": "Customer Support Agent (Freelance/Part time)",
+    "location": "USA | Remote",
+    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
+    "posted_at": "2026-06-03T09:22:59.310+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1555,6 +1579,78 @@
     "posted_at": "2026-05-22T21:51:32.609+00:00",
     "source": "ashby",
     "careers_url": "https://www.opus.pro/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Client Platform Engineer",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7518107003",
+    "posted_at": "2026-05-27T19:04:06-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Production Engineer",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=6667756003",
+    "posted_at": "2026-05-05T18:54:18-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (Infrastructure)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=6531803003",
+    "posted_at": "2026-05-22T16:23:37-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (Product)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=5693892003",
+    "posted_at": "2026-05-22T16:23:16-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Data Infrastructure",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7569012003",
+    "posted_at": "2026-06-01T22:17:04-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Front-End",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7726813003",
+    "posted_at": "2026-05-11T14:04:56-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
