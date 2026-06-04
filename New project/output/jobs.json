@@ -400,7 +400,7 @@
     "title": "Field Marketing Manager, Startups",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191833008",
-    "posted_at": "2026-05-20T23:35:31-04:00",
+    "posted_at": "2026-06-04T00:23:29-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -434,9 +434,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Sales Development (Startups & Commercial)",
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "New York City, NY; San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
-    "posted_at": "2026-04-07T16:15:49-04:00",
+    "posted_at": "2026-06-03T17:47:06-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -1164,18 +1164,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Photoroom",
-    "title": "Customer Support Agent (Freelance/Part time)",
-    "location": "USA | Remote",
-    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
-    "posted_at": "2026-06-03T09:22:59.310+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1198,6 +1186,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR (Sales Development Representative)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/99c25b5c-b91b-4490-8681-87f58ef87b83",
+    "posted_at": "2026-06-03T21:26:44.724+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
@@ -1522,30 +1522,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpusClip",
-    "title": "AI PM Intern",
-    "location": "Mountain View",
-    "url": "https://jobs.ashbyhq.com/opusclip/b3ac1b13-9afa-4e03-a91f-104f23e3b6db",
-    "posted_at": "2026-03-16T20:46:47.943+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpusClip",
-    "title": "AI PM Intern (Vancouver)",
-    "location": "Burnaby",
-    "url": "https://jobs.ashbyhq.com/opusclip/5875cb24-d27e-4f79-bc2d-a664f5f02298",
-    "posted_at": "2026-04-14T18:25:52.873+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "OpusClip",
