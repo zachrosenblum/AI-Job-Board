@@ -38,9 +38,9 @@
   {
     "company": "OpenAI",
     "title": "Software Engineer, Infrastructure Reliability",
-    "location": "San Francisco",
+    "location": "London, UK",
     "url": "https://jobs.ashbyhq.com/openai/621bb104-9daa-4c9e-949a-03d5730334e8",
-    "posted_at": "2026-03-19T17:01:22.222+00:00",
+    "posted_at": "2026-06-05T10:33:13.170+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 2,
@@ -301,18 +301,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Senior Manager, Technical Accounting (Revenue & Strategic Partnerships)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/50bf08a4-21ae-4966-9ab1-fb6e7b947374",
-    "posted_at": "2026-05-29T22:48:32.390+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
     "title": "Strategic Finance, International",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/0b14ad2b-2860-44b6-b3fc-36eb6ec1961c",
@@ -329,6 +317,18 @@
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
     "posted_at": "2026-05-22T16:05:41-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Applied AI Architect Lead, EMEA Commercial",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5201715008",
+    "posted_at": "2026-06-05T11:21:47-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -433,10 +433,10 @@
   },
   {
     "company": "Anthropic",
-    "title": "Manager, Sales Development (Startups & Commercial)",
-    "location": "New York City, NY; San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099163008",
-    "posted_at": "2026-06-03T17:47:06-04:00",
+    "title": "Product Manager, Claude Code Model Performance",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
+    "posted_at": "2026-06-04T15:26:42-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -472,7 +472,7 @@
     "title": "Staff+ Software Engineer, Full-stack",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-    "posted_at": "2026-04-20T19:28:44-04:00",
+    "posted_at": "2026-06-04T18:47:16-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -541,7 +541,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Account Executive, Geo Enterprise",
+    "title": "Account Executive, Geo Enterprise - San Francisco",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
     "posted_at": "2026-03-31T18:16:02.502+00:00",
@@ -553,7 +553,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Commercial Expansion Account Executive",
+    "title": "Account Executive, Commercial Expansion - San Francisco",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703",
     "posted_at": "2026-05-06T21:49:36.507+00:00",
@@ -565,7 +565,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Account Executive, Geo Enterprise",
+    "title": "Account Executive, Geo Enterprise - New York",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233",
     "posted_at": "2026-03-19T03:55:38.741+00:00",
@@ -622,30 +622,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Company Operations",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/78acb0dd-f83e-49ff-86f1-fa1a490cb8a5",
-    "posted_at": "2026-05-09T00:41:57.245+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Founder's Office Associate",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/ecd4f11b-94b6-4d39-9d9e-ff0437f3f520",
-    "posted_at": "2026-05-11T20:56:25.944+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 1,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Lorikeet",
@@ -1654,18 +1630,6 @@
     "min_years": 2,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Read AI",
-    "title": "Product Designer - AI Assistants & Tools",
-    "location": "Read AI - Seattle HQ",
-    "url": "https://jobs.ashbyhq.com/read-ai/a4ecb65c-d9a0-4e25-bade-7f613dd56df3",
-    "posted_at": "2026-04-07T17:28:21.071+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.read.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Read AI",
