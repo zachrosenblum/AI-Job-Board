@@ -1,4 +1,5 @@
 company,title,location,url,posted_at,source,careers_url,min_years,entry_level,match_reason
+OpenAI,"Software Engineer, Scaled Abuse",San Francisco,https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da,2026-06-08T16:15:58.343+00:00,ashby,https://openai.com/careers/search,2,False,min_years_2
 OpenAI,"Software Engineer, Integrity Foundations - London","London, UK",https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945,2026-01-26T19:01:32.354+00:00,ashby,https://openai.com/careers/search,2,False,min_years_2
 OpenAI,"Researcher, Interpretability",San Francisco,https://jobs.ashbyhq.com/openai/c44268f1-717b-4da3-9943-2557f7d739f0,2025-06-15T20:14:27.535+00:00,ashby,https://openai.com/careers/search,2,False,min_years_2
 OpenAI,"Software Engineer, Database Systems",San Francisco,https://jobs.ashbyhq.com/openai/2b5e8e15-7952-4170-a927-2ad68e318ed6,2025-07-29T15:35:56.790+00:00,ashby,https://openai.com/careers/search,2,False,min_years_2
@@ -62,7 +63,6 @@ Notion,"Strategy & Operations, Early Career","San Francisco, California",https:/
 Notion,"Software Engineer, New Grad","San Francisco, California",https://jobs.ashbyhq.com/notion/a6311f97-4850-4674-a5f3-d9fe5f6f2555,2026-04-23T21:27:21.811+00:00,ashby,https://www.notion.so/careers,,True,entry_title
 Notion,"Solutions Engineer, Commercial","New York, New York",https://jobs.ashbyhq.com/notion/fede5201-c97f-4492-bfa6-66da7afbb068,2026-02-25T23:40:06.699+00:00,ashby,https://www.notion.so/careers,2,False,min_years_2
 Notion,Software Engineer Intern (Fall 2026),"San Francisco, California",https://jobs.ashbyhq.com/notion/5b15697c-fa91-4511-9482-c98a6ff29f90,2026-04-06T22:40:58.312+00:00,ashby,https://www.notion.so/careers,,True,entry_title
-Notion,"Marketing Specialist, Growth and Demand, EMEA","Dublin, Ireland",https://jobs.ashbyhq.com/notion/898cad25-2709-4e69-85d3-8b68f4370538,2026-04-14T15:40:36.182+00:00,ashby,https://www.notion.so/careers,2,False,min_years_2
 Notion,"Account Executive, Commercial","New York, New York",https://jobs.ashbyhq.com/notion/9526496b-5c39-456b-a454-ebec889e7149,2026-04-22T20:01:50.521+00:00,ashby,https://www.notion.so/careers,1,False,min_years_1
 Notion,"Account Executive, Commercial, France","Dublin, Ireland",https://jobs.ashbyhq.com/notion/72d23f79-08d1-44df-b032-14a91f01887b,2026-04-22T20:04:44.048+00:00,ashby,https://www.notion.so/careers,1,False,min_years_1
 Notion,"Account Executive, Commercial, Benelux","Dublin, Ireland",https://jobs.ashbyhq.com/notion/b72aff80-4430-47c4-801c-61d3e4e80f53,2026-04-22T19:51:50.199+00:00,ashby,https://www.notion.so/careers,1,False,min_years_1
@@ -84,7 +84,6 @@ Retell AI,"Senior Software Engineer, Full Stack",San Francisco Bay Area,https://
 Retell AI,Senior Forward Deployed Engineer,San Francisco Bay Area,https://jobs.ashbyhq.com/retell-ai/5652ab47-6c89-4889-a507-7a3a943c3669,2025-02-20T06:23:20.289+00:00,ashby,https://www.retellai.com/careers,2,False,min_years_2
 Retell AI,"Senior Software Engineer, Frontend",San Francisco Bay Area,https://jobs.ashbyhq.com/retell-ai/26e3aa9d-f22d-4870-8db5-bb488c207559,2025-11-17T17:32:35.388+00:00,ashby,https://www.retellai.com/careers,2,False,min_years_2
 Retell AI,Technical Ex-Founder,San Francisco Bay Area,https://jobs.ashbyhq.com/retell-ai/be7c0244-e330-498b-922f-023b70afa40c,2026-05-04T17:08:46.207+00:00,ashby,https://www.retellai.com/careers,2,False,min_years_2
-Lovable,Recruitment Coordinator,New York,https://jobs.ashbyhq.com/lovable/b43ca587-46f4-4c78-89e7-1ff68dad99d2,2026-05-26T15:13:22.925+00:00,ashby,https://lovable.dev/careers,2,False,min_years_2
 Lovable,Lead Product Counsel,Stockholm,https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3,2026-04-19T14:45:01.010+00:00,ashby,https://lovable.dev/careers,2,False,min_years_2
 Lovable,Social Engagement & Support Specialist,Stockholm,https://jobs.ashbyhq.com/lovable/9e75ed0f-4d9e-4fe2-bf18-51d4d7b6192d,2026-05-19T14:38:12.023+00:00,ashby,https://lovable.dev/careers,1,False,min_years_1
 Lovable,People Operations Intern,Stockholm,https://jobs.ashbyhq.com/lovable/ac13e4a2-2250-4c0a-9a02-6395d698a2c9,2026-04-29T14:14:28.458+00:00,ashby,https://lovable.dev/careers,,True,entry_title
@@ -101,7 +100,6 @@ Metaview,"Account Executive, SMB",New York City,https://jobs.ashbyhq.com/metavie
 Metaview,"Engagement Manager, SMB",New York City,https://jobs.ashbyhq.com/metaview/329bb719-b13d-4244-8a47-1e2b9f448584,2026-06-01T17:06:47.696+00:00,ashby,https://metaview.ai/careers,2,False,min_years_2
 Clay,Engineering Manager,New York,https://jobs.ashbyhq.com/claylabs/2eba1b88-d3d2-4c80-a506-b367d85110bd,2025-06-18T17:16:23.365+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
 Clay,Head of Solutions Engineering,New York,https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2,2025-10-31T15:19:27.201+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
-Clay,ClayDR (Sales Development Representative),New York,https://jobs.ashbyhq.com/claylabs/99c25b5c-b91b-4490-8681-87f58ef87b83,2026-06-03T21:26:44.724+00:00,ashby,https://www.clay.com/careers,1,False,min_years_1
 Clay,Solutions Engineering Manager,New York,https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1,2026-05-21T18:08:29.874+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
 Clay,Data Analyst,New York,https://jobs.ashbyhq.com/claylabs/31d3597f-400e-4c12-9692-a5fb6f5e0d03,2026-02-20T18:17:35.583+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2
 Clay,Account Executive (GTME - High Velocity),San Francisco,https://jobs.ashbyhq.com/claylabs/6a716895-54fb-41f7-9cd5-13ff6a4085a4,2026-03-13T22:13:36.464+00:00,ashby,https://www.clay.com/careers,2,False,min_years_2

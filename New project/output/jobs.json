@@ -1,6 +1,18 @@
 [
   {
     "company": "OpenAI",
+    "title": "Software Engineer, Scaled Abuse",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/3c67f712-697d-48d8-b05c-01be896e61da",
+    "posted_at": "2026-06-08T16:15:58.343+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpenAI",
     "title": "Software Engineer, Integrity Foundations - London",
     "location": "London, UK",
     "url": "https://jobs.ashbyhq.com/openai/46703db4-6023-4ac6-93a8-22dc95009945",
@@ -757,18 +769,6 @@
   },
   {
     "company": "Notion",
-    "title": "Marketing Specialist, Growth and Demand, EMEA",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/notion/898cad25-2709-4e69-85d3-8b68f4370538",
-    "posted_at": "2026-04-14T15:40:36.182+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
     "title": "Account Executive, Commercial",
     "location": "New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/9526496b-5c39-456b-a454-ebec889e7149",
@@ -1021,18 +1021,6 @@
   },
   {
     "company": "Lovable",
-    "title": "Recruitment Coordinator",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/lovable/b43ca587-46f4-4c78-89e7-1ff68dad99d2",
-    "posted_at": "2026-05-26T15:13:22.925+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lovable",
     "title": "Lead Product Counsel",
     "location": "Stockholm",
     "url": "https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3",
@@ -1222,18 +1210,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "ClayDR (Sales Development Representative)",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/99c25b5c-b91b-4490-8681-87f58ef87b83",
-    "posted_at": "2026-06-03T21:26:44.724+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
