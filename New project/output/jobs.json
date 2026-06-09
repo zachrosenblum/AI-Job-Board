@@ -205,18 +205,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Executive Recruiter, International",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/0bab3f42-5290-41ec-b9b5-0de22f2404f6",
-    "posted_at": "2026-05-18T22:46:51.114+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "AI Deployment Engineer, Codex | Korea",
     "location": "Seoul, South Korea",
     "url": "https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731",
@@ -248,6 +236,18 @@
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 12,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
+    "title": "International Benefits Lead",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/e72a6386-fdde-4c79-ab19-52f54ed5bf15",
+    "posted_at": "2026-06-08T22:28:09.404+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -304,7 +304,7 @@
     "title": "Senior Manager, Technical Accounting (Compute Infrastructure)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/5c85c498-6459-4e4a-937c-6bc9150f743e",
-    "posted_at": "2026-05-29T22:48:13.889+00:00",
+    "posted_at": "2026-06-08T22:56:02.813+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 2,
@@ -343,18 +343,6 @@
     "posted_at": "2026-06-05T18:26:03.392+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Account Executive, AI Native",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4461450008",
-    "posted_at": "2026-05-22T16:05:41-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
@@ -1330,18 +1318,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Crosby",
-    "title": "Data Scientist",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/crosby/6a45af68-13e0-4a1e-812a-8f6d4a187b10",
-    "posted_at": "2026-03-31T15:35:03.363+00:00",
-    "source": "ashby",
-    "careers_url": "https://crosby.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Crosby",
