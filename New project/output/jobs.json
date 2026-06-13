@@ -636,6 +636,30 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Cursor",
+    "title": "Sales Development Representative - French speaking",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cursor/97348931-0519-4c94-b427-1147496c2d07",
+    "posted_at": "2026-06-12T18:56:30.429+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cursor",
+    "title": "Sales Development Representative - Dutch speaking",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613",
+    "posted_at": "2026-06-12T18:53:19.452+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Lorikeet",
     "title": "Software Engineer",
     "location": "Sydney, Australia HQ",
@@ -943,18 +967,6 @@
     "posted_at": "2026-06-11T04:17:16.598+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Retell AI",
-    "title": "Senior Software Engineer, AI Automations",
-    "location": "San Francisco Bay Area",
-    "url": "https://jobs.ashbyhq.com/retell-ai/9faa2a6f-ac67-4148-8d59-b692717732da",
-    "posted_at": "2026-01-26T16:37:16.117+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.retellai.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
