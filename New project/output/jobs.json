@@ -1212,18 +1212,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Photoroom",
-    "title": "Customer Support Agent (Freelance/Part time)",
-    "location": "USA | Remote",
-    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
-    "posted_at": "2026-06-10T10:45:03.978+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1600,7 +1588,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-06-10T18:12:35-04:00",
+    "posted_at": "2026-06-15T12:02:53-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
