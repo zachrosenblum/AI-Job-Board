@@ -289,7 +289,7 @@
   },
   {
     "company": "OpenAI",
-    "title": "Senior Manager, Technical Accounting (Compute Infrastructure)",
+    "title": "Senior Manager, Technical Accounting, Compute Infrastructure",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/5c85c498-6459-4e4a-937c-6bc9150f743e",
     "posted_at": "2026-06-08T22:56:02.813+00:00",
@@ -564,6 +564,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Replit",
+    "title": "Support Engineer I (NYC)",
+    "location": "NYC (SoHo)",
+    "url": "https://jobs.ashbyhq.com/replit/764fddd2-f81e-4c1f-9ab4-81ae086d4086",
+    "posted_at": "2026-06-07T21:48:10.248+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - San Francisco",
     "location": "San Francisco",
@@ -613,18 +625,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Events Manager, Internal & Workplace",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cursor/97964bb3-0187-42e4-a32b-a97d27358218",
-    "posted_at": "2026-05-06T16:51:10.315+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Cursor",
     "title": "Field Marketing Specialist, East",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/c7082fa6-09e0-455f-9fa5-ef4c221b1564",
@@ -653,6 +653,18 @@
     "location": "London",
     "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613",
     "posted_at": "2026-06-12T18:53:19.452+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cursor",
+    "title": "People Operations Coordinator",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/db8e4abb-aa17-44cb-8d72-156f0d400641",
+    "posted_at": "2026-06-16T16:21:51.092+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 1,
@@ -701,18 +713,6 @@
     "location": "New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/3979a6f5-2abb-447b-bd3a-0565b06bae24",
     "posted_at": "2026-05-21T16:12:14.026+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Software Engineer, Infrastructure",
-    "location": "Hyderabad, India",
-    "url": "https://jobs.ashbyhq.com/notion/42f18ccd-c4c8-4a85-8c1f-de12c575fe87",
-    "posted_at": "2026-06-04T12:38:36.781+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 2,
@@ -1045,18 +1045,6 @@
   },
   {
     "company": "Lovable",
-    "title": "Lead Product Counsel",
-    "location": "Stockholm",
-    "url": "https://jobs.ashbyhq.com/lovable/4f423767-0245-4e76-b942-18f0c4f81bc3",
-    "posted_at": "2026-04-19T14:45:01.010+00:00",
-    "source": "ashby",
-    "careers_url": "https://lovable.dev/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lovable",
     "title": "Social Engagement & Support Specialist",
     "location": "Stockholm",
     "url": "https://jobs.ashbyhq.com/lovable/9e75ed0f-4d9e-4fe2-bf18-51d4d7b6192d",
@@ -1321,18 +1309,6 @@
   },
   {
     "company": "Clay",
-    "title": "Account Executive (GTME - High Velocity)",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/00690ee1-164a-4594-86fb-9f9ace42405e",
-    "posted_at": "2026-05-28T20:26:18.253+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "ClayDR Manager (SDR Manager)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/c236eda8-590d-4116-a6ad-be83499be304",
@@ -1342,6 +1318,30 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "Account Executive (GTME - High Velocity)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/fa4c7a0b-96c9-47d6-9925-0ea91d516075",
+    "posted_at": "2026-06-15T19:36:27.974+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR - EMEA",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/claylabs/f6bc1d35-d9ce-4b4b-8fa7-fd50398829f2",
+    "posted_at": "2026-06-16T17:11:47.063+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Crosby",
@@ -1393,18 +1393,6 @@
   },
   {
     "company": "Cognition",
-    "title": "Special Projects Engineer",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cognition/d14d0312-e619-4ea6-ab80-e2546e7b2481",
-    "posted_at": "2024-10-05T19:51:36.974+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cognition",
     "title": "HR Operations & Recruiting Coordinator (Contract)",
     "location": "Riyadh",
     "url": "https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a",
@@ -1421,18 +1409,6 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
     "posted_at": "2025-07-11T03:24:44.018+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cognition",
-    "title": "Special Projects Engineer - Europe",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/cognition/ca087c5e-b6e8-4852-90f0-f820c8f5f7ed",
-    "posted_at": "2025-09-23T15:07:49.612+00:00",
     "source": "ashby",
     "careers_url": "https://cognition.ai/careers",
     "min_years": 2,
