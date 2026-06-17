@@ -289,18 +289,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Senior Manager, Technical Accounting, Compute Infrastructure",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/5c85c498-6459-4e4a-937c-6bc9150f743e",
-    "posted_at": "2026-06-08T22:56:02.813+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
     "title": "Strategic Finance, International",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/0b14ad2b-2860-44b6-b3fc-36eb6ec1961c",
@@ -385,18 +373,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Enterprise Account Executive, Federal Civilian Sales - State & International",
-    "location": "Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196015008",
-    "posted_at": "2026-04-21T18:40:38-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 7,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -472,7 +448,7 @@
     "title": "Software Engineer, Safeguards Foundations (Internal Tooling)",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191433008",
-    "posted_at": "2026-04-20T11:22:41-04:00",
+    "posted_at": "2026-06-16T14:49:57-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 4,
@@ -634,18 +610,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
-    "title": "Sales Development Representative - French speaking",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/cursor/97348931-0519-4c94-b427-1147496c2d07",
-    "posted_at": "2026-06-12T18:56:30.429+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Cursor",
@@ -1536,35 +1500,11 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "OpusClip",
-    "title": "Senior Software Engineer, Fullstack",
-    "location": "Mountain View",
-    "url": "https://jobs.ashbyhq.com/opusclip/da383166-30a7-4f39-9147-8828b871f431",
-    "posted_at": "2026-05-11T22:52:09.153+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpusClip",
-    "title": "Software Engineer (15-1252, Software Developers)",
-    "location": "Mountain View",
-    "url": "https://jobs.ashbyhq.com/opusclip/40db2b5b-8590-441a-8468-08a5d1f44d30",
-    "posted_at": "2026-05-22T21:51:32.609+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
     "company": "Otter.ai",
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-06-15T12:02:53-04:00",
+    "posted_at": "2026-06-16T15:10:28-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1642,6 +1582,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Read AI",
+    "title": "Product Designer - Growth",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/28f8d16a-949b-4523-b8e3-3ef57386ef2b",
+    "posted_at": "2026-06-16T18:49:32.254+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Tavus",
