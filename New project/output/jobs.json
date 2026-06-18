@@ -217,18 +217,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Associate General Counsel, Executive Compensation & Benefits",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/cfd44591-1d8a-431c-b082-2b68de4bc736",
-    "posted_at": "2026-05-06T21:01:01.194+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 12,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "International Benefits Lead",
     "location": "London, UK",
     "url": "https://jobs.ashbyhq.com/openai/e72a6386-fdde-4c79-ab19-52f54ed5bf15",
@@ -397,18 +385,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Head of International Applied AI Architecture, Partnerships",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5146999008",
-    "posted_at": "2026-04-24T11:44:13-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "Internal Communications Manager, Policy",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5147350008",
@@ -436,7 +412,7 @@
     "title": "Recruiting Coordinator [contract]",
     "location": "Remote-Friendly, United States",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
-    "posted_at": "2026-06-09T17:39:19-04:00",
+    "posted_at": "2026-06-17T23:36:50-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -934,6 +910,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Notion",
+    "title": "International Payroll Analyst",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/d2760449-5e2d-4403-be84-fa286a9bafa1",
+    "posted_at": "2026-06-17T23:53:51.161+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Retell AI",
@@ -1548,11 +1536,23 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Virality and Activation",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7776934003",
+    "posted_at": "2026-06-17T18:51:50-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Alma",
-    "title": "Data Analyst II, Core Ops",
+    "title": "Data Analyst II",
     "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8180477002",
-    "posted_at": "2026-06-11T14:47:18-04:00",
+    "url": "https://job-boards.greenhouse.io/alma/jobs/8514953002",
+    "posted_at": "2026-06-17T17:36:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
@@ -1561,10 +1561,10 @@
   },
   {
     "company": "Alma",
-    "title": "Data Analyst II, Marketing",
+    "title": "Data Analyst II, Core Ops",
     "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8514953002",
-    "posted_at": "2026-06-11T14:49:17-04:00",
+    "url": "https://job-boards.greenhouse.io/alma/jobs/8180477002",
+    "posted_at": "2026-06-11T14:47:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
