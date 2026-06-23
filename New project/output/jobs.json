@@ -253,18 +253,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Strategic Delivery Lead, International Public Sector",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/ff23e555-b23b-49dc-a56d-94f2d74398b9",
-    "posted_at": "2026-05-21T21:23:24.462+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 10,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Strategic Finance, International",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/0b14ad2b-2860-44b6-b3fc-36eb6ec1961c",
@@ -781,18 +769,6 @@
   },
   {
     "company": "Notion",
-    "title": "Sales Development Representative, Sydney",
-    "location": "Sydney, Australia",
-    "url": "https://jobs.ashbyhq.com/notion/6df33d3e-4488-4d0b-a3ae-df3ec48519d5",
-    "posted_at": "2026-04-24T07:29:00.433+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
     "title": "Software Engineer, New Grad (AI)",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/7e6dc7fe-7ddd-42c1-8928-13f7bddb9ec9",
@@ -905,6 +881,18 @@
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/d2760449-5e2d-4403-be84-fa286a9bafa1",
     "posted_at": "2026-06-17T23:53:51.161+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Head of Early Career Recruiting",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/076371b1-e9b0-4ad7-b67b-ae9e4572f65a",
+    "posted_at": "2026-06-22T21:24:06.557+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 4,
@@ -1150,6 +1138,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Photoroom",
+    "title": "Customer Support Agent (Freelance/Part time)",
+    "location": "USA | Remote",
+    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
+    "posted_at": "2026-06-23T08:55:46.003+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
@@ -1513,6 +1513,18 @@
   },
   {
     "company": "Otter.ai",
+    "title": "Software Engineer, Activation and Growth",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7776934003",
+    "posted_at": "2026-06-22T19:27:51-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
     "title": "Software Engineer, Data Infrastructure",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7569012003",
@@ -1531,18 +1543,6 @@
     "posted_at": "2026-05-11T14:04:56-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Alma",
-    "title": "Data Analyst II",
-    "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8514953002",
-    "posted_at": "2026-06-17T17:36:18-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
@@ -1577,6 +1577,18 @@
     "location": "Read AI - Seattle HQ",
     "url": "https://jobs.ashbyhq.com/read-ai/28f8d16a-949b-4523-b8e3-3ef57386ef2b",
     "posted_at": "2026-06-16T18:49:32.254+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Read AI",
+    "title": "Software Engineer - Frontend",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/2409d613-ed22-4d51-8f31-3e2f8ca3c9b2",
+    "posted_at": "2026-06-22T22:01:24.795+00:00",
     "source": "ashby",
     "careers_url": "https://www.read.ai/careers",
     "min_years": 2,
