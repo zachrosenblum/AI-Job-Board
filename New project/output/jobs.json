@@ -121,7 +121,7 @@
   },
   {
     "company": "OpenAI",
-    "title": "AI Deployment Engineering Manager, Digital Natives",
+    "title": "Manager, AI Deployment Engineering - Digital Natives",
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/openai/51a5d931-872e-4fa5-a898-36dfb663e3c1",
     "posted_at": "2026-06-05T18:26:03.392+00:00",
@@ -193,18 +193,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "RTL & Co-design Engineer (junior)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/77b815de-b7c5-4b87-8582-e8c752aea849",
-    "posted_at": "2026-01-22T19:05:18.842+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Program Manager, Human Data",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/932c9cc1-c542-4f67-8d0d-443de87b8213",
@@ -229,7 +217,7 @@
   },
   {
     "company": "OpenAI",
-    "title": "AI Deployment Engineering Manager, Digital Natives",
+    "title": "Manager, AI Deployment Engineering - Digital Natives",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
     "posted_at": "2026-06-05T18:25:23.590+00:00",
@@ -466,6 +454,18 @@
     "min_years": 0,
     "entry_level": false,
     "match_reason": "min_years_0"
+  },
+  {
+    "company": "Replit",
+    "title": "Administrative Assistant",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/32fa018b-35df-480c-9090-00d0f37d7fe5",
+    "posted_at": "2026-06-25T17:09:05.089+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Replit",
@@ -1249,6 +1249,18 @@
   },
   {
     "company": "Clay",
+    "title": "Account Executive (GTME - SMB)",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/claylabs/94eb1d91-e16a-4bf4-9cf5-e3b538a10fef",
+    "posted_at": "2026-06-25T23:36:26.625+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
     "title": "ClayDR Manager (SDR Manager)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/c236eda8-590d-4116-a6ad-be83499be304",
@@ -1265,6 +1277,18 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1",
     "posted_at": "2026-05-21T18:08:29.874+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "Account Executive (GTME - SMB)",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/ea3b2783-7ec1-4c8c-8ccd-545a387442a5",
+    "posted_at": "2026-06-25T23:37:11.390+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1516,7 +1540,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-06-24T14:53:04-04:00",
+    "posted_at": "2026-06-25T13:13:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
