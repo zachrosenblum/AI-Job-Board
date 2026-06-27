@@ -458,7 +458,7 @@
   {
     "company": "Replit",
     "title": "Administrative Assistant",
-    "location": "Foster City, CA",
+    "location": "NYC (SoHo)",
     "url": "https://jobs.ashbyhq.com/replit/32fa018b-35df-480c-9090-00d0f37d7fe5",
     "posted_at": "2026-06-25T17:09:05.089+00:00",
     "source": "ashby",
@@ -982,6 +982,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Growth Marketing Intern",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/c1e51fa9-e1c8-4e34-a465-da204cc3f904",
+    "posted_at": "2026-06-27T00:25:19.730+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Retell AI",
@@ -1549,34 +1561,22 @@
   },
   {
     "company": "Otter.ai",
+    "title": "Machine Learning Engineer",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7634875003",
+    "posted_at": "2026-06-26T18:05:10-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
     "title": "Production Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=6667756003",
     "posted_at": "2026-05-05T18:54:18-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Activation and Growth",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=7776934003",
-    "posted_at": "2026-06-22T19:27:51-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Backend (Infrastructure)",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=6531803003",
-    "posted_at": "2026-06-23T16:59:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
