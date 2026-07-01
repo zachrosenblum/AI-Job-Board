@@ -288,18 +288,6 @@
     "match_reason": "entry_title"
   },
   {
-    "company": "OpenAI",
-    "title": "International Benefits Specialist",
-    "location": "London, UK",
-    "url": "https://jobs.ashbyhq.com/openai/e72a6386-fdde-4c79-ab19-52f54ed5bf15",
-    "posted_at": "2026-06-19T15:37:29.330+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Anthropic",
     "title": "Applied AI Architect Lead, EMEA Commercial",
     "location": "Dublin, IE",
@@ -373,22 +361,22 @@
   },
   {
     "company": "Anthropic",
+    "title": "Internal Content Producer",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5147352008",
+    "posted_at": "2026-06-30T22:45:14-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Product Manager, Claude Code Model Performance",
     "location": "San Francisco, CA | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5247640008",
     "posted_at": "2026-06-05T13:42:53-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Recruiting Coordinator [contract]",
-    "location": "Remote-Friendly, United States",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5041174008",
-    "posted_at": "2026-06-17T23:36:50-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -865,6 +853,18 @@
   },
   {
     "company": "Notion",
+    "title": "Technical Recruiter, Early Career",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1",
+    "posted_at": "2026-06-30T16:52:44.081+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 0,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
     "title": "Account Executive - Commercial, Sydney",
     "location": "Sydney, Australia",
     "url": "https://jobs.ashbyhq.com/notion/e7a7c42e-dfd5-41b1-88e5-fb9ed0b24c5f",
@@ -1265,6 +1265,18 @@
     "location": "London",
     "url": "https://jobs.ashbyhq.com/claylabs/7bd35c48-c394-46c8-98a1-f809fed007d8",
     "posted_at": "2026-04-23T10:59:32.243+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Clay",
+    "title": "ClayDR Manager (EMEA SDR Manager)",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/claylabs/80a86e2b-e875-43fb-8b36-8a2c70a0e5b0",
+    "posted_at": "2026-06-30T18:56:10.716+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
