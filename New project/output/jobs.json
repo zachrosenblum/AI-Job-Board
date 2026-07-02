@@ -529,6 +529,30 @@
   },
   {
     "company": "Cursor",
+    "title": "Regional Director, SLED",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cursor/1a4d2899-ab97-406b-b0c9-728ced120e72",
+    "posted_at": "2026-07-01T18:24:53.431+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
+    "title": "Regional Director, Federal Systems Integrators",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/cursor/1cb3035f-b2b7-4e58-acb0-fe0fea343423",
+    "posted_at": "2026-07-01T18:23:10.168+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
     "title": "Forward Deployed Engineer",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
@@ -793,7 +817,7 @@
   },
   {
     "company": "Notion",
-    "title": "Billing Support Specialist",
+    "title": "Customer Support - Billing",
     "location": "Hyderabad, India",
     "url": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
     "posted_at": "2026-06-11T04:17:16.598+00:00",
@@ -856,7 +880,7 @@
     "title": "Technical Recruiter, Early Career",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/e3e0c9e9-4c9a-4390-b713-27d465bce2f1",
-    "posted_at": "2026-06-30T16:52:44.081+00:00",
+    "posted_at": "2026-07-01T15:58:26.081+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 0,
@@ -1186,18 +1210,6 @@
     "min_years": 1,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Photoroom",
-    "title": "Customer Support Agent (Freelance/Part time)",
-    "location": "USA | Remote",
-    "url": "https://jobs.ashbyhq.com/photoroom/21d7187d-9d43-4d19-8580-13bf6513f1c0",
-    "posted_at": "2026-06-23T08:55:46.003+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
