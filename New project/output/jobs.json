@@ -301,6 +301,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Engineering Manager, Agent Runtime Platform",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008",
+    "posted_at": "2026-07-02T19:57:20-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Anthropic",
     "title": "Engineering Manager, GPU (ML Accelerator)",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
@@ -349,18 +361,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Field Marketing Manager, Startups",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5191833008",
-    "posted_at": "2026-06-04T00:23:29-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Internal Content Producer",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5147352008",
@@ -368,6 +368,18 @@
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Partnership Strategy & Operations Lead, International",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008",
+    "posted_at": "2026-07-03T10:01:17-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 7,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -413,6 +425,18 @@
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
     "posted_at": "2026-06-04T18:47:16-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Staff+ Software Engineer, Vertical AI Products (Multiple Roles)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5289450008",
+    "posted_at": "2026-07-02T12:06:28-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -557,6 +581,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
     "posted_at": "2026-03-13T17:42:24.068+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
+    "title": "Recruiting Coordinator (Contract)",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/cursor/526c2389-e91a-4307-b687-1ab93e1ca89c",
+    "posted_at": "2026-07-02T22:44:59.795+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 2,
@@ -1297,6 +1333,18 @@
   },
   {
     "company": "Clay",
+    "title": "Recruiting Coordinator",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/claylabs/89668bae-92ed-4377-963c-c1a7cc435d24",
+    "posted_at": "2026-07-02T17:51:25.868+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.clay.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Clay",
     "title": "Account Executive (GTME - SMB)",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/claylabs/94eb1d91-e16a-4bf4-9cf5-e3b538a10fef",
@@ -1342,18 +1390,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "ClayDR - EMEA",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/claylabs/f6bc1d35-d9ce-4b4b-8fa7-fd50398829f2",
-    "posted_at": "2026-06-16T17:11:47.063+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Clay",
@@ -1615,18 +1651,6 @@
     "posted_at": "2026-05-11T14:04:56-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Alma",
-    "title": "Data Analyst II, Core Ops",
-    "location": "Remote, Contiguous US",
-    "url": "https://job-boards.greenhouse.io/alma/jobs/8180477002",
-    "posted_at": "2026-06-11T14:47:18-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://helloalma.com/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
