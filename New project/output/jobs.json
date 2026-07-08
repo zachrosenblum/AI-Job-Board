@@ -540,18 +540,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Replit",
-    "title": "Help Desk Technician",
-    "location": "NYC (SoHo)",
-    "url": "https://jobs.ashbyhq.com/replit/dd369e14-013c-427a-951f-97e39dee50dd",
-    "posted_at": "2026-05-05T22:53:13.197+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - New York",
     "location": "New York",
@@ -646,6 +634,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
+    "title": "Sales Development Representative - Spanish speaking",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cursor/97348931-0519-4c94-b427-1147496c2d07",
+    "posted_at": "2026-07-08T14:30:41.416+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Cursor",
@@ -1549,18 +1549,6 @@
   },
   {
     "company": "Cognition",
-    "title": "HR Operations & Recruiting Coordinator (Contract)",
-    "location": "Riyadh",
-    "url": "https://jobs.ashbyhq.com/cognition/bd6853df-3d37-4677-8e0f-0cb92f84757a",
-    "posted_at": "2026-02-07T23:07:37.720+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cognition",
     "title": "Applied AI Transformation Manager - APAC",
     "location": "Singapore",
     "url": "https://jobs.ashbyhq.com/cognition/be59ef70-1b34-4af5-a831-da964a6d3869",
@@ -1654,6 +1642,54 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Activation and Growth",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7776934003",
+    "posted_at": "2026-07-07T17:47:33-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (Infrastructure)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=6531803003",
+    "posted_at": "2026-07-07T17:45:26-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (New Grad)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=7798264003",
+    "posted_at": "2026-07-07T18:05:05-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (Product)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=5693892003",
+    "posted_at": "2026-07-07T17:45:02-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Otter.ai",
