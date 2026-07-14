@@ -362,9 +362,9 @@
   {
     "company": "Anthropic",
     "title": "Engineering Manager, Agent Runtime Platform",
-    "location": "San Francisco, CA | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008",
-    "posted_at": "2026-07-02T19:57:20-04:00",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
+    "posted_at": "2026-07-09T13:28:21-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -374,9 +374,9 @@
   {
     "company": "Anthropic",
     "title": "Engineering Manager, Agent Runtime Platform",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
-    "posted_at": "2026-07-09T13:28:21-04:00",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008",
+    "posted_at": "2026-07-02T19:57:20-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -697,18 +697,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Sales Development Representative - Spanish speaking",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/cursor/97348931-0519-4c94-b427-1147496c2d07",
-    "posted_at": "2026-07-08T14:30:41.416+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cursor",
     "title": "Field Marketing Specialist, East",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/c7082fa6-09e0-455f-9fa5-ef4c221b1564",
@@ -985,18 +973,6 @@
   },
   {
     "company": "Notion",
-    "title": "Lead, Internal Audit and SOX Compliance",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/c8be09c6-f664-473a-85cc-537a4d10025a",
-    "posted_at": "2026-06-10T20:35:22.295+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 8,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
     "title": "Customer Support - Billing",
     "location": "Hyderabad, India",
     "url": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
@@ -1066,6 +1042,18 @@
     "min_years": 0,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Software Engineer, AI Platform",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/a9d4a192-d31c-48d2-8156-e2a75d98eec1",
+    "posted_at": "2026-07-14T14:23:31.706+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Retell AI",
