@@ -326,18 +326,6 @@
   {
     "company": "Anthropic",
     "title": "Engineering Manager, Agent Runtime Platform",
-    "location": "San Francisco, CA | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5290837008",
-    "posted_at": "2026-07-14T18:35:00-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Engineering Manager, Agent Runtime Platform",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
     "posted_at": "2026-07-14T18:35:00-04:00",
@@ -448,7 +436,7 @@
     "title": "Staff+ Software Engineer, Full-stack",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5174747008",
-    "posted_at": "2026-07-14T18:35:00-04:00",
+    "posted_at": "2026-07-16T12:28:42-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -1608,18 +1596,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "OpusClip",
-    "title": "Senior Web/Visual Designer",
-    "location": "Remote",
-    "url": "https://jobs.ashbyhq.com/opusclip/01d30591-c70b-4538-a3a4-e320dd16f088",
-    "posted_at": "2026-03-25T11:21:29.987+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
     "company": "Otter.ai",
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
@@ -1673,6 +1649,18 @@
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7776934003",
     "posted_at": "2026-07-09T17:55:47-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Backend (Infrastructure)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=6531803003",
+    "posted_at": "2026-07-16T15:47:14-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
