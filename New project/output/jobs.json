@@ -328,7 +328,7 @@
     "title": "Engineering Manager, Agent Runtime Platform",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
-    "posted_at": "2026-07-14T18:35:00-04:00",
+    "posted_at": "2026-07-17T11:47:33-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -346,6 +346,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Engineering Manager, Growth",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
+    "posted_at": "2026-07-17T19:33:41-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Anthropic",
@@ -521,18 +533,6 @@
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/32fa018b-35df-480c-9090-00d0f37d7fe5",
     "posted_at": "2026-06-25T17:09:05.089+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Replit",
-    "title": "Recruiting Coordinator",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/08aa6e3d-a5df-4751-bc35-4876e671ce8f",
-    "posted_at": "2026-06-29T22:47:29.288+00:00",
     "source": "ashby",
     "careers_url": "https://replit.com/careers",
     "min_years": 2,
