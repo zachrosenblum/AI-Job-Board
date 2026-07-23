@@ -133,6 +133,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "Manager, Forward Deployed Engineer (FDE), Life Sciences",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/679cc2c7-e153-480b-8b9f-ecb69a19975a",
+    "posted_at": "2026-07-22T15:57:40.409+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpenAI",
     "title": "Performance Modeling Engineer ~2",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/4f6be73e-9a1d-4ec6-8b0e-b2af0b4becfb",
@@ -421,6 +433,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Evals Infrastructure Tech Lead / Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367417008",
+    "posted_at": "2026-07-22T16:51:06-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -430,6 +454,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Head of International Customer Success",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218458008",
+    "posted_at": "2026-07-23T08:27:43-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -457,15 +493,27 @@
   },
   {
     "company": "Anthropic",
-    "title": "Research Associate, Biology",
+    "title": "Staff+ Software Engineer, Claude Science",
     "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5285248008",
-    "posted_at": "2026-07-14T18:35:00-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368040008",
+    "posted_at": "2026-07-22T17:47:23-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Staff+ Software Engineer, Enterprise AI Products",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5368034008",
+    "posted_at": "2026-07-22T17:36:02-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Anthropic",
@@ -505,6 +553,18 @@
   },
   {
     "company": "Replit",
+    "title": "Help Desk Technician",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/c8fbfa33-67cc-436d-841d-a29622dcbc61",
+    "posted_at": "2026-07-22T21:44:27.129+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Replit",
     "title": "Business Development Representative",
     "location": "Salt Lake City, UT",
     "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
@@ -533,18 +593,6 @@
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/ccab8626-7245-4ed9-9c99-b77df70b2dc8",
     "posted_at": "2026-05-26T19:11:27.595+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Replit",
-    "title": "Support Engineer I (NYC)",
-    "location": "NYC (SoHo)",
-    "url": "https://jobs.ashbyhq.com/replit/764fddd2-f81e-4c1f-9ab4-81ae086d4086",
-    "posted_at": "2026-06-07T21:48:10.248+00:00",
     "source": "ashby",
     "careers_url": "https://replit.com/careers",
     "min_years": 2,
@@ -913,7 +961,7 @@
   },
   {
     "company": "Notion",
-    "title": "Customer Support - Billing",
+    "title": "Billing Support Specialist",
     "location": "Hyderabad, India",
     "url": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
     "posted_at": "2026-06-11T04:17:16.598+00:00",
@@ -1582,6 +1630,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpusClip",
+    "title": "AI Research Intern",
+    "location": "Mountain View",
+    "url": "https://jobs.ashbyhq.com/opusclip/1966160d-8b4a-40f8-96c5-39a6d81122c2",
+    "posted_at": "2026-07-22T20:32:40.443+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.opus.pro/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Otter.ai",
