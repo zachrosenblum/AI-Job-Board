@@ -109,6 +109,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "Account Associate - Singapore",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/openai/d9696b77-5b11-49c5-8d0b-b1826bb6115c",
+    "posted_at": "2026-05-13T02:54:33.438+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
     "title": "Account Associate - EMEA",
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e",
@@ -289,6 +301,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "Account Associate - Singapore (Korean-speaking)",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/openai/974fff14-f2d7-4a99-8740-eb8dc5300d82",
+    "posted_at": "2026-06-25T04:48:19.182+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
     "title": "Senior Manager, International Tax",
     "location": "Dublin, Ireland",
     "url": "https://jobs.ashbyhq.com/openai/ba519681-42a5-4173-a405-7d09cb672363",
@@ -457,10 +481,22 @@
   },
   {
     "company": "Anthropic",
-    "title": "Head of International Customer Success",
+    "title": "Head of Deal Desk - International",
     "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5218458008",
-    "posted_at": "2026-07-23T08:27:43-04:00",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "posted_at": "2026-07-24T10:16:25-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Head of Deal Desk - International",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "posted_at": "2026-07-24T10:16:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -550,18 +586,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Replit",
-    "title": "Help Desk Technician",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/c8fbfa33-67cc-436d-841d-a29622dcbc61",
-    "posted_at": "2026-07-22T21:44:27.129+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Replit",
@@ -1140,18 +1164,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Retell AI",
-    "title": "Creative Marketing Intern",
-    "location": "San Francisco Bay Area",
-    "url": "https://jobs.ashbyhq.com/retell-ai/c1e51fa9-e1c8-4e34-a465-da204cc3f904",
-    "posted_at": "2026-06-27T00:25:19.730+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.retellai.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Lovable",
     "title": "Engineering Manager",
     "location": "Stockholm",
@@ -1301,18 +1313,6 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/2eba1b88-d3d2-4c80-a506-b367d85110bd",
     "posted_at": "2025-06-18T17:16:23.365+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Head of Solutions Engineering",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/6dc3e0b7-4846-41cf-9369-6c058b3fcbc2",
-    "posted_at": "2025-10-31T15:19:27.201+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1648,7 +1648,7 @@
     "title": "Client Platform Engineer",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7518107003",
-    "posted_at": "2026-07-20T16:18:03-04:00",
+    "posted_at": "2026-07-23T12:04:40-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
@@ -1705,18 +1705,6 @@
   },
   {
     "company": "Otter.ai",
-    "title": "Software Engineer, Backend (Infrastructure)",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=6531803003",
-    "posted_at": "2026-07-16T15:47:14-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
     "title": "Software Engineer, Data Infrastructure",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7569012003",
@@ -1762,6 +1750,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Read AI",
+    "title": "Account Coordinator",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/6ee88c1c-defa-4443-913d-a9d3047b3326",
+    "posted_at": "2026-07-23T18:44:58.485+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Tavus",
