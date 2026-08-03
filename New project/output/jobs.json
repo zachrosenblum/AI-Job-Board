@@ -744,18 +744,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Cursor",
-    "title": "Recruiting Coordinator (Contract)",
-    "location": "Singapore",
-    "url": "https://jobs.ashbyhq.com/cursor/526c2389-e91a-4307-b687-1ab93e1ca89c",
-    "posted_at": "2026-07-02T22:44:59.795+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
     "company": "Lorikeet",
     "title": "Software Engineer",
     "location": "Sydney, Australia HQ",
@@ -1009,18 +997,6 @@
   },
   {
     "company": "Retell AI",
-    "title": "Software Engineer",
-    "location": "San Francisco Bay Area",
-    "url": "https://jobs.ashbyhq.com/retell-ai/538ecfa9-2315-42a6-89cc-3cae52165526",
-    "posted_at": "2026-07-26T18:47:26.965+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.retellai.com/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
-  },
-  {
-    "company": "Retell AI",
     "title": "Internal Deployed Engineer",
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/retell-ai/2e3f3930-0949-4b86-8ed1-7f5d9e068c87",
@@ -1073,6 +1049,42 @@
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/retell-ai/7961d60d-cadd-45af-9635-6efaeb04a14d",
     "posted_at": "2026-06-11T02:11:15.897+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Software Engineer (New Grad)",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/ea775189-0496-43d8-a386-df8148265463",
+    "posted_at": "2026-08-03T03:49:15.754+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Software Engineer, Founders Initiatives",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/46400d61-feca-45f9-9000-563b8994f60f",
+    "posted_at": "2026-08-03T03:49:11.601+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": 0,
+    "entry_level": false,
+    "match_reason": "min_years_0"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Applied AI Engineer (Customer Facing)",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/1fcd6e82-2a31-4e2f-abcf-be069ebb6e8c",
+    "posted_at": "2026-08-03T05:42:27.857+00:00",
     "source": "ashby",
     "careers_url": "https://www.retellai.com/careers",
     "min_years": 2,
