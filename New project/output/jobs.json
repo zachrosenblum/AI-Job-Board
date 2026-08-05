@@ -384,6 +384,30 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "OpenAI",
+    "title": "Manager, AI Deployment Engineering - Large Enterprise",
+    "location": "London, UK",
+    "url": "https://jobs.ashbyhq.com/openai/ac4ad2fe-48a8-4329-9ba0-d37361ae6dde",
+    "posted_at": "2026-08-05T09:04:22.593+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpenAI",
+    "title": "International Strategy & Operations Lead",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/e4b92c0d-67c1-4147-a408-be4fe806be99",
+    "posted_at": "2026-08-04T20:52:32.684+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 10,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Anthropic",
     "title": "Engineering Manager, Agent Runtime Platform",
     "location": "San Francisco, CA | New York City, NY",
@@ -470,8 +494,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -482,8 +506,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -562,18 +586,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Replit",
-    "title": "Software Engineering Intern (Summer 2026)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/12737078-74c7-4e63-98a7-5e8da1e9deb1",
-    "posted_at": "2025-10-01T16:02:40.431+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Replit",
@@ -685,18 +697,6 @@
   },
   {
     "company": "Cursor",
-    "title": "Field Marketing Specialist, East",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/cursor/c7082fa6-09e0-455f-9fa5-ef4c221b1564",
-    "posted_at": "2026-06-11T22:25:44.581+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
     "title": "Sales Development Representative - Spanish speaking",
     "location": "London",
     "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613",
@@ -718,6 +718,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Founder's Office Associate",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/dcfa0ed7-75ed-4e3d-9eac-68dff9d99ea0",
+    "posted_at": "2026-08-04T17:21:28.041+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 1,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Notion",
@@ -857,18 +869,6 @@
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/e12b83e9-18bd-4f5b-8bf8-16c78726559a",
     "posted_at": "2026-07-27T13:10:21.071+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Notion",
-    "title": "Commercial Solutions Consultant, Sydney",
-    "location": "Sydney, Australia",
-    "url": "https://jobs.ashbyhq.com/notion/02c00167-1787-4d03-bdb6-383c0bc9a5dd",
-    "posted_at": "2026-07-27T13:29:25.031+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 1,
@@ -1493,6 +1493,18 @@
     "location": "Riyadh",
     "url": "https://jobs.ashbyhq.com/cognition/416528a8-2067-4bec-ac70-73d4ffa52290",
     "posted_at": "2026-07-06T16:56:24.040+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
+    "title": "Applied AI Transformation Manager - ANZ",
+    "location": "Sydney",
+    "url": "https://jobs.ashbyhq.com/cognition/392b0b95-26e6-4fb8-841f-97e528acd711",
+    "posted_at": "2026-08-05T13:31:12.601+00:00",
     "source": "ashby",
     "careers_url": "https://cognition.ai/careers",
     "min_years": 2,
