@@ -385,6 +385,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Director, US International Tax",
+    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008",
+    "posted_at": "2026-08-07T17:23:01-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Engineering Manager, GPU (ML Accelerator)",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
@@ -502,6 +514,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Internal Communications Manager, Tech",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5383388008",
+    "posted_at": "2026-08-07T17:21:33-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 8,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -1212,6 +1236,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Metaview",
+    "title": "Director of Sales, New York",
+    "location": "New York City",
+    "url": "https://jobs.ashbyhq.com/metaview/4d8ebb9a-ccfe-4289-b232-41e017f9054f",
+    "posted_at": "2026-08-07T15:30:52.104+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1313,18 +1349,6 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/a8ca6bd8-9564-4e28-893e-0b2c320271a8",
     "posted_at": "2026-07-06T19:56:33.611+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Front Desk Coordinator",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/34d69869-d436-4cac-b7df-aa42b32817c2",
-    "posted_at": "2026-07-08T21:40:40.100+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
