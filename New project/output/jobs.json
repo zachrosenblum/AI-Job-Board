@@ -325,6 +325,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "New Geography and International Growth Lead",
+    "location": "US - Remote",
+    "url": "https://jobs.ashbyhq.com/openai/86c04f38-1938-4e95-a43c-502fc79ff60c",
+    "posted_at": "2026-08-09T00:07:18.487+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 8,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
     "title": "Site Operations Technician",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/43c9fed6-4eb2-4db6-afc5-cd804279779b",
@@ -470,8 +482,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -482,8 +494,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
