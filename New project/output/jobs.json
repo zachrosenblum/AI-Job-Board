@@ -445,18 +445,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Evals Infrastructure Tech Lead / Manager",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367417008",
-    "posted_at": "2026-08-03T18:25:22-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
     "title": "[Expression of Interest] Research Manager, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980436008",
@@ -470,8 +458,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -482,8 +470,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -550,6 +538,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Pre-training Distributed Systems Tech Lead / Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5367417008",
+    "posted_at": "2026-08-14T22:39:37-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Anthropic",
@@ -780,6 +780,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Lorikeet",
+    "title": "Demand Generation",
+    "location": "US - Remote",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/c4d5d6da-87f0-44c1-89cf-76958d7905b0",
+    "posted_at": "2026-08-15T01:50:03.143+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Notion",
     "title": "Governance, Risk, and Compliance Intern (Fall 2026)",
     "location": "San Francisco, California",
@@ -946,6 +958,42 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
+    "title": "Software Engineer Intern (Winter 2027)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8",
+    "posted_at": "2026-08-14T19:05:18.297+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Software Engineer Intern (Summer 2027)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+    "posted_at": "2026-08-14T19:07:13.459+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Software Engineer, New Grad (Dec 2026)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+    "posted_at": "2026-08-14T19:12:39.557+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Retell AI",
@@ -1236,6 +1284,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Photoroom",
+    "title": "Product ML Engineer",
+    "location": "Paris",
+    "url": "https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf",
+    "posted_at": "2026-08-15T10:41:29.039+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Clay",
     "title": "Engineering Manager",
     "location": "New York",
@@ -1253,18 +1313,6 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1",
     "posted_at": "2026-05-21T18:08:29.874+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Marketing Recruiter",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/5285ed8d-1ba4-4836-8b69-a66bf930f204",
-    "posted_at": "2026-04-08T14:20:07.440+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1612,7 +1660,7 @@
     "title": "Software Engineer, Front-End",
     "location": "Mountain View, CA",
     "url": "https://otter.ai/careers?gh_jid=7726813003",
-    "posted_at": "2026-05-11T14:04:56-04:00",
+    "posted_at": "2026-08-14T16:16:23-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 2,
