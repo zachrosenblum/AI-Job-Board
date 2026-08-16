@@ -672,6 +672,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Replit",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+    "posted_at": "2026-08-15T18:49:00.242+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - San Francisco",
     "location": "San Francisco",
