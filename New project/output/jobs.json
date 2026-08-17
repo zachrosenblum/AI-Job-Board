@@ -49,18 +49,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Manager, Applied AI Engineering (Digital Natives)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/ba2ead69-d118-4a91-a4d7-c880d17fa7f9",
-    "posted_at": "2026-06-05T18:25:23.590+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
     "title": "Software Engineer, Internal Applications - Enterprise",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/db053b0e-c1a5-4b7a-bcb6-6e766629e7b1",
@@ -125,18 +113,6 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/7536171d-0f98-4964-8f22-7968db062105",
     "posted_at": "2026-04-21T18:58:23.197+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
-    "title": "AI Deployment Engineer, Codex | Korea",
-    "location": "Seoul, South Korea",
-    "url": "https://jobs.ashbyhq.com/openai/47aaae94-69e8-464b-a7f6-ffe898ee1731",
-    "posted_at": "2026-05-12T05:22:39.325+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 2,
@@ -214,18 +190,6 @@
     "min_years": 10,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Manager, Applied AI Engineering (Digital Natives)",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/openai/51a5d931-872e-4fa5-a898-36dfb663e3c1",
-    "posted_at": "2026-06-05T18:26:03.392+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "OpenAI",
@@ -457,9 +421,21 @@
   },
   {
     "company": "Anthropic",
+    "title": "External Affairs, US Federal",
+    "location": "Washington, DC",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5382274008",
+    "posted_at": "2026-08-17T07:48:36-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -470,8 +446,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
     "posted_at": "2026-08-03T18:25:22-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -532,7 +508,7 @@
     "title": "Manager, Forward Deployed Engineering",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-14T07:20:43-04:00",
+    "posted_at": "2026-08-17T02:53:46-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -850,18 +826,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Notion",
-    "title": "Billing Support Specialist",
-    "location": "Hyderabad, India",
-    "url": "https://jobs.ashbyhq.com/notion/9dd54b96-29f7-4263-8aba-768f90cd2715",
-    "posted_at": "2026-06-11T04:17:16.598+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
