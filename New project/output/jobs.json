@@ -73,18 +73,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Account Associate - EMEA",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/openai/d29b455a-9fee-4610-8e08-ce6a9ea8a37e",
-    "posted_at": "2026-07-21T09:14:44.252+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 4,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Manager, Forward Deployed Engineer (FDE), Life Sciences",
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/openai/679cc2c7-e153-480b-8b9f-ecb69a19975a",
@@ -152,30 +140,6 @@
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 4,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Account Associate - EMEA (German Speaking)",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/openai/6c88bfaa-7f1b-4175-82f1-6d484a516ca8",
-    "posted_at": "2026-07-21T09:15:25.016+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 4,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Account Associate- EMEA (French Speaking)",
-    "location": "Dublin, Ireland",
-    "url": "https://jobs.ashbyhq.com/openai/1eb6ef0f-0e51-46d3-b888-c1a4c22c190a",
-    "posted_at": "2026-07-21T09:15:54.118+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 2,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -505,6 +469,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Manager, Customer Success GSI",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5392821008",
+    "posted_at": "2026-08-18T11:07:04-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
@@ -598,18 +574,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Replit",
-    "title": "Business Development Representative",
-    "location": "Salt Lake City, UT",
-    "url": "https://jobs.ashbyhq.com/replit/1c40b253-c33c-49d0-a1e0-d3e49aedf54c",
-    "posted_at": "2026-06-05T17:32:37.367+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": 0,
-    "entry_level": false,
-    "match_reason": "min_years_0"
   },
   {
     "company": "Replit",
@@ -733,15 +697,15 @@
   },
   {
     "company": "Lorikeet",
-    "title": "Founder's Office Associate",
+    "title": "Founder's Office",
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/dcfa0ed7-75ed-4e3d-9eac-68dff9d99ea0",
     "posted_at": "2026-08-04T17:21:28.041+00:00",
     "source": "ashby",
     "careers_url": "https://www.lorikeetcx.ai/careers",
     "min_years": 1,
-    "entry_level": true,
-    "match_reason": "entry_title"
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Lorikeet",
@@ -960,6 +924,78 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Customer.io",
+    "title": "Customer Success Manager, EMEA",
+    "location": "EMEA Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8089365",
+    "posted_at": "2026-07-27T15:20:50-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Legal Assistant",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7992941",
+    "posted_at": "2026-06-10T15:05:18-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Mid-Market Account Executive, Americas",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8083831",
+    "posted_at": "2026-07-24T13:48:57-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Mid-Market Account Executive, Americas",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7971675",
+    "posted_at": "2026-06-02T19:50:56-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Mid-Market Account Executive, EMEA",
+    "location": "EMEA Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8120574",
+    "posted_at": "2026-08-19T03:04:10-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Outbound Business Development Representative",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8069682",
+    "posted_at": "2026-07-17T11:42:43-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
     "company": "Retell AI",
     "title": "Senior Software Engineer, Backend",
     "location": "San Francisco Bay Area",
@@ -1121,6 +1157,18 @@
     "location": "San Francisco Bay Area",
     "url": "https://jobs.ashbyhq.com/retell-ai/e6b26f71-d747-4f1d-8756-e6cf91ee1e50",
     "posted_at": "2026-08-13T06:33:13.747+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Customer Success Engineer (Contract)",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/retell-ai/6ae071ab-8b07-4e8f-871a-04df97484f67",
+    "posted_at": "2026-08-19T02:05:14.038+00:00",
     "source": "ashby",
     "careers_url": "https://www.retellai.com/careers",
     "min_years": 2,
@@ -1301,18 +1349,6 @@
     "location": "London",
     "url": "https://jobs.ashbyhq.com/claylabs/80a86e2b-e875-43fb-8b36-8a2c70a0e5b0",
     "posted_at": "2026-06-30T18:56:10.716+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
-    "title": "Account Executive - SMB/High Velocity (French Speaking)",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/claylabs/2c53eca3-b39a-45bc-9e59-fca37794010f",
-    "posted_at": "2026-07-20T19:40:46.944+00:00",
     "source": "ashby",
     "careers_url": "https://www.clay.com/careers",
     "min_years": 2,
@@ -1524,6 +1560,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Cognition",
+    "title": "Event Producer - Recruiting, R&D",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cognition/9bcd9d64-8ea5-4c34-99c3-db9b37b6f3c7",
+    "posted_at": "2026-08-18T22:55:02.584+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "OpusClip",
     "title": "AI Research Intern",
     "location": "Mountain View",
@@ -1582,18 +1630,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Backend (Infrastructure)",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=6531803003",
-    "posted_at": "2026-08-13T18:28:45-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Otter.ai",
