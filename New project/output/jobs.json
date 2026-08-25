@@ -612,18 +612,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Replit",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
-    "posted_at": "2026-08-15T18:49:00.242+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - San Francisco",
     "location": "San Francisco",
@@ -829,6 +817,18 @@
   },
   {
     "company": "Notion",
+    "title": "Solutions Consultant, Commercial, France",
+    "location": "Paris, France",
+    "url": "https://jobs.ashbyhq.com/notion/f7ea6f19-fc0f-482c-b5a8-1271747fea1b",
+    "posted_at": "2026-08-25T08:27:49.023+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Notion",
     "title": "Commercial Solutions Consultant, San Francisco",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/e12b83e9-18bd-4f5b-8bf8-16c78726559a",
@@ -936,23 +936,23 @@
     "match_reason": "entry_title"
   },
   {
-    "company": "Customer.io",
-    "title": "Customer Success Manager, EMEA",
-    "location": "EMEA Remote",
-    "url": "https://job-boards.greenhouse.io/customerio/jobs/8089365",
-    "posted_at": "2026-07-27T15:20:50-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://customer.io/careers",
+    "company": "Notion",
+    "title": "Workflow + Process Designer (AI Enablement)",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/c799f1f0-0e7b-4eac-98ce-44223130f2b0",
+    "posted_at": "2026-08-24T22:48:20.355+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
   },
   {
     "company": "Customer.io",
-    "title": "Mid-Market Account Executive, Americas",
-    "location": "Americas Remote",
-    "url": "https://job-boards.greenhouse.io/customerio/jobs/8083831",
-    "posted_at": "2026-07-24T13:48:57-04:00",
+    "title": "Customer Success Manager, EMEA",
+    "location": "EMEA Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8089365",
+    "posted_at": "2026-07-27T15:20:50-04:00",
     "source": "greenhouse",
     "careers_url": "https://customer.io/careers",
     "min_years": 2,
@@ -973,6 +973,18 @@
   },
   {
     "company": "Customer.io",
+    "title": "Mid-Market Account Executive, Americas",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8083831",
+    "posted_at": "2026-07-24T13:48:57-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
     "title": "Mid-Market Account Executive, EMEA",
     "location": "EMEA Remote",
     "url": "https://job-boards.greenhouse.io/customerio/jobs/8120574",
@@ -982,18 +994,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Customer.io",
-    "title": "Outbound Business Development Representative",
-    "location": "Americas Remote",
-    "url": "https://job-boards.greenhouse.io/customerio/jobs/8069682",
-    "posted_at": "2026-07-17T11:42:43-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://customer.io/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Retell AI",
@@ -1309,18 +1309,6 @@
   },
   {
     "company": "Clay",
-    "title": "Solutions Engineering Manager",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/claylabs/c4ad4fac-6778-4bfa-a23e-6e7c32fe48d1",
-    "posted_at": "2026-05-21T18:08:29.874+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.clay.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Clay",
     "title": "Manager, Enterprise Growth (Customer Success)",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/claylabs/f8e696cf-55b8-4c0e-80d3-2c03abaa09a4",
@@ -1402,6 +1390,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cognition",
+    "title": "Founding Recruiting Coordinator - APJ",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/cognition/02a11025-60b3-4c06-8bb5-c6c34ddaa878",
+    "posted_at": "2026-08-24T14:40:41.799+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Cognition",
