@@ -277,6 +277,18 @@
   },
   {
     "company": "OpenAI",
+    "title": "Global Program Lead, New Graduate \u2013 SMB Fellowship",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/openai/1b207778-312f-4d4d-90ca-599d2f5e29a2",
+    "posted_at": "2026-09-09T15:21:26.326+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "OpenAI",
     "title": "Strategic Finance, International & Marketing",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/5b85c0cc-3f19-4b96-9bd3-3b7521e54f44",
@@ -322,18 +334,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Associate General Counsel, Commercial (Silicon)",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/bb0860a0-6086-4d05-9816-d010aac737ee",
-    "posted_at": "2026-09-03T18:20:15.286+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 12,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -517,6 +517,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Partnership Manager, AI for Science",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5407938008",
+    "posted_at": "2026-09-09T11:03:40-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Partnership Strategy & Operations Lead, International",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5196986008",
@@ -634,6 +646,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Warehouse and Logistics Manager - International",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5416979008",
+    "posted_at": "2026-09-08T16:10:26-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Replit",
@@ -1008,6 +1032,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Notion",
+    "title": "Forward Deployed Engineer, Manager -London",
+    "location": "London, United Kingdom",
+    "url": "https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5",
+    "posted_at": "2026-09-09T16:23:19.473+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Customer.io",
     "title": "Mid-Market Account Executive, Americas",
     "location": "Americas Remote",
@@ -1210,6 +1246,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Retell AI",
+    "title": "Forward Deployed Engineer, Intern",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/9515b331-91af-401b-a6dd-569ef40c5b48",
+    "posted_at": "2026-09-08T17:21:28.868+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Metaview",
@@ -1656,18 +1704,6 @@
     "match_reason": "entry_title"
   },
   {
-    "company": "OpusClip",
-    "title": "Social Growth Intern",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/opusclip/029c9eca-cb3d-4292-bc3f-97e506046d0d",
-    "posted_at": "2026-08-19T19:03:43.346+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.opus.pro/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Serval",
     "title": "Sales Manager, Mid-Market - East",
     "location": "New York",
@@ -1774,6 +1810,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Serval",
+    "title": "Account Executive, Mid Market - East",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/serval/ce5be7a6-f8d6-4823-b052-c430b4aa2267",
+    "posted_at": "2026-09-08T17:47:49.463+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Serval",
