@@ -217,18 +217,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "New Geography and International Growth Lead",
-    "location": "US - Remote",
-    "url": "https://jobs.ashbyhq.com/openai/86c04f38-1938-4e95-a43c-502fc79ff60c",
-    "posted_at": "2026-08-09T00:07:18.487+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 8,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Site Operations Technician",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/43c9fed6-4eb2-4db6-afc5-cd804279779b",
@@ -274,18 +262,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Global Program Lead, New Graduate \u2013 SMB Fellowship",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/1b207778-312f-4d4d-90ca-599d2f5e29a2",
-    "posted_at": "2026-09-09T15:21:26.326+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "OpenAI",
@@ -350,9 +326,9 @@
   {
     "company": "Anthropic",
     "title": "Director, US International Tax",
-    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008",
-    "posted_at": "2026-08-21T12:50:39-04:00",
+    "posted_at": "2026-09-09T15:13:57-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -362,9 +338,9 @@
   {
     "company": "Anthropic",
     "title": "Director, US International Tax Planning",
-    "location": "Remote-Friendly (Travel Required) | San Francisco, CA",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008",
-    "posted_at": "2026-09-01T18:11:26-04:00",
+    "posted_at": "2026-09-09T15:15:40-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 10,
@@ -422,8 +398,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
     "posted_at": "2026-08-28T14:43:33-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -434,8 +410,8 @@
   {
     "company": "Anthropic",
     "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
     "posted_at": "2026-08-28T14:43:33-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
@@ -494,9 +470,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+    "posted_at": "2026-08-28T14:44:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -506,9 +482,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-28T14:44:00-04:00",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -566,9 +542,9 @@
   {
     "company": "Anthropic",
     "title": "Solutions Marketing Lead, Public Sector",
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008",
-    "posted_at": "2026-08-21T20:00:56-04:00",
+    "posted_at": "2026-09-09T23:36:15-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -670,6 +646,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Replit",
+    "title": "Software Engineer - New Grad (2027)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "posted_at": "2026-09-09T18:23:24.396+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Cursor",
@@ -778,6 +766,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
+    "title": "Software Engineer, New Grad 2027",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
+    "posted_at": "2026-09-08T23:51:35.588+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Lorikeet",
@@ -1825,6 +1825,18 @@
   },
   {
     "company": "Serval",
+    "title": "Sales Manager, Mid-Market - Central",
+    "location": "Austin",
+    "url": "https://jobs.ashbyhq.com/serval/cb30bd63-ec9b-4888-9f9e-8aff52c3947c",
+    "posted_at": "2026-09-10T15:57:13.404+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Serval",
     "title": "Automation Engineer",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/serval/9e19f3dd-d287-4e42-a471-fce44550f87d",
@@ -1864,24 +1876,12 @@
     "title": "Sales Development Representative",
     "location": "Phoenix, Arizona, United States",
     "url": "https://otter.ai/careers?gh_jid=7788985003",
-    "posted_at": "2026-09-08T13:04:36-04:00",
+    "posted_at": "2026-09-09T16:33:13-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Front-End",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=7726813003",
-    "posted_at": "2026-08-14T16:16:23-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Read AI",
