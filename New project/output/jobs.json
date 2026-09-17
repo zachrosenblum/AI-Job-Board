@@ -376,7 +376,7 @@
     "title": "Associate Solutions Architect",
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5425724008",
-    "posted_at": "2026-09-16T12:20:01-04:00",
+    "posted_at": "2026-09-17T03:54:16-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 1,
@@ -454,30 +454,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Head of Deal Desk - International",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5369755008",
-    "posted_at": "2026-08-28T14:43:33-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Head of Deal Desk - International",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358100008",
-    "posted_at": "2026-08-28T14:43:33-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -574,6 +550,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Marketing Events Manager, International",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424288008",
+    "posted_at": "2026-09-17T03:13:50-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 8,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Anthropic",
@@ -829,6 +817,18 @@
   },
   {
     "company": "Cursor",
+    "title": "Sales Development Representative - Dutch speaking",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613",
+    "posted_at": "2026-09-16T19:03:53.612+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cursor",
     "title": "Account Executive, Commercial Expansion - New York",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0",
@@ -862,6 +862,30 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Founder's Office",
+    "location": "Sydney, Australia HQ",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/dcfa0ed7-75ed-4e3d-9eac-68dff9d99ea0",
+    "posted_at": "2026-09-16T22:47:36.119+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Demand Generation",
+    "location": "US - Remote",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/c4d5d6da-87f0-44c1-89cf-76958d7905b0",
+    "posted_at": "2026-09-16T22:46:34.657+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1107,8 +1131,8 @@
     "company": "Customer.io",
     "title": "Mid-Market Account Executive, Americas",
     "location": "Americas Remote",
-    "url": "https://job-boards.greenhouse.io/customerio/jobs/8083831",
-    "posted_at": "2026-07-24T13:48:57-04:00",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/7971675",
+    "posted_at": "2026-09-16T20:04:44-04:00",
     "source": "greenhouse",
     "careers_url": "https://customer.io/careers",
     "min_years": 2,
@@ -1119,8 +1143,8 @@
     "company": "Customer.io",
     "title": "Mid-Market Account Executive, Americas",
     "location": "Americas Remote",
-    "url": "https://job-boards.greenhouse.io/customerio/jobs/7971675",
-    "posted_at": "2026-06-02T19:50:56-04:00",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8083831",
+    "posted_at": "2026-07-24T13:48:57-04:00",
     "source": "greenhouse",
     "careers_url": "https://customer.io/careers",
     "min_years": 2,
