@@ -360,6 +360,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "OpenAI",
+    "title": "International Marketing Lead, SMB Ads",
+    "location": "Dublin, Ireland",
+    "url": "https://jobs.ashbyhq.com/openai/2c992fb3-0501-46fc-af5b-76660b4acfeb",
+    "posted_at": "2026-09-18T19:37:21.304+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Anthropic",
     "title": "Accounting, Revenue Internal Controls",
     "location": "San Francisco, CA | Seattle, WA",
@@ -530,9 +542,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-28T14:44:00-04:00",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -542,9 +554,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+    "posted_at": "2026-08-28T14:44:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -560,18 +572,6 @@
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 8,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "National Security Partnerships Lead, Intelligence and International Security",
-    "location": "New York City, NY; Remote-Friendly, United States; San Francisco, CA; Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5427236008",
-    "posted_at": "2026-09-17T20:01:15-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 10,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -1380,16 +1380,28 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Retell AI",
+    "title": "Enterprise Account Manager",
+    "location": "San Francisco Bay Area",
+    "url": "https://jobs.ashbyhq.com/retell-ai/21574bc5-a161-432d-92c6-7b61a66c6572",
+    "posted_at": "2026-09-19T01:41:33.514+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Metaview",
-    "title": "Engagement Manager, SMB",
+    "title": "Engagement Associate",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/metaview/3efdf40c-9971-4a93-a00a-5c0f4f30ab5a",
     "posted_at": "2026-04-01T14:18:02.459+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
+    "min_years": 1,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Metaview",
