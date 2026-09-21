@@ -1392,18 +1392,6 @@
     "match_reason": "min_years_2"
   },
   {
-    "company": "Canva",
-    "title": "International Strategy Lead",
-    "location": "London",
-    "url": "https://www.lifeatcanva.com/en/jobs/6000000001349178/international-strategy-lead/",
-    "posted_at": "2026-08-25",
-    "source": "generic",
-    "careers_url": "https://www.canva.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
@@ -1429,15 +1417,15 @@
   },
   {
     "company": "Metaview",
-    "title": "Engagement Manager, SMB",
+    "title": "Engagement Associate",
     "location": "London",
     "url": "https://jobs.ashbyhq.com/metaview/8e857bb1-bc1b-4b55-b894-df07d273284f",
     "posted_at": "2026-04-15T10:55:23.557+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
+    "min_years": 1,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Metaview",
@@ -1486,6 +1474,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Photoroom",
+    "title": "Senior People Ops Manager (International)",
+    "location": "Paris",
+    "url": "https://jobs.ashbyhq.com/photoroom/a04099ab-5e85-4f1e-9e2b-9f95f7785ffe",
+    "posted_at": "2026-09-21T17:27:19.081+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
   },
   {
     "company": "Photoroom",
