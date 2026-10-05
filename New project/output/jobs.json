@@ -445,18 +445,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "[DH] Engineering Manager, AI Observability",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5429202008",
-    "posted_at": "2026-09-23T01:29:14-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
     "title": "Director, US International Tax",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358120008",
@@ -1222,6 +1210,18 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Notion",
+    "title": "Payroll Analyst",
+    "location": "San Francisco, California",
+    "url": "https://jobs.ashbyhq.com/notion/92de7ece-b7d9-4b2a-b9cb-b978cc690a46",
+    "posted_at": "2026-10-02T19:56:09.176+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.notion.so/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Customer.io",
