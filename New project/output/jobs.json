@@ -780,6 +780,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Replit",
+    "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
+    "posted_at": "2026-10-08T17:34:51.757+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise",
     "location": "Austin",
@@ -862,6 +874,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cursor",
+    "title": "Forward Deployed Engineer - EMEA",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/cursor/0a82f564-de1b-4c72-9ba4-10cf2b63c483",
+    "posted_at": "2026-10-08T13:52:24.671+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Cursor",
@@ -1217,6 +1241,18 @@
     "location": "Americas Remote",
     "url": "https://job-boards.greenhouse.io/customerio/jobs/8227145",
     "posted_at": "2026-09-24T19:36:07-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
+    "title": "Mid-Market Account Executive, EMEA",
+    "location": "EMEA Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8140000",
+    "posted_at": "2026-10-08T10:34:02-04:00",
     "source": "greenhouse",
     "careers_url": "https://customer.io/careers",
     "min_years": 2,
@@ -1589,18 +1625,6 @@
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/crosby/c5f2752b-e436-4357-bae5-f3c012393c32",
     "posted_at": "2026-04-23T01:12:52.681+00:00",
-    "source": "ashby",
-    "careers_url": "https://crosby.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Crosby",
-    "title": "Writer",
-    "location": "New York City",
-    "url": "https://jobs.ashbyhq.com/crosby/8c6e6dfb-bca7-4678-94c8-e0cac9075e83",
-    "posted_at": "2026-06-23T17:29:42.357+00:00",
     "source": "ashby",
     "careers_url": "https://crosby.ai/careers",
     "min_years": 2,
@@ -2047,6 +2071,30 @@
     "posted_at": "2026-09-15T14:06:34-04:00",
     "source": "greenhouse",
     "careers_url": "https://otter.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Otter.ai",
+    "title": "Software Engineer, Front-End (New Grad)",
+    "location": "Mountain View, CA",
+    "url": "https://otter.ai/careers?gh_jid=8016078003",
+    "posted_at": "2026-10-07T15:23:45-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://otter.ai/careers",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Read AI",
+    "title": "Product Designer - Growth",
+    "location": "Read AI - Seattle HQ",
+    "url": "https://jobs.ashbyhq.com/read-ai/28f8d16a-949b-4523-b8e3-3ef57386ef2b",
+    "posted_at": "2026-10-08T17:32:16.179+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.read.ai/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
