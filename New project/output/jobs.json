@@ -235,7 +235,7 @@
     "posted_at": "2026-09-30T18:51:29.926+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
-    "min_years": 3,
+    "min_years": 6,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -649,6 +649,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Recruiter, International Business",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5447973008",
+    "posted_at": "2026-10-09T04:32:01-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 4,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Solutions Marketing Lead, Public Sector",
     "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Washington, DC",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008",
@@ -781,7 +793,7 @@
   },
   {
     "company": "Replit",
-    "title": "Software Engineering Intern \u2013 Winter 2027 (U.S. Based)",
+    "title": "Software Engineering Intern \u2013 Winter 2027",
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
     "posted_at": "2026-10-08T17:34:51.757+00:00",
@@ -946,6 +958,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Cursor",
+    "title": "Forward Deployed Engineer - Japan",
+    "location": "Japan",
+    "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3",
+    "posted_at": "2026-10-09T16:36:47.552+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Lorikeet",
@@ -1237,6 +1261,18 @@
   },
   {
     "company": "Customer.io",
+    "title": "Email Deliverability Specialist",
+    "location": "Americas Remote",
+    "url": "https://job-boards.greenhouse.io/customerio/jobs/8265912",
+    "posted_at": "2026-10-08T20:13:52-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://customer.io/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Customer.io",
     "title": "Mid-Market Account Executive, Americas",
     "location": "Americas Remote",
     "url": "https://job-boards.greenhouse.io/customerio/jobs/8227145",
@@ -1493,6 +1529,18 @@
     "location": "New York City",
     "url": "https://jobs.ashbyhq.com/metaview/4d8ebb9a-ccfe-4289-b232-41e017f9054f",
     "posted_at": "2026-08-07T15:30:52.104+00:00",
+    "source": "ashby",
+    "careers_url": "https://metaview.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Metaview",
+    "title": "Strategic Finance",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/metaview/9913e123-4528-43ca-af97-fdcefea4693e",
+    "posted_at": "2026-10-09T17:29:29.103+00:00",
     "source": "ashby",
     "careers_url": "https://metaview.ai/careers",
     "min_years": 2,
@@ -2045,6 +2093,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/serval/b7420eb0-fd51-45a7-91d0-36443e8e04b7",
     "posted_at": "2026-09-23T19:08:27.067+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Serval",
+    "title": "People Generalist",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/serval/8e55fa91-1800-461c-bb10-1a13891a3242",
+    "posted_at": "2026-10-08T20:29:11.602+00:00",
     "source": "ashby",
     "careers_url": "https://serval.com/careers",
     "min_years": 2,
