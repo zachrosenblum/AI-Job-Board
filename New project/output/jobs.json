@@ -757,18 +757,6 @@
   },
   {
     "company": "Replit",
-    "title": "Software Engineer - New Grad (2027)",
-    "location": "Foster City, CA",
-    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
-    "posted_at": "2026-09-09T18:23:24.396+00:00",
-    "source": "ashby",
-    "careers_url": "https://replit.com/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Replit",
     "title": "Software Engineering Intern \u2013 Winter 2027",
     "location": "Foster City, CA",
     "url": "https://jobs.ashbyhq.com/replit/7c3c9d29-cec2-4367-8564-eadaed165aea",
@@ -2107,30 +2095,6 @@
     "posted_at": "2026-09-23T19:08:27.067+00:00",
     "source": "ashby",
     "careers_url": "https://serval.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Sales Development Representative",
-    "location": "Phoenix, Arizona, United States",
-    "url": "https://otter.ai/careers?gh_jid=7788985003",
-    "posted_at": "2026-09-28T14:22:56-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Otter.ai",
-    "title": "Software Engineer, Backend (Infrastructure)",
-    "location": "Mountain View, CA",
-    "url": "https://otter.ai/careers?gh_jid=6531803003",
-    "posted_at": "2026-09-15T14:06:34-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://otter.ai/careers",
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
