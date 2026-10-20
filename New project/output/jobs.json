@@ -553,6 +553,30 @@
   },
   {
     "company": "Anthropic",
+    "title": "International Compensation Partner",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
+    "posted_at": "2026-10-20T10:40:47-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
+    "title": "International Compensation Partner",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
+    "posted_at": "2026-10-20T10:40:11-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": null,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "International Indirect Tax, VAT/GST",
     "location": "Dublin, IE",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5358118008",
@@ -602,9 +626,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+    "posted_at": "2026-08-28T14:44:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -614,9 +638,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-28T14:44:00-04:00",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -1450,6 +1474,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Canva",
+    "title": "SEO Outreach Specialist - Spain (12 month contract)",
+    "location": "Madrid",
+    "url": "https://www.lifeatcanva.com/en/jobs/6000000001317047/seo-outreach-specialist-spain-12-month-contract/",
+    "posted_at": "2026-08-14",
+    "source": "generic",
+    "careers_url": "https://www.canva.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Metaview",
