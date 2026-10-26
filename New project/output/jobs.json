@@ -484,7 +484,7 @@
     "title": "Internal Communications, GTM",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442842008",
-    "posted_at": "2026-10-22T12:57:52-04:00",
+    "posted_at": "2026-10-26T12:25:04-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 15,
@@ -518,9 +518,9 @@
   {
     "company": "Anthropic",
     "title": "International Compensation Partner",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
-    "posted_at": "2026-10-20T10:40:47-04:00",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
+    "posted_at": "2026-10-20T10:40:11-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -530,9 +530,9 @@
   {
     "company": "Anthropic",
     "title": "International Compensation Partner",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
-    "posted_at": "2026-10-20T10:40:11-04:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
+    "posted_at": "2026-10-20T10:40:47-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -646,18 +646,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Solutions Marketing Lead, Public Sector",
-    "location": "San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385586008",
-    "posted_at": "2026-10-23T17:40:42-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Anthropic",
@@ -982,6 +970,42 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Forward Deployed Product Manager",
+    "location": "New York City (US-Onsite)",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/fe8203b0-447b-41ca-aad2-5eef39640f97",
+    "posted_at": "2026-10-25T19:47:58.514+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Mid-Market Account Executive",
+    "location": "US - Remote",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/d61db179-9d0e-417b-b0c9-f739814a86e1",
+    "posted_at": "2026-10-25T22:31:10.826+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Lorikeet",
+    "title": "Forward Deployed Product Manager",
+    "location": "US - Remote",
+    "url": "https://jobs.ashbyhq.com/Lorikeet/078c3133-7512-4f62-9b34-fda0434a09e1",
+    "posted_at": "2026-10-25T20:06:35.140+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.lorikeetcx.ai/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Notion",
@@ -1597,18 +1621,6 @@
   },
   {
     "company": "Photoroom",
-    "title": "Product ML Engineer",
-    "location": "Paris",
-    "url": "https://jobs.ashbyhq.com/photoroom/1073f2ae-906a-42ae-bb5f-96981a2555cf",
-    "posted_at": "2026-08-15T10:41:29.039+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Photoroom",
     "title": "Senior People Ops Manager (International)",
     "location": "Paris",
     "url": "https://jobs.ashbyhq.com/photoroom/12001ea8-3725-4ac7-a5dc-cb2165678223",
@@ -1618,6 +1630,18 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
+  },
+  {
+    "company": "Photoroom",
+    "title": "Product ML Engineer",
+    "location": "Paris",
+    "url": "https://jobs.ashbyhq.com/photoroom/41ba8841-a50e-49a2-947a-15dff61bbd55",
+    "posted_at": "2026-10-26T14:55:43.907+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Solve Intelligence",
@@ -2053,7 +2077,7 @@
   },
   {
     "company": "Serval",
-    "title": "Mid-Market Account Executive",
+    "title": "Account Executive, Mid Market - West",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/serval/77514f30-6a54-4bb3-b9aa-28b86f6ce7c6",
     "posted_at": "2025-10-21T05:13:36.912+00:00",
@@ -2189,6 +2213,30 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/serval/b7420eb0-fd51-45a7-91d0-36443e8e04b7",
     "posted_at": "2026-09-23T19:08:27.067+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Serval",
+    "title": "Customer Experience Lead",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/serval/290b5665-54ed-483d-8835-d28209b7f682",
+    "posted_at": "2026-10-26T15:19:41.685+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Serval",
+    "title": "Account Executive, Mid-Market - Central",
+    "location": "Austin",
+    "url": "https://jobs.ashbyhq.com/serval/7c2bffa0-c7f1-408a-89c8-9f75d035a41c",
+    "posted_at": "2026-10-26T13:55:12.423+00:00",
     "source": "ashby",
     "careers_url": "https://serval.com/careers",
     "min_years": 2,
