@@ -518,9 +518,9 @@
   {
     "company": "Anthropic",
     "title": "International Compensation Partner",
-    "location": "Dublin, IE",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
-    "posted_at": "2026-10-20T10:40:11-04:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
+    "posted_at": "2026-10-20T10:40:47-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -530,9 +530,9 @@
   {
     "company": "Anthropic",
     "title": "International Compensation Partner",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5458322008",
-    "posted_at": "2026-10-20T10:40:47-04:00",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5452859008",
+    "posted_at": "2026-10-20T10:40:11-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": null,
@@ -862,18 +862,6 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
-    "title": "Sales Development Representative",
-    "location": "London",
-    "url": "https://jobs.ashbyhq.com/cursor/7b0b5994-5405-419c-bdca-c7b7ca05b613",
-    "posted_at": "2026-09-16T19:03:53.612+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Cursor",
@@ -1524,6 +1512,18 @@
     "match_reason": "min_years_2"
   },
   {
+    "company": "Retell AI",
+    "title": "Mandarin-speaking: Software Engineer (Contract)",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/retell-ai/8581013a-f981-47aa-84a0-de548976b2ef",
+    "posted_at": "2026-10-27T17:47:59.155+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.retellai.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Metaview",
     "title": "Engagement Associate",
     "location": "San Francisco",
@@ -2110,18 +2110,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Serval",
-    "title": "Field Marketing Manager",
-    "location": "New York",
-    "url": "https://jobs.ashbyhq.com/serval/3b07d547-c45e-4a54-8f45-39951d0a7f49",
-    "posted_at": "2026-08-27T15:45:02.992+00:00",
-    "source": "ashby",
-    "careers_url": "https://serval.com/careers",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
   },
   {
     "company": "Serval",
