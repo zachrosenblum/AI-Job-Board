@@ -349,18 +349,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Applied AI Architect, International Policy",
-    "location": "San Francisco, CA | New York City, NY | Washington, DC",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439830008",
-    "posted_at": "2026-09-30T11:52:56-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 4,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "Data Center Asset Management, Commercial Associate",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5468352008",
@@ -445,6 +433,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Google Cloud GTM Partnerships Lead, EMEA",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008",
+    "posted_at": "2026-11-04T13:38:29-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Internal Communications, GTM",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442842008",
@@ -506,9 +506,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
+    "posted_at": "2026-11-03T16:54:03-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -521,6 +521,30 @@
     "location": "London, UK",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
     "posted_at": "2026-08-28T14:44:00-04:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Manager, Forward Deployed Engineering",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+    "posted_at": "2026-11-04T05:15:20-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Manager, Forward Deployed Engineering",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -581,18 +605,6 @@
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5412734008",
     "posted_at": "2026-10-12T14:31:57-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Staff+ Software Engineer, Developer Experience",
-    "location": "San Francisco, CA | New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5398218008",
-    "posted_at": "2026-08-21T12:50:02-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -674,7 +686,7 @@
   {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise",
-    "location": "Austin",
+    "location": "Austin, TX",
     "url": "https://jobs.ashbyhq.com/cursor/03b454f2-c586-48cb-a19c-5fc57be55f43",
     "posted_at": "2026-09-22T01:53:50.752+00:00",
     "source": "ashby",
@@ -686,7 +698,7 @@
   {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - San Francisco",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/61e4677d-cf3d-458a-bf6c-02287d5d2c39",
     "posted_at": "2026-03-31T18:16:02.502+00:00",
     "source": "ashby",
@@ -698,7 +710,7 @@
   {
     "company": "Cursor",
     "title": "Software Engineer, Compute Infra",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56",
     "posted_at": "2026-10-22T19:53:00.965+00:00",
     "source": "ashby",
@@ -710,7 +722,7 @@
   {
     "company": "Cursor",
     "title": "Account Executive, Commercial Expansion - San Francisco",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/85c98417-583b-412e-b31a-e4052195b703",
     "posted_at": "2026-05-06T21:49:36.507+00:00",
     "source": "ashby",
@@ -722,7 +734,7 @@
   {
     "company": "Cursor",
     "title": "Account Executive, Geo Enterprise - New York",
-    "location": "New York",
+    "location": "New York, NY",
     "url": "https://jobs.ashbyhq.com/cursor/1240b4aa-8074-4afb-ae36-a690869c8233",
     "posted_at": "2026-08-27T18:29:21.888+00:00",
     "source": "ashby",
@@ -734,7 +746,7 @@
   {
     "company": "Cursor",
     "title": "Sales Development Representative - San Francisco",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/dbdccf8f-cc8f-4701-94ea-5d0a33efad80",
     "posted_at": "2026-08-28T00:20:40.955+00:00",
     "source": "ashby",
@@ -746,7 +758,7 @@
   {
     "company": "Cursor",
     "title": "Forward Deployed Engineer",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/34cecd0c-c392-4454-8ef5-261310541011",
     "posted_at": "2026-10-06T20:10:13.873+00:00",
     "source": "ashby",
@@ -758,7 +770,7 @@
   {
     "company": "Cursor",
     "title": "Sales Development Representative - New York",
-    "location": "New York",
+    "location": "New York, NY",
     "url": "https://jobs.ashbyhq.com/cursor/8dc2a190-cde2-4c81-a1a8-bd1bc264a8fb",
     "posted_at": "2026-08-28T00:17:18.304+00:00",
     "source": "ashby",
@@ -781,7 +793,7 @@
   },
   {
     "company": "Cursor",
-    "title": "Forward Deployed Engineer",
+    "title": "Forward Deployed Engineer (Australia)",
     "location": "Australia",
     "url": "https://jobs.ashbyhq.com/cursor/44264403-5674-40b7-8b8d-e60b0a86e9ec",
     "posted_at": "2026-10-14T02:56:58.130+00:00",
@@ -794,7 +806,7 @@
   {
     "company": "Cursor",
     "title": "Account Executive, Commercial Expansion - New York",
-    "location": "New York",
+    "location": "New York, NY",
     "url": "https://jobs.ashbyhq.com/cursor/1d56ed97-eee3-406d-91e2-7feed88ce6f0",
     "posted_at": "2026-08-26T17:19:54.836+00:00",
     "source": "ashby",
@@ -806,7 +818,7 @@
   {
     "company": "Cursor",
     "title": "Software Engineer, New Grad 2027",
-    "location": "San Francisco",
+    "location": "San Francisco, CA",
     "url": "https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b",
     "posted_at": "2026-09-08T23:51:35.588+00:00",
     "source": "ashby",
@@ -833,6 +845,18 @@
     "location": "Japan",
     "url": "https://jobs.ashbyhq.com/cursor/38bd03a3-3d65-4868-87df-cb248d0a45e3",
     "posted_at": "2026-10-09T16:36:47.552+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.cursor.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Cursor",
+    "title": "ISV / Technology Marketplace Partner Manager",
+    "location": "San Francisco, CA",
+    "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a",
+    "posted_at": "2026-11-04T17:13:07.664+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 2,
@@ -1462,18 +1486,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Photoroom",
-    "title": "Product ML Engineer",
-    "location": "Paris",
-    "url": "https://jobs.ashbyhq.com/photoroom/41ba8841-a50e-49a2-947a-15dff61bbd55",
-    "posted_at": "2026-10-26T14:55:43.907+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.photoroom.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Solve Intelligence",
