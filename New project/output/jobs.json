@@ -169,18 +169,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Internal Communications, Enterprise & Growth",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/dcbb011b-bc0f-41e6-b3c6-34068d177e54",
-    "posted_at": "2026-09-22T17:11:51.737+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 3,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Account Associate - SF",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/55f36629-8351-41d9-b2f5-3d63c5e26bf7",
@@ -221,6 +209,18 @@
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/ac371165-c2b3-4289-9e97-0abc68287b91",
     "posted_at": "2026-08-10T03:31:03.213+00:00",
+    "source": "ashby",
+    "careers_url": "https://openai.com/careers/search",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "OpenAI",
+    "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
+    "location": "Singapore",
+    "url": "https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15",
+    "posted_at": "2026-11-11T01:05:49.148+00:00",
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 2,
@@ -301,18 +301,6 @@
   },
   {
     "company": "OpenAI",
-    "title": "Internal Communications, Research and Product",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/83ef2875-3b91-4f4d-88c5-68317e56d039",
-    "posted_at": "2026-09-22T22:06:11.250+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 5,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
     "title": "Strategic Finance, Ads",
     "location": "San Francisco",
     "url": "https://jobs.ashbyhq.com/openai/04c7b3d3-8523-41a2-8f84-39a739ebf207",
@@ -332,18 +320,6 @@
     "source": "ashby",
     "careers_url": "https://openai.com/careers/search",
     "min_years": 6,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "OpenAI",
-    "title": "Internal Communications Lead,  Enterprise & Growth",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/openai/5d5a4116-b409-4676-b357-7094ad87d15d",
-    "posted_at": "2026-10-05T23:09:57.908+00:00",
-    "source": "ashby",
-    "careers_url": "https://openai.com/careers/search",
-    "min_years": 1,
     "entry_level": true,
     "match_reason": "entry_title"
   },
@@ -505,6 +481,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "Google Cloud GTM Partnerships Lead, EMEA",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5449880008",
+    "posted_at": "2026-11-11T07:28:42-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
     "title": "Internal Communications, GTM",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442842008",
@@ -565,6 +553,18 @@
   },
   {
     "company": "Anthropic",
+    "title": "International Infrastructure Accounting",
+    "location": "Dublin, IE",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5475136008",
+    "posted_at": "2026-11-11T05:18:15-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 10,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
+    "company": "Anthropic",
     "title": "Legal Specialist, Law Enforcement",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5474559008",
@@ -590,9 +590,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Munich, Germany",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
-    "posted_at": "2026-11-03T16:54:03-05:00",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+    "posted_at": "2026-11-04T05:15:20-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -626,9 +626,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Paris, France",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
-    "posted_at": "2026-11-04T05:15:20-05:00",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
+    "posted_at": "2026-11-03T16:54:03-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -1045,18 +1045,6 @@
   },
   {
     "company": "Lorikeet",
-    "title": "Software Engineer",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/4c8048f2-49a7-43b9-b950-2f70c6d3e371",
-    "posted_at": "2026-11-04T23:47:01.797+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Lorikeet",
     "title": "Forward Deployed Engineer Intern",
     "location": "Sydney, Australia HQ",
     "url": "https://jobs.ashbyhq.com/Lorikeet/62f54845-4529-4562-aa9b-24a95c46b0c0",
@@ -1066,18 +1054,6 @@
     "min_years": null,
     "entry_level": true,
     "match_reason": "entry_title"
-  },
-  {
-    "company": "Lorikeet",
-    "title": "Forward Deployed Product Manager",
-    "location": "New York City (US-Onsite)",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/fe8203b0-447b-41ca-aad2-5eef39640f97",
-    "posted_at": "2026-10-25T19:47:58.514+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Lorikeet",
@@ -2052,6 +2028,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Cognition",
+    "title": "Head of Internal Events",
+    "location": "San Francisco",
+    "url": "https://jobs.ashbyhq.com/cognition/118ac51d-3d39-4587-9054-ab4cd5844765",
+    "posted_at": "2026-11-05T13:45:37.265+00:00",
+    "source": "ashby",
+    "careers_url": "https://cognition.ai/careers",
+    "min_years": 3,
+    "entry_level": true,
+    "match_reason": "entry_title"
+  },
+  {
     "company": "OpusClip",
     "title": "AI Product Management Intern",
     "location": "Mountain View",
@@ -2261,6 +2249,18 @@
     "location": "Austin",
     "url": "https://jobs.ashbyhq.com/Serval/7c2bffa0-c7f1-408a-89c8-9f75d035a41c",
     "posted_at": "2026-10-26T13:55:12.423+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Serval",
+    "title": "Senior Field Marketing Manager, Public Sector",
+    "location": "Remote",
+    "url": "https://jobs.ashbyhq.com/Serval/7f3abeef-2fef-4682-9bf3-2da13fd25710",
+    "posted_at": "2026-11-10T22:39:28.583+00:00",
     "source": "ashby",
     "careers_url": "https://serval.com/careers",
     "min_years": 2,
