@@ -254,9 +254,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Munich, Germany",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
-    "posted_at": "2026-11-03T16:54:03-05:00",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+    "posted_at": "2026-11-04T05:15:20-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -266,9 +266,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Paris, France",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
-    "posted_at": "2026-11-04T05:15:20-05:00",
+    "location": "Munich, Germany",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
+    "posted_at": "2026-11-03T16:54:03-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -841,18 +841,6 @@
   },
   {
     "company": "Notion",
-    "title": "Strategic Finance, AI & Business Partnership",
-    "location": "San Francisco, California",
-    "url": "https://jobs.ashbyhq.com/notion/4e7b3471-20b7-4a37-8455-8b2735bfaf26",
-    "posted_at": "2026-09-30T21:24:37.822+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
     "title": "Manager, Forward Deployed Engineer",
     "location": "London, United Kingdom",
     "url": "https://jobs.ashbyhq.com/notion/0439c4a6-7a8e-4ffa-8cfd-28ce373acbd5",
@@ -1296,6 +1284,18 @@
     "match_reason": "entry_title"
   },
   {
+    "company": "Photoroom",
+    "title": "Product ML Engineer",
+    "location": "Paris",
+    "url": "https://jobs.ashbyhq.com/photoroom/866bdfdb-a1d8-4d68-b9d1-66219f5f2d59",
+    "posted_at": "2026-11-15T16:28:48.608+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.photoroom.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Solve Intelligence",
     "title": "AI Engineer",
     "location": "London",
@@ -1361,6 +1361,18 @@
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/solveintelligence/efed75b8-88f6-4fe7-aac6-bca09f3d247c",
     "posted_at": "2026-08-07T10:10:23.562+00:00",
+    "source": "ashby",
+    "careers_url": "https://www.solveintelligence.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Solve Intelligence",
+    "title": "Talent Acquisition Partner",
+    "location": "London",
+    "url": "https://jobs.ashbyhq.com/solveintelligence/12ce834c-fbc1-485a-8dd4-741977f6739b",
+    "posted_at": "2026-11-15T17:31:00.755+00:00",
     "source": "ashby",
     "careers_url": "https://www.solveintelligence.com/careers",
     "min_years": 2,
