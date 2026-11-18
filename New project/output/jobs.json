@@ -49,18 +49,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Engineering Manager, GPU (ML Accelerator)",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/4741104008",
-    "posted_at": "2026-08-21T12:49:37-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 1,
-    "entry_level": false,
-    "match_reason": "min_years_1"
-  },
-  {
-    "company": "Anthropic",
     "title": "Engineering Manager, Growth",
     "location": "San Francisco, CA | New York City, NY | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5361472008",
@@ -230,9 +218,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-28T14:44:00-04:00",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+    "posted_at": "2026-11-04T05:15:20-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -254,9 +242,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Paris, France",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
-    "posted_at": "2026-11-04T05:15:20-05:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+    "posted_at": "2026-08-28T14:44:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -589,18 +577,6 @@
   },
   {
     "company": "Lorikeet",
-    "title": "Forward Deployed Engineer Intern",
-    "location": "Sydney, Australia HQ",
-    "url": "https://jobs.ashbyhq.com/Lorikeet/62f54845-4529-4562-aa9b-24a95c46b0c0",
-    "posted_at": "2026-10-23T07:15:51.000+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.lorikeetcx.ai/careers",
-    "min_years": null,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Lorikeet",
     "title": "Mid-Market Account Executive",
     "location": "US - Remote",
     "url": "https://jobs.ashbyhq.com/Lorikeet/d61db179-9d0e-417b-b0c9-f739814a86e1",
@@ -769,7 +745,7 @@
   },
   {
     "company": "Notion",
-    "title": "Commercial Counsel, Enterprise",
+    "title": "Commercial Counsel",
     "location": "San Francisco, California",
     "url": "https://jobs.ashbyhq.com/notion/a92eb06e-8ef3-4118-b496-94f3cdf8005d",
     "posted_at": "2026-09-01T20:42:55.037+00:00",
@@ -869,18 +845,6 @@
     "location": "New York, New York",
     "url": "https://jobs.ashbyhq.com/notion/45f60d0e-e44f-40c5-985e-4096a8966860",
     "posted_at": "2026-10-21T18:45:02.761+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.notion.so/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Notion",
-    "title": "Onboarding Enablement Manager, APAC",
-    "location": "Tokyo, Japan",
-    "url": "https://jobs.ashbyhq.com/notion/a356be47-4b45-41c8-9fc9-9e3754d337bc",
-    "posted_at": "2026-11-05T01:36:35.919+00:00",
     "source": "ashby",
     "careers_url": "https://www.notion.so/careers",
     "min_years": 2,
@@ -1368,6 +1332,18 @@
     "match_reason": "min_years_1"
   },
   {
+    "company": "Descript",
+    "title": "Field Marketing Manager",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/descript/jobs/8208515003?gh_jid=8208515003",
+    "posted_at": "2026-11-18T13:29:57-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.descript.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
     "company": "Cognition",
     "title": "Founding Recruiting Operations Coordinator - APJ",
     "location": "Singapore",
@@ -1378,18 +1354,6 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
-  },
-  {
-    "company": "Cognition",
-    "title": "Applied AI Transformation Manager",
-    "location": "San Francisco",
-    "url": "https://jobs.ashbyhq.com/cognition/ca40e489-d1cb-4a8a-b761-ec3a67c8fda6",
-    "posted_at": "2025-07-11T03:24:44.018+00:00",
-    "source": "ashby",
-    "careers_url": "https://cognition.ai/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
   },
   {
     "company": "Cognition",
