@@ -25,18 +25,6 @@
   },
   {
     "company": "Anthropic",
-    "title": "Director, US International Tax Planning",
-    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5387009008",
-    "posted_at": "2026-11-17T12:07:13-05:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 15,
-    "entry_level": true,
-    "match_reason": "entry_title"
-  },
-  {
-    "company": "Anthropic",
     "title": "Engineering Manager, Agent Runtime Platform",
     "location": "San Francisco, CA | New York City, NY",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5316593008",
@@ -206,18 +194,6 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
-    "source": "greenhouse",
-    "careers_url": "https://www.anthropic.com/careers/jobs",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Anthropic",
-    "title": "Manager, Forward Deployed Engineering",
     "location": "Paris, France",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
     "posted_at": "2026-11-04T05:15:20-05:00",
@@ -233,6 +209,18 @@
     "location": "Munich, Germany",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5442048008",
     "posted_at": "2026-11-03T16:54:03-05:00",
+    "source": "greenhouse",
+    "careers_url": "https://www.anthropic.com/careers/jobs",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
+  },
+  {
+    "company": "Anthropic",
+    "title": "Manager, Forward Deployed Engineering",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -425,18 +413,6 @@
     "location": "London",
     "url": "https://jobs.ashbyhq.com/cursor/c4afc6fd-b8c8-413f-9010-0000323304aa",
     "posted_at": "2026-11-09T21:10:30.362+00:00",
-    "source": "ashby",
-    "careers_url": "https://www.cursor.com/careers",
-    "min_years": 2,
-    "entry_level": false,
-    "match_reason": "min_years_2"
-  },
-  {
-    "company": "Cursor",
-    "title": "ISV / Technology Marketplace Partner Manager",
-    "location": "San Francisco, CA",
-    "url": "https://jobs.ashbyhq.com/cursor/1d3a2047-4739-479b-914d-377046f0fd1a",
-    "posted_at": "2026-11-04T17:13:07.664+00:00",
     "source": "ashby",
     "careers_url": "https://www.cursor.com/careers",
     "min_years": 2,
@@ -904,7 +880,7 @@
     "title": "Associate Account Executive, UK & Ireland",
     "location": "EMEA Remote",
     "url": "https://job-boards.greenhouse.io/customerio/jobs/8353047",
-    "posted_at": "2026-11-17T13:21:23-05:00",
+    "posted_at": "2026-11-18T20:24:57-05:00",
     "source": "greenhouse",
     "careers_url": "https://customer.io/careers",
     "min_years": 1,
@@ -1513,7 +1489,7 @@
   },
   {
     "company": "Serval",
-    "title": "Sales Manager, Mid-Market - East",
+    "title": "Sales Manager, Mid-Market",
     "location": "New York",
     "url": "https://jobs.ashbyhq.com/Serval/0ba1342d-9714-4653-a2bd-bb1cccb89ad1",
     "posted_at": "2026-01-31T00:49:15.818+00:00",
@@ -1618,6 +1594,18 @@
     "min_years": 1,
     "entry_level": false,
     "match_reason": "min_years_1"
+  },
+  {
+    "company": "Serval",
+    "title": "Sales Manager, Majors - East",
+    "location": "New York",
+    "url": "https://jobs.ashbyhq.com/Serval/974fee4c-14e3-4e54-8cf1-933fe6730202",
+    "posted_at": "2026-11-19T14:21:32.457+00:00",
+    "source": "ashby",
+    "careers_url": "https://serval.com/careers",
+    "min_years": 2,
+    "entry_level": false,
+    "match_reason": "min_years_2"
   },
   {
     "company": "Serval",
