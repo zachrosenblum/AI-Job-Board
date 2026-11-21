@@ -566,9 +566,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "London, UK",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
-    "posted_at": "2026-08-28T14:44:00-04:00",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
+    "posted_at": "2026-08-31T15:59:18-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -590,9 +590,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5099753008",
-    "posted_at": "2026-08-31T15:59:18-04:00",
+    "location": "Paris, France",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
+    "posted_at": "2026-11-04T05:15:20-05:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -602,9 +602,9 @@
   {
     "company": "Anthropic",
     "title": "Manager, Forward Deployed Engineering",
-    "location": "Paris, France",
-    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5471721008",
-    "posted_at": "2026-11-04T05:15:20-05:00",
+    "location": "London, UK",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5385634008",
+    "posted_at": "2026-08-28T14:44:00-04:00",
     "source": "greenhouse",
     "careers_url": "https://www.anthropic.com/careers/jobs",
     "min_years": 2,
@@ -742,6 +742,18 @@
     "min_years": 2,
     "entry_level": false,
     "match_reason": "min_years_2"
+  },
+  {
+    "company": "Replit",
+    "title": "Administrative Assistant",
+    "location": "Foster City, CA",
+    "url": "https://jobs.ashbyhq.com/replit/e3d91c87-8f27-46eb-8666-0d6c1564797a",
+    "posted_at": "2026-11-20T22:05:42.226+00:00",
+    "source": "ashby",
+    "careers_url": "https://replit.com/careers",
+    "min_years": 1,
+    "entry_level": false,
+    "match_reason": "min_years_1"
   },
   {
     "company": "Cursor",
